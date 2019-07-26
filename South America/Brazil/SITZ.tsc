@@ -1,0 +1,35 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Fazenda MRV]>
+        <[string8][lname][Fazenda MRV, Brazil]>
+        <[string8][icao][SITZ]>
+        <[string8][country][br]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-43.359722 -14.917778]>
+        <[float64][height][522.1]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][15]>
+			<[tmvector2d][threshold1][-43.364050 -14.914454]>
+			<[tmvector2d][endpoint1][-43.364050 -14.914454]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][33]>
+			<[tmvector2d][threshold2][-43.355394 -14.921101]>
+			<[tmvector2d][endpoint2][-43.355394 -14.921101]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][29.87]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

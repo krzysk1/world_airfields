@@ -1,0 +1,35 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Menno]>
+        <[string8][lname][Menno, Brazil]>
+        <[string8][icao][SD29]>
+        <[string8][country][br]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-97.553122 43.244435]>
+        <[float64][height][411.5]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][08]>
+			<[tmvector2d][threshold1][-97.557352 43.244274]>
+			<[tmvector2d][endpoint1][-97.557352 43.244274]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][26]>
+			<[tmvector2d][threshold2][-97.548891 43.244597]>
+			<[tmvector2d][endpoint2][-97.548891 43.244597]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][28.65]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

@@ -1,0 +1,50 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Taurus Mesa]>
+        <[string8][lname][Taurus Mesa]>
+        <[string8][icao][E44]>
+        <[string8][country][]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-103.679351 29.621019]>
+        <[float64][height][1090.0]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][17]>
+			<[tmvector2d][threshold1][-103.679450 29.625955]>
+			<[tmvector2d][endpoint1][-103.679450 29.625955]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][35]>
+			<[tmvector2d][threshold2][-103.679252 29.616082]>
+			<[tmvector2d][endpoint2][-103.679252 29.616082]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][18.29]>
+		  >
+		  <[tmsimulator_runway][element][1]
+			<[string8][name1][08]>
+			<[tmvector2d][threshold1][-103.684399 29.620942]>
+			<[tmvector2d][endpoint1][-103.684399 29.620942]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][26]>
+			<[tmvector2d][threshold2][-103.674303 29.621095]>
+			<[tmvector2d][endpoint2][-103.674303 29.621095]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][22.86]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

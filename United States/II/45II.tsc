@@ -1,0 +1,35 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Cummings Field]>
+        <[string8][lname][Cummings Field, II]>
+        <[string8][icao][45II]>
+        <[string8][country][us]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-86.585852 41.633655]>
+        <[float64][height][243.8]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][18]>
+			<[tmvector2d][threshold1][-86.585916 41.636398]>
+			<[tmvector2d][endpoint1][-86.585916 41.636398]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][36]>
+			<[tmvector2d][threshold2][-86.585788 41.630913]>
+			<[tmvector2d][endpoint2][-86.585788 41.630913]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][45.72]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

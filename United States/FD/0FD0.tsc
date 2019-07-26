@@ -1,0 +1,35 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Big G]>
+        <[string8][lname][Big G, FD]>
+        <[string8][icao][0FD0]>
+        <[string8][country][us]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-81.230061 29.267479]>
+        <[float64][height][12.2]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][09]>
+			<[tmvector2d][threshold1][-81.236341 29.267192]>
+			<[tmvector2d][endpoint1][-81.236341 29.267192]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][27]>
+			<[tmvector2d][threshold2][-81.223781 29.267767]>
+			<[tmvector2d][endpoint2][-81.223781 29.267767]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][22.86]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

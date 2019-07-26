@@ -1,0 +1,35 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Sao Luiz]>
+        <[string8][lname][Sao Luiz, Brazil]>
+        <[string8][icao][SNSD]>
+        <[string8][country][br]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-45.714444 -12.919444]>
+        <[float64][height][812.0]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][09]>
+			<[tmvector2d][threshold1][-45.719584 -12.921487]>
+			<[tmvector2d][endpoint1][-45.719584 -12.921487]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][27]>
+			<[tmvector2d][threshold2][-45.709305 -12.917401]>
+			<[tmvector2d][endpoint2][-45.709305 -12.917401]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][20.12]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

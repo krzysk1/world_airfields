@@ -1,0 +1,50 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][MERCEDES BUENOS AIRES]>
+        <[string8][lname][MERCEDES BUENOS AIRES, Argentina]>
+        <[string8][icao][SA9M]>
+        <[string8][country][ar]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-59.455278 -34.638889]>
+        <[float64][height][41.8]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][01]>
+			<[tmvector2d][threshold1][-59.455900 -34.642415]>
+			<[tmvector2d][endpoint1][-59.455900 -34.642415]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][19]>
+			<[tmvector2d][threshold2][-59.454656 -34.635362]>
+			<[tmvector2d][endpoint2][-59.454656 -34.635362]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][22.86]>
+		  >
+		  <[tmsimulator_runway][element][1]
+			<[string8][name1][09]>
+			<[tmvector2d][threshold1][-59.458236 -34.638889]>
+			<[tmvector2d][endpoint1][-59.458236 -34.638889]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][27]>
+			<[tmvector2d][threshold2][-59.452320 -34.638889]>
+			<[tmvector2d][endpoint2][-59.452320 -34.638889]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][29.87]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

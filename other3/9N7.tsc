@@ -1,0 +1,35 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Farmers Pride]>
+        <[string8][lname][Farmers Pride]>
+        <[string8][icao][9N7]>
+        <[string8][country][]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-76.441627 40.442868]>
+        <[float64][height][150.9]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][10]>
+			<[tmvector2d][threshold1][-76.447771 40.442787]>
+			<[tmvector2d][endpoint1][-76.447771 40.442787]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][28]>
+			<[tmvector2d][threshold2][-76.435483 40.442950]>
+			<[tmvector2d][endpoint2][-76.435483 40.442950]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][45.72]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

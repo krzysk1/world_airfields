@@ -1,0 +1,35 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Fazenda Barriguda]>
+        <[string8][lname][Fazenda Barriguda, Brazil]>
+        <[string8][icao][SJGY]>
+        <[string8][country][br]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-46.735833 -13.707778]>
+        <[float64][height][598.9]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][11]>
+			<[tmvector2d][threshold1][-46.739538 -13.707864]>
+			<[tmvector2d][endpoint1][-46.739538 -13.707864]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][29]>
+			<[tmvector2d][threshold2][-46.732129 -13.707692]>
+			<[tmvector2d][endpoint2][-46.732129 -13.707692]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][29.87]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

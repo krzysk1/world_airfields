@@ -1,0 +1,50 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Calico Field]>
+        <[string8][lname][Calico Field, Brazil]>
+        <[string8][icao][SD03]>
+        <[string8][country][br]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-97.335066 44.050529]>
+        <[float64][height][533.4]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][09]>
+			<[tmvector2d][threshold1][-97.337433 44.050738]>
+			<[tmvector2d][endpoint1][-97.337433 44.050738]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][27]>
+			<[tmvector2d][threshold2][-97.332698 44.050321]>
+			<[tmvector2d][endpoint2][-97.332698 44.050321]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][30.48]>
+		  >
+		  <[tmsimulator_runway][element][1]
+			<[string8][name1][18]>
+			<[tmvector2d][threshold1][-97.334775 44.052231]>
+			<[tmvector2d][endpoint1][-97.334775 44.052231]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][36]>
+			<[tmvector2d][threshold2][-97.335356 44.048828]>
+			<[tmvector2d][endpoint2][-97.335356 44.048828]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][30.48]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

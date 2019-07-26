@@ -1,0 +1,35 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Endelave]>
+        <[string8][lname][Endelave, Denmark]>
+        <[string8][icao][EKEL]>
+        <[string8][country][dk]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][10.248688 55.756759]>
+        <[float64][height][1.8]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][11]>
+			<[tmvector2d][threshold1][10.244114 55.757888]>
+			<[tmvector2d][endpoint1][10.244114 55.757888]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][29]>
+			<[tmvector2d][threshold2][10.253263 55.755630]>
+			<[tmvector2d][endpoint2][10.253263 55.755630]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][24.99]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

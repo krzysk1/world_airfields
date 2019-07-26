@@ -1,0 +1,40 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Kyren]>
+        <[string8][lname][Kyren, Russia]>
+        <[string8][icao][UIIN]>
+        <[string8][country][ru]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][102.159325 51.678025]>
+        <[float64][height][749.8]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][9]>
+			<[tmvector2d][threshold1][102.146660 51.678167]>
+			<[tmvector2d][endpoint1][102.146660 51.678167]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][27]>
+			<[tmvector2d][threshold2][102.171990 51.677883]>
+			<[tmvector2d][endpoint2][102.171990 51.677883]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][35.05]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		  <[tmsimulator_parking_position][element][0]
+			<[tmvector2d][position][102.168494 51.677253]>
+			<[float64][heading][1.00]>
+			<[string8][name][Ramp Start]>
+		  >
+		>
+    >
+>

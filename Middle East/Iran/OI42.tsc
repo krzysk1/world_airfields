@@ -1,0 +1,35 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][D. A. Chandler]>
+        <[string8][lname][D. A. Chandler, Iran]>
+        <[string8][icao][OI42]>
+        <[string8][country][ir]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-82.460725 41.132831]>
+        <[float64][height][289.6]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][09]>
+			<[tmvector2d][threshold1][-82.464347 41.132545]>
+			<[tmvector2d][endpoint1][-82.464347 41.132545]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][27]>
+			<[tmvector2d][threshold2][-82.457103 41.133118]>
+			<[tmvector2d][endpoint2][-82.457103 41.133118]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][22.86]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

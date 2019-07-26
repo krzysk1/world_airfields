@@ -1,0 +1,35 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Fly In Ranches]>
+        <[string8][lname][Fly In Ranches, Eswatini]>
+        <[string8][icao][FD25]>
+        <[string8][country][sz]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-80.499776 27.562535]>
+        <[float64][height][7.6]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][36]>
+			<[tmvector2d][threshold1][-80.499614 27.559796]>
+			<[tmvector2d][endpoint1][-80.499614 27.559796]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][18]>
+			<[tmvector2d][threshold2][-80.499938 27.565274]>
+			<[tmvector2d][endpoint2][-80.499938 27.565274]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][30.48]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

@@ -1,0 +1,35 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Delta Flying Service Inc]>
+        <[string8][lname][Delta Flying Service Inc, El Salvador]>
+        <[string8][icao][MS65]>
+        <[string8][country][sv]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-90.200095 34.950096]>
+        <[float64][height][64.0]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][18]>
+			<[tmvector2d][threshold1][-90.199943 34.953659]>
+			<[tmvector2d][endpoint1][-90.199943 34.953659]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][36]>
+			<[tmvector2d][threshold2][-90.200247 34.946532]>
+			<[tmvector2d][endpoint2][-90.200247 34.946532]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][30.48]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

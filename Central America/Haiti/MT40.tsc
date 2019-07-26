@@ -1,0 +1,35 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Horner Field]>
+        <[string8][lname][Horner Field, Haiti]>
+        <[string8][icao][MT40]>
+        <[string8][country][ht]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-111.271915 47.591348]>
+        <[float64][height][1045.5]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][03]>
+			<[tmvector2d][threshold1][-111.278757 47.587045]>
+			<[tmvector2d][endpoint1][-111.278757 47.587045]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][21]>
+			<[tmvector2d][threshold2][-111.265074 47.595651]>
+			<[tmvector2d][endpoint2][-111.265074 47.595651]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][18.29]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

@@ -1,0 +1,35 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Posto de Protecao Ambiental Sao Joaqui]>
+        <[string8][lname][Posto de Protecao Ambiental Sao Joaqui, Brazil]>
+        <[string8][icao][SWWX]>
+        <[string8][country][br]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-56.370000 -16.746111]>
+        <[float64][height][103.0]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][01]>
+			<[tmvector2d][threshold1][-56.369630 -16.749676]>
+			<[tmvector2d][endpoint1][-56.369630 -16.749676]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][19]>
+			<[tmvector2d][threshold2][-56.370370 -16.742547]>
+			<[tmvector2d][endpoint2][-56.370370 -16.742547]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][17.98]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

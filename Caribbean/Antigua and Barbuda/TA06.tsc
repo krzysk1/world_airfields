@@ -1,0 +1,35 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Morris Manor]>
+        <[string8][lname][Morris Manor, Antigua and Barbuda]>
+        <[string8][icao][TA06]>
+        <[string8][country][ag]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-95.805796 33.161225]>
+        <[float64][height][185.9]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][17]>
+			<[tmvector2d][threshold1][-95.806024 33.163961]>
+			<[tmvector2d][endpoint1][-95.806024 33.163961]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][35]>
+			<[tmvector2d][threshold2][-95.805567 33.158488]>
+			<[tmvector2d][endpoint2][-95.805567 33.158488]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][15.24]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

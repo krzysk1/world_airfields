@@ -1,0 +1,35 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Peterson Field]>
+        <[string8][lname][Peterson Field]>
+        <[string8][icao][7A9]>
+        <[string8][country][]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-84.372136 32.090439]>
+        <[float64][height][160.3]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][18]>
+			<[tmvector2d][threshold1][-84.372319 32.094899]>
+			<[tmvector2d][endpoint1][-84.372319 32.094899]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][36]>
+			<[tmvector2d][threshold2][-84.371952 32.085979]>
+			<[tmvector2d][endpoint2][-84.371952 32.085979]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][70.10]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

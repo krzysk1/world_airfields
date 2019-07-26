@@ -1,0 +1,35 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][FOREST LAKE]>
+        <[string8][lname][FOREST LAKE]>
+        <[string8][icao][25D]>
+        <[string8][country][]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-92.994685 45.247981]>
+        <[float64][height][281.9]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][13]>
+			<[tmvector2d][threshold1][-92.998258 45.250594]>
+			<[tmvector2d][endpoint1][-92.998258 45.250594]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][31]>
+			<[tmvector2d][threshold2][-92.991111 45.245367]>
+			<[tmvector2d][endpoint2][-92.991111 45.245367]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][45.72]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

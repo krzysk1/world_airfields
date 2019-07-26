@@ -1,0 +1,35 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][G 225]>
+        <[string8][lname][G 225, South Korea]>
+        <[string8][icao][RK35]>
+        <[string8][country][kr]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][126.976561 38.018911]>
+        <[float64][height][42.1]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][05]>
+			<[tmvector2d][threshold1][126.975086 38.017836]>
+			<[tmvector2d][endpoint1][126.975086 38.017836]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][23]>
+			<[tmvector2d][threshold2][126.978036 38.019986]>
+			<[tmvector2d][endpoint2][126.978036 38.019986]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][12.19]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

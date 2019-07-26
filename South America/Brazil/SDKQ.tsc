@@ -1,0 +1,35 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Fazenda Sao Joao]>
+        <[string8][lname][Fazenda Sao Joao, Brazil]>
+        <[string8][icao][SDKQ]>
+        <[string8][country][br]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-49.066667 -20.216667]>
+        <[float64][height][509.9]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][11]>
+			<[tmvector2d][threshold1][-49.070215 -20.216656]>
+			<[tmvector2d][endpoint1][-49.070215 -20.216656]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][29]>
+			<[tmvector2d][threshold2][-49.063118 -20.216678]>
+			<[tmvector2d][endpoint2][-49.063118 -20.216678]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][20.12]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

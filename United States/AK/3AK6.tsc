@@ -1,0 +1,35 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][B & B Boys Ranch]>
+        <[string8][lname][B & B Boys Ranch, AK]>
+        <[string8][icao][3AK6]>
+        <[string8][country][us]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-149.266669 61.592794]>
+        <[float64][height][91.4]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][05]>
+			<[tmvector2d][threshold1][-149.268618 61.592546]>
+			<[tmvector2d][endpoint1][-149.268618 61.592546]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][23]>
+			<[tmvector2d][threshold2][-149.264719 61.593043]>
+			<[tmvector2d][endpoint2][-149.264719 61.593043]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][7.62]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

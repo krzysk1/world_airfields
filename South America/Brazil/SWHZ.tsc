@@ -1,0 +1,35 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Fazenda Taquarucu Retiro]>
+        <[string8][lname][Fazenda Taquarucu Retiro, Brazil]>
+        <[string8][icao][SWHZ]>
+        <[string8][country][br]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-55.965556 -10.338611]>
+        <[float64][height][307.8]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][18]>
+			<[tmvector2d][threshold1][-55.966608 -10.335150]>
+			<[tmvector2d][endpoint1][-55.966608 -10.335150]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][36]>
+			<[tmvector2d][threshold2][-55.964503 -10.342072]>
+			<[tmvector2d][endpoint2][-55.964503 -10.342072]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][20.12]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

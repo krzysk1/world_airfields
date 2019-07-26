@@ -1,0 +1,65 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Smith]>
+        <[string8][lname][Smith, Bermuda]>
+        <[string8][icao][TX51]>
+        <[string8][country][bm]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-96.329424 32.200149]>
+        <[float64][height][123.4]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][36]>
+			<[tmvector2d][threshold1][-96.329796 32.197148]>
+			<[tmvector2d][endpoint1][-96.329796 32.197148]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][18]>
+			<[tmvector2d][threshold2][-96.329051 32.203150]>
+			<[tmvector2d][endpoint2][-96.329051 32.203150]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][15.24]>
+		  >
+		  <[tmsimulator_runway][element][1]
+			<[string8][name1][09]>
+			<[tmvector2d][threshold1][-96.332767 32.200446]>
+			<[tmvector2d][endpoint1][-96.332767 32.200446]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][27]>
+			<[tmvector2d][threshold2][-96.326081 32.199852]>
+			<[tmvector2d][endpoint2][-96.326081 32.199852]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][15.24]>
+		  >
+		  <[tmsimulator_runway][element][2]
+			<[string8][name1][32]>
+			<[tmvector2d][threshold1][-96.327771 32.198422]>
+			<[tmvector2d][endpoint1][-96.327771 32.198422]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][14]>
+			<[tmvector2d][threshold2][-96.331076 32.201876]>
+			<[tmvector2d][endpoint2][-96.331076 32.201876]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][15.24]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

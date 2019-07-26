@@ -1,0 +1,50 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][ILLIZI]>
+        <[string8][lname][ILLIZI, Algeria]>
+        <[string8][icao][DA10]>
+        <[string8][country][dz]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][8.483410 26.573656]>
+        <[float64][height][541.9]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][09]>
+			<[tmvector2d][threshold1][8.471533 26.574592]>
+			<[tmvector2d][endpoint1][8.471533 26.574592]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][27]>
+			<[tmvector2d][threshold2][8.495286 26.572719]>
+			<[tmvector2d][endpoint2][8.495286 26.572719]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][53.34]>
+		  >
+		  <[tmsimulator_runway][element][1]
+			<[string8][name1][05]>
+			<[tmvector2d][threshold1][8.479356 26.570731]>
+			<[tmvector2d][endpoint1][8.479356 26.570731]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][23]>
+			<[tmvector2d][threshold2][8.492833 26.579744]>
+			<[tmvector2d][endpoint2][8.492833 26.579744]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][60.05]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

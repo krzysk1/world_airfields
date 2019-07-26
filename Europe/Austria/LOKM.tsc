@@ -1,0 +1,35 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Mayerhofen]>
+        <[string8][lname][Mayerhofen, Austria]>
+        <[string8][icao][LOKM]>
+        <[string8][country][at]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][14.372000 46.977000]>
+        <[float64][height][646.2]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][06]>
+			<[tmvector2d][threshold1][14.369719 46.976097]>
+			<[tmvector2d][endpoint1][14.369719 46.976097]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][24]>
+			<[tmvector2d][threshold2][14.374281 46.977903]>
+			<[tmvector2d][endpoint2][14.374281 46.977903]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][29.87]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

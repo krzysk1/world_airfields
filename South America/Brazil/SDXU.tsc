@@ -1,0 +1,35 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Fazenda Aracatuba]>
+        <[string8][lname][Fazenda Aracatuba, Brazil]>
+        <[string8][icao][SDXU]>
+        <[string8][country][br]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-51.251667 -21.343333]>
+        <[float64][height][427.0]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][13]>
+			<[tmvector2d][threshold1][-51.255689 -21.341739]>
+			<[tmvector2d][endpoint1][-51.255689 -21.341739]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][31]>
+			<[tmvector2d][threshold2][-51.247644 -21.344928]>
+			<[tmvector2d][endpoint2][-51.247644 -21.344928]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][24.99]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

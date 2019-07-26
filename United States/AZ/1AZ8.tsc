@@ -1,0 +1,35 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Willow Springs Ranch]>
+        <[string8][lname][Willow Springs Ranch, AZ]>
+        <[string8][icao][1AZ8]>
+        <[string8][country][us]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-114.373016 35.295830]>
+        <[float64][height][1143.0]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][13]>
+			<[tmvector2d][threshold1][-114.375584 35.298715]>
+			<[tmvector2d][endpoint1][-114.375584 35.298715]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][31]>
+			<[tmvector2d][threshold2][-114.370448 35.292945]>
+			<[tmvector2d][endpoint2][-114.370448 35.292945]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][15.24]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

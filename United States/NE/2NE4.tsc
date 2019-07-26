@@ -1,0 +1,65 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Spring Lake]>
+        <[string8][lname][Spring Lake, NE]>
+        <[string8][icao][2NE4]>
+        <[string8][country][us]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-102.133795 42.449990]>
+        <[float64][height][1162.8]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][09]>
+			<[tmvector2d][threshold1][-102.137456 42.450467]>
+			<[tmvector2d][endpoint1][-102.137456 42.450467]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][27]>
+			<[tmvector2d][threshold2][-102.130134 42.449514]>
+			<[tmvector2d][endpoint2][-102.130134 42.449514]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][18.29]>
+		  >
+		  <[tmsimulator_runway][element][1]
+			<[string8][name1][05]>
+			<[tmvector2d][threshold1][-102.136536 42.448574]>
+			<[tmvector2d][endpoint1][-102.136536 42.448574]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][23]>
+			<[tmvector2d][threshold2][-102.131054 42.451406]>
+			<[tmvector2d][endpoint2][-102.131054 42.451406]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][18.29]>
+		  >
+		  <[tmsimulator_runway][element][2]
+			<[string8][name1][36]>
+			<[tmvector2d][threshold1][-102.134215 42.448234]>
+			<[tmvector2d][endpoint1][-102.134215 42.448234]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][18]>
+			<[tmvector2d][threshold2][-102.133375 42.451746]>
+			<[tmvector2d][endpoint2][-102.133375 42.451746]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][18.29]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

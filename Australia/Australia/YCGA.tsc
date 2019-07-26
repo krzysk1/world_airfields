@@ -1,0 +1,100 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Canungra International]>
+        <[string8][lname][Canungra International, Australia]>
+        <[string8][icao][YCGA]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][153.116609 -27.935951]>
+        <[float64][height][61.6]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][15]>
+			<[tmvector2d][threshold1][153.118003 -27.938928]>
+			<[tmvector2d][endpoint1][153.118003 -27.938928]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][33]>
+			<[tmvector2d][threshold2][153.115215 -27.932974]>
+			<[tmvector2d][endpoint2][153.115215 -27.932974]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][14.94]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		  <[tmsimulator_parking_position][element][0]
+			<[tmvector2d][position][153.115609 -27.938893]>
+			<[float64][heading][78.69]>
+			<[string8][name][GA Ramp 10]>
+		  >
+		  <[tmsimulator_parking_position][element][1]
+			<[tmvector2d][position][153.116955 -27.938468]>
+			<[float64][heading][356.27]>
+			<[string8][name][GA Ramp 11]>
+		  >
+		  <[tmsimulator_parking_position][element][2]
+			<[tmvector2d][position][153.116365 -27.938554]>
+			<[float64][heading][347.07]>
+			<[string8][name][GA Ramp 11]>
+		  >
+		  <[tmsimulator_parking_position][element][3]
+			<[tmvector2d][position][153.116555 -27.938521]>
+			<[float64][heading][1.10]>
+			<[string8][name][GA Ramp 12]>
+		  >
+		  <[tmsimulator_parking_position][element][4]
+			<[tmvector2d][position][153.116433 -27.938204]>
+			<[float64][heading][166.35]>
+			<[string8][name][GA Ramp 12]>
+		  >
+		  <[tmsimulator_parking_position][element][5]
+			<[tmvector2d][position][153.116608 -27.938061]>
+			<[float64][heading][166.35]>
+			<[string8][name][GA Ramp 13]>
+		  >
+		  <[tmsimulator_parking_position][element][6]
+			<[tmvector2d][position][153.116811 -27.938026]>
+			<[float64][heading][166.35]>
+			<[string8][name][GA Ramp 14]>
+		  >
+		  <[tmsimulator_parking_position][element][7]
+			<[tmvector2d][position][153.117004 -27.937984]>
+			<[float64][heading][166.35]>
+			<[string8][name][GA Ramp 15]>
+		  >
+		  <[tmsimulator_parking_position][element][8]
+			<[tmvector2d][position][153.117194 -27.937956]>
+			<[float64][heading][166.35]>
+			<[string8][name][GA Ramp 16]>
+		  >
+		  <[tmsimulator_parking_position][element][9]
+			<[tmvector2d][position][153.116768 -27.938484]>
+			<[float64][heading][349.12]>
+			<[string8][name][GA Ramp 7]>
+		  >
+		  <[tmsimulator_parking_position][element][10]
+			<[tmvector2d][position][153.117153 -27.938418]>
+			<[float64][heading][356.34]>
+			<[string8][name][GA Ramp 8]>
+		  >
+		  <[tmsimulator_parking_position][element][11]
+			<[tmvector2d][position][153.115500 -27.938164]>
+			<[float64][heading][103.67]>
+			<[string8][name][Gate 11]>
+		  >
+		  <[tmsimulator_parking_position][element][12]
+			<[tmvector2d][position][153.116826 -27.937654]>
+			<[float64][heading][242.61]>
+			<[string8][name][Military Ramp 9]>
+		  >
+		>
+    >
+>

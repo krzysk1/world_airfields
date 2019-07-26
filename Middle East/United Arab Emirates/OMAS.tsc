@@ -1,0 +1,35 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][DAS ISLAND]>
+        <[string8][lname][DAS ISLAND, United Arab Emirates]>
+        <[string8][icao][OMAS]>
+        <[string8][country][ae]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][52.873711 25.146221]>
+        <[float64][height][3.7]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][15]>
+			<[tmvector2d][threshold1][52.870853 25.150297]>
+			<[tmvector2d][endpoint1][52.870853 25.150297]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][left]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][33]>
+			<[tmvector2d][threshold2][52.876569 25.142144]>
+			<[tmvector2d][endpoint2][52.876569 25.142144]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][left]>
+			<[string8]   [reil2][omni]>
+			<[float64][width][29.87]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

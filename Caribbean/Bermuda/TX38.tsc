@@ -1,0 +1,35 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Duke Ranch]>
+        <[string8][lname][Duke Ranch, Bermuda]>
+        <[string8][icao][TX38]>
+        <[string8][country][bm]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-100.343193 36.379479]>
+        <[float64][height][824.5]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][17]>
+			<[tmvector2d][threshold1][-100.343257 36.382413]>
+			<[tmvector2d][endpoint1][-100.343257 36.382413]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][35]>
+			<[tmvector2d][threshold2][-100.343130 36.376544]>
+			<[tmvector2d][endpoint2][-100.343130 36.376544]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][19.81]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

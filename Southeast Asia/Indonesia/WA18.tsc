@@ -1,0 +1,35 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Decatur Jones]>
+        <[string8][lname][Decatur Jones, Indonesia]>
+        <[string8][icao][WA18]>
+        <[string8][country][id]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-122.802956 48.510102]>
+        <[float64][height][38.1]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][01]>
+			<[tmvector2d][threshold1][-122.804555 48.508338]>
+			<[tmvector2d][endpoint1][-122.804555 48.508338]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][19]>
+			<[tmvector2d][threshold2][-122.801356 48.511865]>
+			<[tmvector2d][endpoint2][-122.801356 48.511865]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][15.24]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

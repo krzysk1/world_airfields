@@ -1,0 +1,40 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][SAVANNAH DOWNS]>
+        <[string8][lname][SAVANNAH DOWNS, Australia]>
+        <[string8][icao][YSAD]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][141.776512 -19.462685]>
+        <[float64][height][100.9]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][16]>
+			<[tmvector2d][threshold1][141.776028 -19.460197]>
+			<[tmvector2d][endpoint1][141.776028 -19.460197]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][34]>
+			<[tmvector2d][threshold2][141.776996 -19.465173]>
+			<[tmvector2d][endpoint2][141.776996 -19.465173]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][22.86]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		  <[tmsimulator_parking_position][element][0]
+			<[tmvector2d][position][141.775760 -19.460296]>
+			<[float64][heading][86.45]>
+			<[string8][name][New Ramp Start 7]>
+		  >
+		>
+    >
+>

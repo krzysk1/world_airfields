@@ -1,0 +1,50 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Hudgins Farm]>
+        <[string8][lname][Hudgins Farm, India]>
+        <[string8][icao][VA90]>
+        <[string8][country][in]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-76.413557 37.496803]>
+        <[float64][height][13.1]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][09]>
+			<[tmvector2d][threshold1][-76.415777 37.496524]>
+			<[tmvector2d][endpoint1][-76.415777 37.496524]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][27]>
+			<[tmvector2d][threshold2][-76.411337 37.497082]>
+			<[tmvector2d][endpoint2][-76.411337 37.497082]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][24.38]>
+		  >
+		  <[tmsimulator_runway][element][1]
+			<[string8][name1][18]>
+			<[tmvector2d][threshold1][-76.413827 37.498158]>
+			<[tmvector2d][endpoint1][-76.413827 37.498158]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][36]>
+			<[tmvector2d][threshold2][-76.413287 37.495448]>
+			<[tmvector2d][endpoint2][-76.413287 37.495448]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][24.38]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

@@ -1,0 +1,35 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Conley Field]>
+        <[string8][lname][Conley Field, MN]>
+        <[string8][icao][55MN]>
+        <[string8][country][us]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-93.335504 45.835238]>
+        <[float64][height][306.0]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][36]>
+			<[tmvector2d][threshold1][-93.335772 45.831677]>
+			<[tmvector2d][endpoint1][-93.335772 45.831677]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][18]>
+			<[tmvector2d][threshold2][-93.335236 45.838798]>
+			<[tmvector2d][endpoint2][-93.335236 45.838798]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][21.34]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

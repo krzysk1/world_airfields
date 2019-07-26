@@ -1,0 +1,50 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Sarreguemines Neunkirch]>
+        <[string8][lname][Sarreguemines Neunkirch, France]>
+        <[string8][icao][LFGU]>
+        <[string8][country][fr]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][7.104966 49.130149]>
+        <[float64][height][260.0]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][06L]>
+			<[tmvector2d][threshold1][7.100969 49.128318]>
+			<[tmvector2d][endpoint1][7.100969 49.128318]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][24R]>
+			<[tmvector2d][threshold2][7.108963 49.131980]>
+			<[tmvector2d][endpoint2][7.108963 49.131980]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][149.96]>
+		  >
+		  <[tmsimulator_runway][element][1]
+			<[string8][name1][06R]>
+			<[tmvector2d][threshold1][7.102316 49.127326]>
+			<[tmvector2d][endpoint1][7.102316 49.127326]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][24L]>
+			<[tmvector2d][threshold2][7.110310 49.130988]>
+			<[tmvector2d][endpoint2][7.110310 49.130988]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][79.86]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

@@ -1,0 +1,35 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Williard Nycum Rla]>
+        <[string8][lname][Williard Nycum Rla, Israel]>
+        <[string8][icao][LL08]>
+        <[string8][country][il]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-89.951512 42.098634]>
+        <[float64][height][240.8]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][36]>
+			<[tmvector2d][threshold1][-89.951576 42.095906]>
+			<[tmvector2d][endpoint1][-89.951576 42.095906]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][18]>
+			<[tmvector2d][threshold2][-89.951448 42.101363]>
+			<[tmvector2d][endpoint2][-89.951448 42.101363]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][27.13]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

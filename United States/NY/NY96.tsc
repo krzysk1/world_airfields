@@ -1,0 +1,35 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Mexico Airdrome]>
+        <[string8][lname][Mexico Airdrome, NY]>
+        <[string8][icao][NY96]>
+        <[string8][country][us]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-76.193816 43.426736]>
+        <[float64][height][143.3]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][12]>
+			<[tmvector2d][threshold1][-76.197947 43.427711]>
+			<[tmvector2d][endpoint1][-76.197947 43.427711]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][30]>
+			<[tmvector2d][threshold2][-76.189685 43.425761]>
+			<[tmvector2d][endpoint2][-76.189685 43.425761]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][15.24]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>

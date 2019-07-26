@@ -1,0 +1,35 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Sao Jose do Jacuipe]>
+        <[string8][lname][Sao Jose do Jacuipe, Brazil]>
+        <[string8][icao][SNJH]>
+        <[string8][country][br]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-40.042222 -11.452778]>
+        <[float64][height][424.0]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		  <[tmsimulator_runway][element][0]
+			<[string8][name1][10]>
+			<[tmvector2d][threshold1][-40.047367 -11.453956]>
+			<[tmvector2d][endpoint1][-40.047367 -11.453956]>
+			<[string8]   [appltsys1][none]>
+			<[string8]   [papi1][none]>
+			<[string8]   [reil1][none]>
+			<[string8][name2][28]>
+			<[tmvector2d][threshold2][-40.037078 -11.451600]>
+			<[tmvector2d][endpoint2][-40.037078 -11.451600]>
+			<[string8]   [appltsys2][none]>
+			<[string8]   [papi2][none]>
+			<[string8]   [reil2][none]>
+			<[float64][width][29.87]>
+		  >
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+    >
+>
