@@ -1,0 +1,46 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][MEMBINUP]>
+        <[string8][lname][MEMBINUP, Australia]>
+        <[string8][icao][YMBP]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][122.613297 -33.876611]>
+        <[float64][height][53.0]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][122.615822 -33.880075]>
+        <[float64][tower_height][54.9]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][14]>
+                <[tmvector2d][threshold1][122.610363 -33.873313]>
+                <[tmvector2d][endpoint1][122.610363 -33.873313]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][32]>
+                <[tmvector2d][threshold2][122.616230 -33.879910]>
+                <[tmvector2d][endpoint2][122.616230 -33.879910]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][14.02]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][122.616007 -33.880086]>
+                <[float64][heading][38.34]>
+                <[string8][name][New Ramp Start 27]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

@@ -1,0 +1,46 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][OLD BAR]>
+        <[string8][lname][OLD BAR, Australia]>
+        <[string8][icao][YOBR]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][152.591145 -31.965815]>
+        <[float64][height][11.3]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][152.590607 -31.967967]>
+        <[float64][tower_height][13.1]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][1]>
+                <[tmvector2d][threshold1][152.590991 -31.968478]>
+                <[tmvector2d][endpoint1][152.590991 -31.968478]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][19]>
+                <[tmvector2d][threshold2][152.591298 -31.963152]>
+                <[tmvector2d][endpoint2][152.591298 -31.963152]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][49.99]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][152.590636 -31.968204]>
+                <[float64][heading][114.48]>
+                <[string8][name][New Ramp Start 11]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

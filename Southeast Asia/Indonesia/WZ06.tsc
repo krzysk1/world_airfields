@@ -1,0 +1,41 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Hulu Tayan (MAF)]>
+        <[string8][lname][Hulu Tayan (MAF), Indonesia]>
+        <[string8][icao][WZ06]>
+        <[string8][country][id]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][110.115669 -0.030533]>
+        <[float64][height][11.9]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][110.115669 -0.031189]>
+        <[float64][tower_height][13.7]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][09]>
+                <[tmvector2d][threshold1][110.114095 -0.030533]>
+                <[tmvector2d][endpoint1][110.114095 -0.030533]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][27]>
+                <[tmvector2d][threshold2][110.117243 -0.030533]>
+                <[tmvector2d][endpoint2][110.117243 -0.030533]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][24.99]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

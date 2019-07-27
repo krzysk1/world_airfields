@@ -1,0 +1,46 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Gordon]>
+        <[string8][lname][Gordon, AU]>
+        <[string8][icao][AU34]>
+        <[string8][country][us]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][149.320741 -22.992150]>
+        <[float64][height][110.9]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][149.319625 -22.992499]>
+        <[float64][tower_height][112.8]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][3]>
+                <[tmvector2d][threshold1][149.317483 -22.995932]>
+                <[tmvector2d][endpoint1][149.317483 -22.995932]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][21]>
+                <[tmvector2d][threshold2][149.323998 -22.988369]>
+                <[tmvector2d][endpoint2][149.323998 -22.988369]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][32.92]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][149.319885 -22.992777]>
+                <[float64][heading][105.39]>
+                <[string8][name][New Ramp Start 2]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

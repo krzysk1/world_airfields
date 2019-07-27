@@ -1,0 +1,56 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Locksley Field]>
+        <[string8][lname][Locksley Field, Australia]>
+        <[string8][icao][YLCS]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][145.348956 -36.813555]>
+        <[float64][height][164.6]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][145.347122 -36.813906]>
+        <[float64][tower_height][166.4]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][1]>
+                <[tmvector2d][threshold1][145.345914 -36.820651]>
+                <[tmvector2d][endpoint1][145.345914 -36.820651]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][19]>
+                <[tmvector2d][threshold2][145.351998 -36.806459]>
+                <[tmvector2d][endpoint2][145.351998 -36.806459]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][113.08]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][145.345995 -36.820496]>
+                <[float64][heading][18.18]>
+                <[string8][name][Glider Launch 01]>
+            >
+            <[tmsimulator_parking_position][element][1]
+                <[tmvector2d][position][145.351973 -36.806562]>
+                <[float64][heading][199.80]>
+                <[string8][name][Glider Launch 19]>
+            >
+            <[tmsimulator_parking_position][element][2]
+                <[tmvector2d][position][145.347120 -36.814111]>
+                <[float64][heading][36.87]>
+                <[string8][name][New Ramp Start 1]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

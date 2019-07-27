@@ -1,0 +1,41 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Kota Pinang/Asam Jawa (Caltex)]>
+        <[string8][lname][Kota Pinang/Asam Jawa (Caltex), Indonesia]>
+        <[string8][icao][WZ50]>
+        <[string8][country][id]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][100.118355 1.867767]>
+        <[float64][height][18.0]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][100.119028 1.865918]>
+        <[float64][tower_height][19.8]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][07]>
+                <[tmvector2d][threshold1][100.114745 1.866454]>
+                <[tmvector2d][endpoint1][100.114745 1.866454]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][25]>
+                <[tmvector2d][threshold2][100.121966 1.869080]>
+                <[tmvector2d][endpoint2][100.121966 1.869080]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][74.98]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

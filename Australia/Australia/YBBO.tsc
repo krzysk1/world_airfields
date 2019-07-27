@@ -1,0 +1,61 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][BON BON]>
+        <[string8][lname][BON BON, Australia]>
+        <[string8][icao][YBBO]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][135.479515 -30.407601]>
+        <[float64][height][157.0]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][135.476009 -30.412169]>
+        <[float64][tower_height][158.8]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][2]>
+                <[tmvector2d][threshold1][135.476809 -30.412034]>
+                <[tmvector2d][endpoint1][135.476809 -30.412034]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][20]>
+                <[tmvector2d][threshold2][135.482220 -30.403169]>
+                <[tmvector2d][endpoint2][135.482220 -30.403169]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][49.99]>
+            >
+            <[tmsimulator_runway][element][1]
+                <[string8][name1][15]>
+                <[tmvector2d][threshold1][135.479765 -30.399453]>
+                <[tmvector2d][endpoint1][135.479765 -30.399453]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][33]>
+                <[tmvector2d][threshold2][135.482502 -30.404129]>
+                <[tmvector2d][endpoint2][135.482502 -30.404129]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][49.99]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][135.476980 -30.411988]>
+                <[float64][heading][0.00]>
+                <[string8][name][New Ramp Start 27]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

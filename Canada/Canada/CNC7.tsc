@@ -1,0 +1,51 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Nipissing on 654]>
+        <[string8][lname][Nipissing on 654, Canada]>
+        <[string8][icao][CNC7]>
+        <[string8][country][ca]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-79.492793 46.110947]>
+        <[float64][height][210.3]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][-79.490627 46.108791]>
+        <[float64][tower_height][216.4]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][17L]>
+                <[tmvector2d][threshold1][-79.493866 46.112680]>
+                <[tmvector2d][endpoint1][-79.493866 46.112680]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][35R]>
+                <[tmvector2d][threshold2][-79.491720 46.109215]>
+                <[tmvector2d][endpoint2][-79.491720 46.109215]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][17.98]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][-79.490914 46.108865]>
+                <[float64][heading][241.96]>
+                <[string8][name][Hanger TieDown]>
+            >
+            <[tmsimulator_parking_position][element][1]
+                <[tmvector2d][position][-79.491921 46.109021]>
+                <[float64][heading][341.24]>
+                <[string8][name][Water Strip]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

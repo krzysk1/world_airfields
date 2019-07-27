@@ -1,0 +1,61 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Harden Airstrip]>
+        <[string8][lname][Harden Airstrip, NE]>
+        <[string8][icao][49NE]>
+        <[string8][country][us]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-100.731053 41.053894]>
+        <[float64][height][916.2]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][-100.733375 41.053353]>
+        <[float64][tower_height][918.1]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][14]>
+                <[tmvector2d][threshold1][-100.728297 41.051653]>
+                <[tmvector2d][endpoint1][-100.728297 41.051653]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][32]>
+                <[tmvector2d][threshold2][-100.733809 41.056134]>
+                <[tmvector2d][endpoint2][-100.733809 41.056134]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][29.87]>
+            >
+            <[tmsimulator_runway][element][1]
+                <[string8][name1][18]>
+                <[tmvector2d][threshold1][-100.733927 41.054369]>
+                <[tmvector2d][endpoint1][-100.733927 41.054369]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][36]>
+                <[tmvector2d][threshold2][-100.731744 41.060865]>
+                <[tmvector2d][endpoint2][-100.731744 41.060865]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][24.08]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][-100.732784 41.054611]>
+                <[float64][heading][69.44]>
+                <[string8][name][New Ramp Start 38]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

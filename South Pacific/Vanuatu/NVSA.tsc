@@ -1,0 +1,46 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Mota Lava]>
+        <[string8][lname][Mota Lava, Vanuatu]>
+        <[string8][icao][NVSA]>
+        <[string8][country][vu]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][167.711243 -13.666037]>
+        <[float64][height][19.2]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][167.712427 -13.668893]>
+        <[float64][tower_height][21.0]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][14]>
+                <[tmvector2d][threshold1][167.708773 -13.662284]>
+                <[tmvector2d][endpoint1][167.708773 -13.662284]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][32]>
+                <[tmvector2d][threshold2][167.713713 -13.669790]>
+                <[tmvector2d][endpoint2][167.713713 -13.669790]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][28.04]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][167.712396 -13.668821]>
+                <[float64][heading][45.72]>
+                <[string8][name][New Ramp Start 43]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

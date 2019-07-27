@@ -1,0 +1,46 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][River Kwai]>
+        <[string8][lname][River Kwai, Thailand]>
+        <[string8][icao][VTW7]>
+        <[string8][country][th]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][99.360649 14.062456]>
+        <[float64][height][92.0]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][99.359225 14.067325]>
+        <[float64][tower_height][93.9]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][01]>
+                <[tmvector2d][threshold1][99.359913 14.056197]>
+                <[tmvector2d][endpoint1][99.359913 14.056197]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][19]>
+                <[tmvector2d][threshold2][99.361385 14.068715]>
+                <[tmvector2d][endpoint2][99.361385 14.068715]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][24.99]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][99.359772 14.067948]>
+                <[float64][heading][101.00]>
+                <[string8][name][Platform]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

@@ -1,0 +1,46 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][LOTUS VALE STN]>
+        <[string8][lname][LOTUS VALE STN, Australia]>
+        <[string8][icao][YLOV]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][141.376575 -17.048024]>
+        <[float64][height][17.4]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][141.379419 -17.046801]>
+        <[float64][tower_height][19.2]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][8]>
+                <[tmvector2d][threshold1][141.372151 -17.048206]>
+                <[tmvector2d][endpoint1][141.372151 -17.048206]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][26]>
+                <[tmvector2d][threshold2][141.381000 -17.047842]>
+                <[tmvector2d][endpoint2][141.381000 -17.047842]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][24.99]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][141.377983 -17.047735]>
+                <[float64][heading][146.92]>
+                <[string8][name][New Ramp Start 4]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

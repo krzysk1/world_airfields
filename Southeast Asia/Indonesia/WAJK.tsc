@@ -1,0 +1,61 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Kiwi (UFM)]>
+        <[string8][lname][Kiwi (UFM), Indonesia]>
+        <[string8][icao][WAJK]>
+        <[string8][country][id]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][140.721939 -4.697500]>
+        <[float64][height][1594.1]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][140.720910 -4.696810]>
+        <[float64][tower_height][1595.9]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][10]>
+                <[tmvector2d][threshold1][140.720177 -4.697190]>
+                <[tmvector2d][endpoint1][140.720177 -4.697190]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][28]>
+                <[tmvector2d][threshold2][140.723701 -4.697810]>
+                <[tmvector2d][endpoint2][140.723701 -4.697810]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][29.87]>
+            >
+            <[tmsimulator_runway][element][1]
+                <[string8][name1][14]>
+                <[tmvector2d][threshold1][140.720913 -4.696607]>
+                <[tmvector2d][endpoint1][140.720913 -4.696607]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][32]>
+                <[tmvector2d][threshold2][140.723512 -4.699196]>
+                <[tmvector2d][endpoint2][140.723512 -4.699196]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][24.08]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][140.721000 -4.696644]>
+                <[float64][heading][184.76]>
+                <[string8][name][Kiwi Start]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

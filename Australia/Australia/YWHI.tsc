@@ -1,0 +1,46 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Whitemore (Private)]>
+        <[string8][lname][Whitemore (Private), Australia]>
+        <[string8][icao][YWHI]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][146.935706 -41.586353]>
+        <[float64][height][187.1]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][146.938083 -41.587571]>
+        <[float64][tower_height][189.0]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][11]>
+                <[tmvector2d][threshold1][146.932911 -41.585106]>
+                <[tmvector2d][endpoint1][146.932911 -41.585106]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][29]>
+                <[tmvector2d][threshold2][146.938502 -41.587600]>
+                <[tmvector2d][endpoint2][146.938502 -41.587600]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][46.02]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][146.938152 -41.587286]>
+                <[float64][heading][228.26]>
+                <[string8][name][New Ramp Start 6]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

@@ -1,0 +1,46 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][FAIRLIGHT]>
+        <[string8][lname][FAIRLIGHT, Australia]>
+        <[string8][icao][YFLT]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][144.053221 -15.771968]>
+        <[float64][height][187.1]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][144.054003 -15.774008]>
+        <[float64][tower_height][189.0]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][17]>
+                <[tmvector2d][threshold1][144.053832 -15.776114]>
+                <[tmvector2d][endpoint1][144.053832 -15.776114]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][35]>
+                <[tmvector2d][threshold2][144.052610 -15.767822]>
+                <[tmvector2d][endpoint2][144.052610 -15.767822]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][49.99]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][144.053839 -15.775764]>
+                <[float64][heading][0.00]>
+                <[string8][name][New Ramp Start 26]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

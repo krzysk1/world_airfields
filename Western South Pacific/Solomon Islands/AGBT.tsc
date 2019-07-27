@@ -1,0 +1,46 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Batuna]>
+        <[string8][lname][Batuna, Solomon Islands]>
+        <[string8][icao][AGBT]>
+        <[string8][country][sb]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][158.119251 -8.562201]>
+        <[float64][height][3.0]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][158.119747 -8.559663]>
+        <[float64][tower_height][4.9]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][01]>
+                <[tmvector2d][threshold1][158.119026 -8.565167]>
+                <[tmvector2d][endpoint1][158.119026 -8.565167]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][19]>
+                <[tmvector2d][threshold2][158.119477 -8.559236]>
+                <[tmvector2d][endpoint2][158.119477 -8.559236]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][35.97]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][158.119785 -8.559868]>
+                <[float64][heading][20.56]>
+                <[string8][name][New Ramp Start 3]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

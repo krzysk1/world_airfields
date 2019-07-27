@@ -1,0 +1,76 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Puimoisson]>
+        <[string8][lname][Puimoisson, France]>
+        <[string8][icao][LFTP]>
+        <[string8][country][fr]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][6.163919 43.869349]>
+        <[float64][height][768.7]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][6.169450 43.871064]>
+        <[float64][tower_height][792.2]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][26]>
+                <[tmvector2d][threshold1][6.168865 43.870205]>
+                <[tmvector2d][endpoint1][6.168865 43.870205]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][08]>
+                <[tmvector2d][threshold2][6.158973 43.868492]>
+                <[tmvector2d][endpoint2][6.158973 43.868492]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][128.93]>
+            >
+            <[tmsimulator_runway][element][1]
+                <[string8][name1][16]>
+                <[tmvector2d][threshold1][6.162124 43.869723]>
+                <[tmvector2d][endpoint1][6.162124 43.869723]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][34]>
+                <[tmvector2d][threshold2][6.163689 43.866623]>
+                <[tmvector2d][endpoint2][6.164300 43.865413]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][71.02]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][6.160720 43.869255]>
+                <[float64][heading][170.19]>
+                <[string8][name][GA Ramp 1]>
+            >
+            <[tmsimulator_parking_position][element][1]
+                <[tmvector2d][position][6.160477 43.869184]>
+                <[float64][heading][170.19]>
+                <[string8][name][GA Ramp 2]>
+            >
+            <[tmsimulator_parking_position][element][2]
+                <[tmvector2d][position][6.160318 43.869175]>
+                <[float64][heading][170.19]>
+                <[string8][name][GA Ramp 3]>
+            >
+            <[tmsimulator_parking_position][element][3]
+                <[tmvector2d][position][6.161195 43.869375]>
+                <[float64][heading][170.19]>
+                <[string8][name][GA Ramp 4]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

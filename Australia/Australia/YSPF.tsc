@@ -1,0 +1,61 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][SPRINGFIELD]>
+        <[string8][lname][SPRINGFIELD, Australia]>
+        <[string8][icao][YSPF]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][144.433322 -17.983322]>
+        <[float64][height][498.7]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][144.424710 -17.970381]>
+        <[float64][tower_height][500.5]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][17]>
+                <[tmvector2d][threshold1][144.433333 -17.983333]>
+                <[tmvector2d][endpoint1][144.433333 -17.983333]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][35]>
+                <[tmvector2d][threshold2][144.433311 -17.983311]>
+                <[tmvector2d][endpoint2][144.433311 -17.983311]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][39.93]>
+            >
+            <[tmsimulator_runway][element][1]
+                <[string8][name1][2]>
+                <[tmvector2d][threshold1][144.420226 -17.982435]>
+                <[tmvector2d][endpoint1][144.420226 -17.982435]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][20]>
+                <[tmvector2d][threshold2][144.425170 -17.971137]>
+                <[tmvector2d][endpoint2][144.425170 -17.971137]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][49.99]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][144.425097 -17.970685]>
+                <[float64][heading][180.00]>
+                <[string8][name][New Ramp Start 33]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

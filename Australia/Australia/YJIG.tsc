@@ -1,0 +1,96 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][JIGGALONG MISSION]>
+        <[string8][lname][JIGGALONG MISSION, Australia]>
+        <[string8][icao][YJIG]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][120.764286 -23.363363]>
+        <[float64][height][526.1]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][120.797205 -23.347914]>
+        <[float64][tower_height][527.9]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][6]>
+                <[tmvector2d][threshold1][120.758634 -23.365879]>
+                <[tmvector2d][endpoint1][120.758634 -23.365879]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][24]>
+                <[tmvector2d][threshold2][120.769939 -23.360846]>
+                <[tmvector2d][endpoint2][120.769939 -23.360846]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][49.99]>
+            >
+            <[tmsimulator_runway][element][1]
+                <[string8][name1][13]>
+                <[tmvector2d][threshold1][120.762678 -23.353755]>
+                <[tmvector2d][endpoint1][120.762678 -23.353755]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][31]>
+                <[tmvector2d][threshold2][120.768623 -23.359974]>
+                <[tmvector2d][endpoint2][120.768623 -23.359974]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][49.99]>
+            >
+            <[tmsimulator_runway][element][2]
+                <[string8][name1][17]>
+                <[tmvector2d][threshold1][120.766520 -23.366537]>
+                <[tmvector2d][endpoint1][120.766520 -23.366537]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][35]>
+                <[tmvector2d][threshold2][120.764961 -23.353355]>
+                <[tmvector2d][endpoint2][120.764961 -23.353355]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][70.10]>
+            >
+            <[tmsimulator_runway][element][3]
+                <[string8][name1][14]>
+                <[tmvector2d][threshold1][120.795624 -23.343417]>
+                <[tmvector2d][endpoint1][120.795624 -23.343417]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][32]>
+                <[tmvector2d][threshold2][120.802585 -23.352898]>
+                <[tmvector2d][endpoint2][120.802585 -23.352898]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][49.99]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][120.766395 -23.363936]>
+                <[float64][heading][0.00]>
+                <[string8][name][New Ramp Start 16]>
+            >
+            <[tmsimulator_parking_position][element][1]
+                <[tmvector2d][position][120.797709 -23.347789]>
+                <[float64][heading][0.00]>
+                <[string8][name][New Ramp Start 4]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

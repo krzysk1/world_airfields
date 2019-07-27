@@ -1,0 +1,61 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Arrabury]>
+        <[string8][lname][Arrabury, Australia]>
+        <[string8][icao][YARY]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][141.046073 -26.696172]>
+        <[float64][height][101.8]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][141.051159 -26.695515]>
+        <[float64][tower_height][103.6]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][9]>
+                <[tmvector2d][threshold1][141.042092 -26.695930]>
+                <[tmvector2d][endpoint1][141.042092 -26.695930]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][27]>
+                <[tmvector2d][threshold2][141.050054 -26.696414]>
+                <[tmvector2d][endpoint2][141.050054 -26.696414]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][103.94]>
+            >
+            <[tmsimulator_runway][element][1]
+                <[string8][name1][16]>
+                <[tmvector2d][threshold1][141.045029 -26.684292]>
+                <[tmvector2d][endpoint1][141.045029 -26.684292]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][34]>
+                <[tmvector2d][threshold2][141.049038 -26.696533]>
+                <[tmvector2d][endpoint2][141.049038 -26.696533]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][95.10]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][141.050834 -26.695541]>
+                <[float64][heading][337.17]>
+                <[string8][name][New Ramp Start 8]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

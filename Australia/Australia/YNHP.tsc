@@ -1,0 +1,46 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][NORTHAMPTON]>
+        <[string8][lname][NORTHAMPTON, Australia]>
+        <[string8][icao][YNHP]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][114.716855 -28.342079]>
+        <[float64][height][279.2]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][114.712216 -28.343937]>
+        <[float64][tower_height][281.0]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][6]>
+                <[tmvector2d][threshold1][114.711632 -28.344342]>
+                <[tmvector2d][endpoint1][114.711632 -28.344342]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][24]>
+                <[tmvector2d][threshold2][114.722078 -28.339816]>
+                <[tmvector2d][endpoint2][114.722078 -28.339816]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][14.94]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][114.711850 -28.344085]>
+                <[float64][heading][145.99]>
+                <[string8][name][New Ramp Start 13]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

@@ -1,0 +1,46 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Clearidge]>
+        <[string8][lname][Clearidge, NE]>
+        <[string8][icao][NE33]>
+        <[string8][country][us]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-96.477425 40.710198]>
+        <[float64][height][402.3]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][-96.481486 40.710355]>
+        <[float64][tower_height][404.2]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][11]>
+                <[tmvector2d][threshold1][-96.479859 40.711092]>
+                <[tmvector2d][endpoint1][-96.479859 40.711092]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][29]>
+                <[tmvector2d][threshold2][-96.474991 40.709304]>
+                <[tmvector2d][endpoint2][-96.474991 40.709304]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][21.03]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][-96.481248 40.710250]>
+                <[float64][heading][0.00]>
+                <[string8][name][New Ramp Start 5]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

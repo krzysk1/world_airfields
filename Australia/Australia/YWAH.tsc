@@ -1,0 +1,46 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][WAHROONGAH]>
+        <[string8][lname][WAHROONGAH, Australia]>
+        <[string8][icao][YWAH]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][144.110678 -24.450052]>
+        <[float64][height][194.2]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][144.110661 -24.447004]>
+        <[float64][tower_height][196.0]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][2]>
+                <[tmvector2d][threshold1][144.108246 -24.454721]>
+                <[tmvector2d][endpoint1][144.108246 -24.454721]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][20]>
+                <[tmvector2d][threshold2][144.113110 -24.445382]>
+                <[tmvector2d][endpoint2][144.113110 -24.445382]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][32.92]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][144.110640 -24.447507]>
+                <[float64][heading][102.80]>
+                <[string8][name][New Ramp Start 7]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

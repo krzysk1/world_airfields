@@ -1,0 +1,86 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Ploermel Loyat]>
+        <[string8][lname][Ploermel Loyat, France]>
+        <[string8][icao][LFRP]>
+        <[string8][country][fr]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-2.378727 48.001856]>
+        <[float64][height][71.6]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][-2.378936 48.000313]>
+        <[float64][tower_height][81.4]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][10]>
+                <[tmvector2d][threshold1][-2.384412 48.002183]>
+                <[tmvector2d][endpoint1][-2.384412 48.002183]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][28]>
+                <[tmvector2d][threshold2][-2.373042 48.001529]>
+                <[tmvector2d][endpoint2][-2.373042 48.001529]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][57.91]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][-2.379051 48.000848]>
+                <[float64][heading][0.00]>
+                <[string8][name][GA_Ramp_1]>
+            >
+            <[tmsimulator_parking_position][element][1]
+                <[tmvector2d][position][-2.379107 48.001047]>
+                <[float64][heading][222.93]>
+                <[string8][name][GA_Ramp_10]>
+            >
+            <[tmsimulator_parking_position][element][2]
+                <[tmvector2d][position][-2.379313 48.001055]>
+                <[float64][heading][239.82]>
+                <[string8][name][GA_Ramp_11]>
+            >
+            <[tmsimulator_parking_position][element][3]
+                <[tmvector2d][position][-2.379256 48.000862]>
+                <[float64][heading][4.37]>
+                <[string8][name][GA_Ramp_2]>
+            >
+            <[tmsimulator_parking_position][element][4]
+                <[tmvector2d][position][-2.379477 48.000871]>
+                <[float64][heading][2.90]>
+                <[string8][name][GA_Ramp_3]>
+            >
+            <[tmsimulator_parking_position][element][5]
+                <[tmvector2d][position][-2.379682 48.000882]>
+                <[float64][heading][8.53]>
+                <[string8][name][GA_Ramp_4]>
+            >
+            <[tmsimulator_parking_position][element][6]
+                <[tmvector2d][position][-2.379994 48.000949]>
+                <[float64][heading][33.17]>
+                <[string8][name][GA_Ramp_6]>
+            >
+            <[tmsimulator_parking_position][element][7]
+                <[tmvector2d][position][-2.378701 48.000945]>
+                <[float64][heading][263.48]>
+                <[string8][name][GA_Ramp_8]>
+            >
+            <[tmsimulator_parking_position][element][8]
+                <[tmvector2d][position][-2.378937 48.001026]>
+                <[float64][heading][233.24]>
+                <[string8][name][GA_Ramp_9]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

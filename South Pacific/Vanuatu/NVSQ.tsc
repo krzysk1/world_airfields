@@ -1,0 +1,46 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Gaua]>
+        <[string8][lname][Gaua, Vanuatu]>
+        <[string8][icao][NVSQ]>
+        <[string8][country][vu]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][167.588326 -14.219603]>
+        <[float64][height][18.3]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][167.587188 -14.218783]>
+        <[float64][tower_height][20.1]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][14]>
+                <[tmvector2d][threshold1][167.585832 -14.216429]>
+                <[tmvector2d][endpoint1][167.585832 -14.216429]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][32]>
+                <[tmvector2d][threshold2][167.590821 -14.222778]>
+                <[tmvector2d][endpoint2][167.590821 -14.222778]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][35.97]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][167.587631 -14.219084]>
+                <[float64][heading][316.82]>
+                <[string8][name][New Ramp Start 25]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

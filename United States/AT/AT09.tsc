@@ -1,0 +1,46 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Enigma Lake]>
+        <[string8][lname][Enigma Lake, AT]>
+        <[string8][icao][AT09]>
+        <[string8][country][us]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][164.010916 -74.739003]>
+        <[float64][height][135.0]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][164.009312 -74.741974]>
+        <[float64][tower_height][136.9]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][18]>
+                <[tmvector2d][threshold1][164.010916 -74.735718]>
+                <[tmvector2d][endpoint1][164.010916 -74.735718]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][36]>
+                <[tmvector2d][threshold2][164.010916 -74.742287]>
+                <[tmvector2d][endpoint2][164.010916 -74.742287]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][49.99]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][164.011499 -74.742068]>
+                <[float64][heading][321.88]>
+                <[string8][name][New Ramp Start 26]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

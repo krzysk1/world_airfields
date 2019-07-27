@@ -1,0 +1,46 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Longwood]>
+        <[string8][lname][Longwood, Australia]>
+        <[string8][icao][YLOD]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][145.466801 -36.815493]>
+        <[float64][height][188.7]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][145.463697 -36.811464]>
+        <[float64][tower_height][190.5]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][14]>
+                <[tmvector2d][threshold1][145.463102 -36.811489]>
+                <[tmvector2d][endpoint1][145.463102 -36.811489]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][32]>
+                <[tmvector2d][threshold2][145.470501 -36.819496]>
+                <[tmvector2d][endpoint2][145.470501 -36.819496]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][75.90]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][145.463293 -36.811358]>
+                <[float64][heading][180.00]>
+                <[string8][name][New Ramp Start 1]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

@@ -1,0 +1,46 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Prairie Creek]>
+        <[string8][lname][Prairie Creek, Canada]>
+        <[string8][icao][CBH4]>
+        <[string8][country][ca]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-124.814135 61.562343]>
+        <[float64][height][877.8]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][-124.813249 61.559378]>
+        <[float64][tower_height][887.6]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][17]>
+                <[tmvector2d][threshold1][-124.816190 61.566312]>
+                <[tmvector2d][endpoint1][-124.816190 61.566312]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][35]>
+                <[tmvector2d][threshold2][-124.812079 61.558373]>
+                <[tmvector2d][endpoint2][-124.812079 61.558373]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][29.87]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][-124.812928 61.558411]>
+                <[float64][heading][25.60]>
+                <[string8][name][Prairie Creek Ramp]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

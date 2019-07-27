@@ -1,0 +1,41 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Anik (MAF)]>
+        <[string8][lname][Anik (MAF), Indonesia]>
+        <[string8][icao][WX11]>
+        <[string8][country][id]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][109.740555 0.537500]>
+        <[float64][height][45.4]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][109.740669 0.536854]>
+        <[float64][tower_height][47.2]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][08]>
+                <[tmvector2d][threshold1][109.738259 0.537095]>
+                <[tmvector2d][endpoint1][109.738259 0.537095]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][26]>
+                <[tmvector2d][threshold2][109.742851 0.537905]>
+                <[tmvector2d][endpoint2][109.742851 0.537905]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][24.99]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

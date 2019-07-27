@@ -1,0 +1,61 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Wolo (APCM)]>
+        <[string8][lname][Wolo (APCM), Indonesia]>
+        <[string8][icao][WT68]>
+        <[string8][country][id]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][138.860142 -3.850518]>
+        <[float64][height][1786.1]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][138.859590 -3.849604]>
+        <[float64][tower_height][1787.7]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][13]>
+                <[tmvector2d][threshold1][138.858467 -3.848648]>
+                <[tmvector2d][endpoint1][138.858467 -3.848648]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][31]>
+                <[tmvector2d][threshold2][138.861816 -3.852388]>
+                <[tmvector2d][endpoint2][138.861816 -3.852388]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][29.87]>
+            >
+            <[tmsimulator_runway][element][1]
+                <[string8][name1][16]>
+                <[tmvector2d][threshold1][138.858088 -3.850475]>
+                <[tmvector2d][endpoint1][138.858088 -3.850475]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][34]>
+                <[tmvector2d][threshold2][138.859686 -3.854857]>
+                <[tmvector2d][endpoint2][138.859686 -3.854857]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][29.87]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][138.859465 -3.849754]>
+                <[float64][heading][318.20]>
+                <[string8][name][Wolo Start]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

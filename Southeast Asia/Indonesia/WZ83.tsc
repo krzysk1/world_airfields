@@ -1,0 +1,41 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Long Pala (Sumber Mas)]>
+        <[string8][lname][Long Pala (Sumber Mas), Indonesia]>
+        <[string8][icao][WZ83]>
+        <[string8][country][id]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][116.129130 4.043805]>
+        <[float64][height][459.9]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][116.129050 4.044017]>
+        <[float64][tower_height][461.5]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][08]>
+                <[tmvector2d][threshold1][116.127620 4.043539]>
+                <[tmvector2d][endpoint1][116.127620 4.043539]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][26]>
+                <[tmvector2d][threshold2][116.130640 4.044071]>
+                <[tmvector2d][endpoint2][116.130640 4.044071]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][20.12]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

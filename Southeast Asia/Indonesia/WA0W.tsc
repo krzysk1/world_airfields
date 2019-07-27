@@ -1,0 +1,46 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Tulem (CAMA)]>
+        <[string8][lname][Tulem (CAMA), Indonesia]>
+        <[string8][icao][WA0W]>
+        <[string8][country][id]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][138.909439 -4.033126]>
+        <[float64][height][1648.4]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][138.906807 -4.032491]>
+        <[float64][tower_height][1649.9]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][11]>
+                <[tmvector2d][threshold1][138.906763 -4.032322]>
+                <[tmvector2d][endpoint1][138.906763 -4.032322]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][29]>
+                <[tmvector2d][threshold2][138.912115 -4.033929]>
+                <[tmvector2d][endpoint2][138.912115 -4.033929]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][28.04]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][138.906944 -4.032377]>
+                <[float64][heading][106.80]>
+                <[string8][name][Tulem (CAMA)]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

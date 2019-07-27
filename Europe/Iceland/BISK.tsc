@@ -1,0 +1,41 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Skogarsandur]>
+        <[string8][lname][Skogarsandur, Iceland]>
+        <[string8][icao][BISK]>
+        <[string8][country][is]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-19.492585 63.517625]>
+        <[float64][height][39.3]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][-19.505498 63.519414]>
+        <[float64][tower_height][64.3]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][13]>
+                <[tmvector2d][threshold1][-19.503956 63.518880]>
+                <[tmvector2d][endpoint1][-19.503956 63.518880]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][31]>
+                <[tmvector2d][threshold2][-19.481214 63.516370]>
+                <[tmvector2d][endpoint2][-19.481214 63.516370]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][27.13]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

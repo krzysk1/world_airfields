@@ -1,0 +1,46 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][PICCANINNY PLAINS]>
+        <[string8][lname][PICCANINNY PLAINS, Australia]>
+        <[string8][icao][YPPS]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][142.776650 -13.153602]>
+        <[float64][height][122.8]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][142.779006 -13.152134]>
+        <[float64][tower_height][124.7]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][5]>
+                <[tmvector2d][threshold1][142.772326 -13.157072]>
+                <[tmvector2d][endpoint1][142.772326 -13.157072]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][23]>
+                <[tmvector2d][threshold2][142.780974 -13.150131]>
+                <[tmvector2d][endpoint2][142.780974 -13.150131]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][49.99]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][142.779665 -13.150893]>
+                <[float64][heading][201.55]>
+                <[string8][name][New Ramp Start 22]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

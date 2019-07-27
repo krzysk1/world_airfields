@@ -1,0 +1,51 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][La Colmena]>
+        <[string8][lname][La Colmena, Chile]>
+        <[string8][icao][SCQC]>
+        <[string8][country][cl]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-72.587124 -38.334576]>
+        <[float64][height][250.9]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][-72.587393 -38.334127]>
+        <[float64][tower_height][275.8]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][3]>
+                <[tmvector2d][threshold1][-72.589800 -38.337203]>
+                <[tmvector2d][endpoint1][-72.589989 -38.337389]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][21]>
+                <[tmvector2d][threshold2][-72.584483 -38.331983]>
+                <[tmvector2d][endpoint2][-72.584259 -38.331764]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][29.87]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][-72.584018 -38.331249]>
+                <[float64][heading][179.01]>
+                <[string8][name][Ramp Start North]>
+            >
+            <[tmsimulator_parking_position][element][1]
+                <[tmvector2d][position][-72.590530 -38.337614]>
+                <[float64][heading][81.82]>
+                <[string8][name][Ramp Start South]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

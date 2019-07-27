@@ -1,0 +1,46 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Kaibu]>
+        <[string8][lname][Kaibu, Fiji]>
+        <[string8][icao][NFKB]>
+        <[string8][country][fj]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-179.488702 -17.254457]>
+        <[float64][height][21.3]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][-179.489356 -17.254034]>
+        <[float64][tower_height][23.2]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][14]>
+                <[tmvector2d][threshold1][-179.490417 -17.251596]>
+                <[tmvector2d][endpoint1][-179.490417 -17.251596]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][32]>
+                <[tmvector2d][threshold2][-179.486987 -17.257317]>
+                <[tmvector2d][endpoint2][-179.486987 -17.257317]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][22.86]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][-179.489411 -17.253923]>
+                <[float64][heading][33.47]>
+                <[string8][name][New Ramp Start 63]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

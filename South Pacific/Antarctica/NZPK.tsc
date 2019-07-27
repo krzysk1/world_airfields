@@ -1,0 +1,46 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Pikes Point]>
+        <[string8][lname][Pikes Point, Antarctica]>
+        <[string8][icao][NZPK]>
+        <[string8][country][aq]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][174.815247 -36.929871]>
+        <[float64][height][3.0]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][174.815506 -36.929371]>
+        <[float64][tower_height][4.6]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][07]>
+                <[tmvector2d][threshold1][174.811028 -36.930083]>
+                <[tmvector2d][endpoint1][174.811028 -36.930083]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][25]>
+                <[tmvector2d][threshold2][174.819466 -36.929659]>
+                <[tmvector2d][endpoint2][174.819466 -36.929659]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][21.34]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][174.814484 -36.929550]>
+                <[float64][heading][176.00]>
+                <[string8][name][LOC]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

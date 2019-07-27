@@ -1,0 +1,46 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Onotoa]>
+        <[string8][lname][Onotoa, Kiribati (Gilbert Islands)]>
+        <[string8][icao][NGON]>
+        <[string8][country][ki]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][175.526049 -1.796237]>
+        <[float64][height][3.0]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][175.528165 -1.798937]>
+        <[float64][tower_height][4.9]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][13]>
+                <[tmvector2d][threshold1][175.523116 -1.793305]>
+                <[tmvector2d][endpoint1][175.523116 -1.793305]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][31]>
+                <[tmvector2d][threshold2][175.528982 -1.799168]>
+                <[tmvector2d][endpoint2][175.528982 -1.799168]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][24.08]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][175.528245 -1.798840]>
+                <[float64][heading][138.95]>
+                <[string8][name][New Ramp Start 24]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

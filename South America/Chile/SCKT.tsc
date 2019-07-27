@@ -1,0 +1,46 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Torreon]>
+        <[string8][lname][Torreon, Chile]>
+        <[string8][icao][SCKT]>
+        <[string8][country][cl]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-72.679888 -36.499343]>
+        <[float64][height][65.8]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][-72.680177 -36.499463]>
+        <[float64][tower_height][90.8]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][13]>
+                <[tmvector2d][threshold1][-72.682451 -36.497597]>
+                <[tmvector2d][endpoint1][-72.682451 -36.497597]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][31]>
+                <[tmvector2d][threshold2][-72.677326 -36.501090]>
+                <[tmvector2d][endpoint2][-72.677326 -36.501090]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][20.12]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][-72.676179 -36.501921]>
+                <[float64][heading][315.62]>
+                <[string8][name][Start Ramp]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

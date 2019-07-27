@@ -1,0 +1,46 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][GLEN HARDING]>
+        <[string8][lname][GLEN HARDING, Australia]>
+        <[string8][icao][YGHG]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][145.126157 -18.248195]>
+        <[float64][height][656.8]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][145.124431 -18.248234]>
+        <[float64][tower_height][658.7]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][1]>
+                <[tmvector2d][threshold1][145.125070 -18.251891]>
+                <[tmvector2d][endpoint1][145.125070 -18.251891]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][19]>
+                <[tmvector2d][threshold2][145.127244 -18.244500]>
+                <[tmvector2d][endpoint2][145.127244 -18.244500]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][49.99]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][145.125817 -18.251368]>
+                <[float64][heading][0.00]>
+                <[string8][name][New Ramp Start 66]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

@@ -1,0 +1,46 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][JONROY]>
+        <[string8][lname][JONROY, Australia]>
+        <[string8][icao][YJNY]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][144.393065 -16.508328]>
+        <[float64][height][218.2]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][144.385776 -16.510122]>
+        <[float64][tower_height][220.1]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][7]>
+                <[tmvector2d][threshold1][144.387341 -16.509912]>
+                <[tmvector2d][endpoint1][144.387341 -16.509912]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][25]>
+                <[tmvector2d][threshold2][144.398789 -16.506744]>
+                <[tmvector2d][endpoint2][144.398789 -16.506744]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][34.14]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][144.386548 -16.510023]>
+                <[float64][heading][0.00]>
+                <[string8][name][New Ramp Start 28]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

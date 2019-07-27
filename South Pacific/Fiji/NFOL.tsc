@@ -1,0 +1,46 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Ono-I-Lau]>
+        <[string8][lname][Ono-I-Lau, Fiji]>
+        <[string8][icao][NFOL]>
+        <[string8][country][fj]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-178.741074 -20.658988]>
+        <[float64][height][33.5]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][-178.740535 -20.662672]>
+        <[float64][tower_height][35.4]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][17]>
+                <[tmvector2d][threshold1][-178.742122 -20.655055]>
+                <[tmvector2d][endpoint1][-178.742122 -20.655055]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][35]>
+                <[tmvector2d][threshold2][-178.740026 -20.662921]>
+                <[tmvector2d][endpoint2][-178.740026 -20.662921]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][60.96]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][-178.739685 -20.662667]>
+                <[float64][heading][342.80]>
+                <[string8][name][New Ramp Start 29]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

@@ -1,0 +1,46 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Vatulele]>
+        <[string8][lname][Vatulele, Fiji]>
+        <[string8][icao][NFVL]>
+        <[string8][country][fj]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][177.638550 -18.512279]>
+        <[float64][height][4.9]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][177.640019 -18.513942]>
+        <[float64][tower_height][6.7]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][30]>
+                <[tmvector2d][threshold1][177.635490 -18.509801]>
+                <[tmvector2d][endpoint1][177.635490 -18.509801]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][12]>
+                <[tmvector2d][threshold2][177.641610 -18.514757]>
+                <[tmvector2d][endpoint2][177.641610 -18.514757]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][29.87]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][177.640513 -18.513455]>
+                <[float64][heading][315.00]>
+                <[string8][name][New Ramp Start 35]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

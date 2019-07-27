@@ -1,0 +1,51 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Icalma]>
+        <[string8][lname][Icalma, Chile]>
+        <[string8][icao][SCQI]>
+        <[string8][country][cl]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-71.198479 -38.738839]>
+        <[float64][height][1135.4]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][-71.195748 -38.737967]>
+        <[float64][tower_height][1160.4]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][7]>
+                <[tmvector2d][threshold1][-71.202060 -38.740567]>
+                <[tmvector2d][endpoint1][-71.202060 -38.740567]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][25]>
+                <[tmvector2d][threshold2][-71.194897 -38.737111]>
+                <[tmvector2d][endpoint2][-71.194897 -38.737111]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][20.12]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][-71.202627 -38.740655]>
+                <[float64][heading][87.95]>
+                <[string8][name][Ramp Start 07]>
+            >
+            <[tmsimulator_parking_position][element][1]
+                <[tmvector2d][position][-71.194455 -38.737019]>
+                <[float64][heading][261.47]>
+                <[string8][name][Ramp Start 25]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

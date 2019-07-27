@@ -1,0 +1,76 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][COORANGA]>
+        <[string8][lname][COORANGA, Australia]>
+        <[string8][icao][YCNG]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][140.274598 -36.817672]>
+        <[float64][height][23.5]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][140.275406 -36.822500]>
+        <[float64][tower_height][25.3]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][1]>
+                <[tmvector2d][threshold1][140.273704 -36.821974]>
+                <[tmvector2d][endpoint1][140.273704 -36.821974]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][19]>
+                <[tmvector2d][threshold2][140.275491 -36.813370]>
+                <[tmvector2d][endpoint2][140.275491 -36.813370]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][17.98]>
+            >
+            <[tmsimulator_runway][element][1]
+                <[string8][name1][7]>
+                <[tmvector2d][threshold1][140.266415 -36.816730]>
+                <[tmvector2d][endpoint1][140.266415 -36.816730]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][25]>
+                <[tmvector2d][threshold2][140.277245 -36.814189]>
+                <[tmvector2d][endpoint2][140.277245 -36.814189]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][14.94]>
+            >
+            <[tmsimulator_runway][element][2]
+                <[string8][name1][15]>
+                <[tmvector2d][threshold1][140.270019 -36.815026]>
+                <[tmvector2d][endpoint1][140.270019 -36.815026]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][33]>
+                <[tmvector2d][threshold2][140.274548 -36.823702]>
+                <[tmvector2d][endpoint2][140.274548 -36.823702]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][17.07]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][140.275975 -36.822334]>
+                <[float64][heading][181.00]>
+                <[string8][name][New Ramp Start 24]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

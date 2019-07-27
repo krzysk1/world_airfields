@@ -1,0 +1,46 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Tabubil]>
+        <[string8][lname][Tabubil]>
+        <[string8][icao][TBG]>
+        <[string8][country][]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][141.227371 -5.280290]>
+        <[float64][height][457.2]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][141.227609 -5.278175]>
+        <[float64][tower_height][459.0]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][32]>
+                <[tmvector2d][threshold1][141.231101 -5.285219]>
+                <[tmvector2d][endpoint1][141.231101 -5.285219]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][14]>
+                <[tmvector2d][threshold2][141.223641 -5.275361]>
+                <[tmvector2d][endpoint2][141.223641 -5.275361]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][30.48]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][141.227034 -5.277227]>
+                <[float64][heading][180.00]>
+                <[string8][name][Custom Startup Location]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

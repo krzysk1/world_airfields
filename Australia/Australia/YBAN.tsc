@@ -1,0 +1,46 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][MOUNT BARNET]>
+        <[string8][lname][MOUNT BARNET, Australia]>
+        <[string8][icao][YBAN]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][125.906138 -16.741003]>
+        <[float64][height][405.4]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][125.909046 -16.736888]>
+        <[float64][tower_height][407.2]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][4]>
+                <[tmvector2d][threshold1][125.900639 -16.745704]>
+                <[tmvector2d][endpoint1][125.900639 -16.745704]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][22]>
+                <[tmvector2d][threshold2][125.911638 -16.736302]>
+                <[tmvector2d][endpoint2][125.911638 -16.736302]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][49.99]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][125.908870 -16.737276]>
+                <[float64][heading][150.75]>
+                <[string8][name][New Ramp Start 7]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

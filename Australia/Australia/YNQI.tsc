@@ -1,0 +1,61 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][NEW QUINAMBIE]>
+        <[string8][lname][NEW QUINAMBIE, Australia]>
+        <[string8][icao][YNQI]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][140.955005 -30.900834]>
+        <[float64][height][66.1]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][140.954878 -30.901745]>
+        <[float64][tower_height][68.0]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][16]>
+                <[tmvector2d][threshold1][140.954459 -30.898683]>
+                <[tmvector2d][endpoint1][140.954459 -30.898683]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][34]>
+                <[tmvector2d][threshold2][140.955552 -30.902984]>
+                <[tmvector2d][endpoint2][140.955552 -30.902984]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][24.99]>
+            >
+            <[tmsimulator_runway][element][1]
+                <[string8][name1][6]>
+                <[tmvector2d][threshold1][140.952811 -30.900364]>
+                <[tmvector2d][endpoint1][140.952811 -30.900364]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][24]>
+                <[tmvector2d][threshold2][140.966159 -30.896124]>
+                <[tmvector2d][endpoint2][140.966159 -30.896124]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][49.99]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][140.954908 -30.901451]>
+                <[float64][heading][0.00]>
+                <[string8][name][New Ramp Start 10]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

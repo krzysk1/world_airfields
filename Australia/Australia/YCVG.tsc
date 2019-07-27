@@ -1,0 +1,46 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Calvin Grove]>
+        <[string8][lname][Calvin Grove, Australia]>
+        <[string8][icao][YCVG]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][138.580930 -34.692275]>
+        <[float64][height][14.0]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][138.579132 -34.694496]>
+        <[float64][tower_height][15.8]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][02]>
+                <[tmvector2d][threshold1][138.579160 -34.695034]>
+                <[tmvector2d][endpoint1][138.579160 -34.695034]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][20]>
+                <[tmvector2d][threshold2][138.582699 -34.689516]>
+                <[tmvector2d][endpoint2][138.582699 -34.689516]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][29.87]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][138.580217 -34.694057]>
+                <[float64][heading][218.16]>
+                <[string8][name][New Ramp Start 4]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

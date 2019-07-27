@@ -1,0 +1,46 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][SCOTT CREEK]>
+        <[string8][lname][SCOTT CREEK, Australia]>
+        <[string8][icao][YSCC]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][138.661396 -35.091846]>
+        <[float64][height][338.3]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][138.659013 -35.086529]>
+        <[float64][tower_height][340.2]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][16]>
+                <[tmvector2d][threshold1][138.659598 -35.087032]>
+                <[tmvector2d][endpoint1][138.659598 -35.087032]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][34]>
+                <[tmvector2d][threshold2][138.663194 -35.096660]>
+                <[tmvector2d][endpoint2][138.663194 -35.096660]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][20.12]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][138.659002 -35.086737]>
+                <[float64][heading][94.08]>
+                <[string8][name][New Ramp Start 17]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

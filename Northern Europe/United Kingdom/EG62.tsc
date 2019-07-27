@@ -1,0 +1,66 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Lamb Holme]>
+        <[string8][lname][Lamb Holme, United Kingdom]>
+        <[string8][icao][EG62]>
+        <[string8][country][gb]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-2.891692 58.887818]>
+        <[float64][height][19.8]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][-2.889390 58.889879]>
+        <[float64][tower_height][22.6]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][06]>
+                <[tmvector2d][threshold1][-2.895994 58.885953]>
+                <[tmvector2d][endpoint1][-2.895994 58.885953]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][24]>
+                <[tmvector2d][threshold2][-2.887390 58.889683]>
+                <[tmvector2d][endpoint2][-2.887390 58.889683]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][20.12]>
+            >
+            <[tmsimulator_runway][element][1]
+                <[string8][name1][15]>
+                <[tmvector2d][threshold1][-2.893992 58.888891]>
+                <[tmvector2d][endpoint1][-2.893992 58.888891]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][33]>
+                <[tmvector2d][threshold2][-2.889816 58.886360]>
+                <[tmvector2d][endpoint2][-2.889816 58.886360]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][20.12]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][-2.890280 58.889570]>
+                <[float64][heading][150.26]>
+                <[string8][name][Grass Parking 1]>
+            >
+            <[tmsimulator_parking_position][element][1]
+                <[tmvector2d][position][-2.890334 58.889344]>
+                <[float64][heading][107.65]>
+                <[string8][name][Grass Parking 2]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

@@ -1,0 +1,46 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][WHYALLA (QLD)]>
+        <[string8][lname][WHYALLA (QLD), Australia]>
+        <[string8][icao][YWYL]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][151.037473 -28.760574]>
+        <[float64][height][285.0]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][151.043888 -28.762202]>
+        <[float64][tower_height][286.8]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][10]>
+                <[tmvector2d][threshold1][151.030893 -28.758483]>
+                <[tmvector2d][endpoint1][151.030893 -28.758483]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][28]>
+                <[tmvector2d][threshold2][151.044053 -28.762666]>
+                <[tmvector2d][endpoint2][151.044053 -28.762666]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][35.97]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][151.043956 -28.762908]>
+                <[float64][heading][297.65]>
+                <[string8][name][New Ramp Start 47]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

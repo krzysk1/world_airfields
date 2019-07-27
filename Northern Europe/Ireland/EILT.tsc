@@ -1,0 +1,51 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][Letterkenny]>
+        <[string8][lname][Letterkenny, Ireland]>
+        <[string8][icao][EILT]>
+        <[string8][country][ie]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-7.672666 54.950820]>
+        <[float64][height][6.1]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][-7.668929 54.951438]>
+        <[float64][tower_height][31.1]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][07]>
+                <[tmvector2d][threshold1][-7.676789 54.949507]>
+                <[tmvector2d][endpoint1][-7.676789 54.949507]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][25]>
+                <[tmvector2d][threshold2][-7.668543 54.952133]>
+                <[tmvector2d][endpoint2][-7.668543 54.952133]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][4.88]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][-7.668975 54.951707]>
+                <[float64][heading][67.62]>
+                <[string8][name][Grass parking]>
+            >
+            <[tmsimulator_parking_position][element][1]
+                <[tmvector2d][position][-7.668463 54.951859]>
+                <[float64][heading][0.00]>
+                <[string8][name][Microlight Hangar]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>
