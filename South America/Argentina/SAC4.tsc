@@ -1,54 +1,50 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][PUNTA ALTA]>
-        <[string8][lname][PUNTA ALTA, Argentina]>
-        <[string8][icao][SAC4]>
-        <[string8][country][ar]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][-62.087222 -38.834167]>
-        <[float64][height][2.7]>
-        <[float64][size][5000]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][10]>
-                <[tmvector2d][threshold1][-62.091062 -38.833490]>
-                <[tmvector2d][endpoint1][-62.091062 -38.833490]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][28]>
-                <[tmvector2d][threshold2][-62.083382 -38.834844]>
-                <[tmvector2d][endpoint2][-62.083382 -38.834844]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][29.87]>
-            >
-            <[tmsimulator_runway][element][1]
-                <[string8][name1][16]>
-                <[tmvector2d][threshold1][-62.088755 -38.829955]>
-                <[tmvector2d][endpoint1][-62.088755 -38.829955]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][34]>
-                <[tmvector2d][threshold2][-62.085689 -38.838378]>
-                <[tmvector2d][endpoint2][-62.085689 -38.838378]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][29.87]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][PUNTA ALTA]>
+		<[string8][lname][PUNTA ALTA, Argentina]>
+		<[string8][icao][SAC4]>
+		<[string8][country][ar]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][-62.087222 -38.834167]>
+		<[float64][height][2.7]>
+		<[float64][size][5000]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][10]>
+				<[tmvector2d][threshold1][-62.091062 -38.833490]>
+				<[tmvector2d][endpoint1][-62.091062 -38.833490]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][28]>
+				<[tmvector2d][threshold2][-62.083382 -38.834844]>
+				<[tmvector2d][endpoint2][-62.083382 -38.834844]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][29.87]>
+			>
+			<[tmsimulator_runway][element][1]
+				<[string8][name1][16]>
+				<[tmvector2d][threshold1][-62.088755 -38.829955]>
+				<[tmvector2d][endpoint1][-62.088755 -38.829955]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][34]>
+				<[tmvector2d][threshold2][-62.085689 -38.838378]>
+				<[tmvector2d][endpoint2][-62.085689 -38.838378]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][29.87]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+	>
 >

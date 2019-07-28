@@ -1,39 +1,35 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Round Mountain]>
-        <[string8][lname][Round Mountain, CA]>
-        <[string8][icao][CA09]>
-        <[string8][country][us]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][-122.844478 41.886245]>
-        <[float64][height][1066.8]>
-        <[float64][size][5000]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][03]>
-                <[tmvector2d][threshold1][-122.846532 41.884868]>
-                <[tmvector2d][endpoint1][-122.846532 41.884868]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][21]>
-                <[tmvector2d][threshold2][-122.842425 41.887622]>
-                <[tmvector2d][endpoint2][-122.842425 41.887622]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][15.24]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Round Mountain]>
+		<[string8][lname][Round Mountain, CA]>
+		<[string8][icao][CA09]>
+		<[string8][country][us]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][-122.844478 41.886245]>
+		<[float64][height][1066.8]>
+		<[float64][size][5000]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][03]>
+				<[tmvector2d][threshold1][-122.846532 41.884868]>
+				<[tmvector2d][endpoint1][-122.846532 41.884868]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][21]>
+				<[tmvector2d][threshold2][-122.842425 41.887622]>
+				<[tmvector2d][endpoint2][-122.842425 41.887622]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][15.24]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+	>
 >

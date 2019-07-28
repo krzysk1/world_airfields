@@ -1,54 +1,56 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Epernay Plivot]>
-        <[string8][lname][Epernay Plivot, France]>
-        <[string8][icao][LFSW]>
-        <[string8][country][fr]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][4.086413 49.005278]>
-        <[float64][height][88.1]>
-        <[float64][size][5000]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][29]>
-                <[tmvector2d][threshold1][4.093037 49.004114]>
-                <[tmvector2d][endpoint1][4.093037 49.004114]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][11]>
-                <[tmvector2d][threshold2][4.079789 49.006442]>
-                <[tmvector2d][endpoint2][4.079789 49.006442]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][49.99]>
-            >
-            <[tmsimulator_runway][element][1]
-                <[string8][name1][22]>
-                <[tmvector2d][threshold1][4.092845 49.008966]>
-                <[tmvector2d][endpoint1][4.092845 49.008966]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][04]>
-                <[tmvector2d][threshold2][4.091665 49.007860]>
-                <[tmvector2d][endpoint2][4.091665 49.007860]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][29.87]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Epernay Plivot]>
+		<[string8][lname][Epernay Plivot, France]>
+		<[string8][icao][LFSW]>
+		<[string8][country][fr]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][4.086413 49.005278]>
+		<[float64][height][88.1]>
+		<[float64][size][5000]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][29]>
+				<[tmvector2d][threshold1][4.093037 49.004114]>
+				<[tmvector2d][endpoint1][4.093037 49.004114]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][11]>
+				<[tmvector2d][threshold2][4.079789 49.006442]>
+				<[tmvector2d][endpoint2][4.079789 49.006442]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][49.99]>
+			>
+			<[tmsimulator_runway][element][1]
+				<[string8][name1][22]>
+				<[tmvector2d][threshold1][4.092845 49.008966]>
+				<[tmvector2d][endpoint1][4.092845 49.008966]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][04]>
+				<[tmvector2d][threshold2][4.091665 49.007860]>
+				<[tmvector2d][endpoint2][4.091665 49.007860]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][29.87]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][LFSW_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

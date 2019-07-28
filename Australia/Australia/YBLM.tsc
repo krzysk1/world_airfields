@@ -1,61 +1,63 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Blinman]>
-        <[string8][lname][Blinman, Australia]>
-        <[string8][icao][YBLM]>
-        <[string8][country][au]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][138.725831 -31.118301]>
-        <[float64][height][601.1]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][138.726898 -31.116894]>
-        <[float64][tower_height][602.9]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][14]>
-                <[tmvector2d][threshold1][138.723568 -31.115917]>
-                <[tmvector2d][endpoint1][138.723568 -31.115917]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][32]>
-                <[tmvector2d][threshold2][138.728094 -31.120684]>
-                <[tmvector2d][endpoint2][138.728094 -31.120684]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][28.96]>
-            >
-            <[tmsimulator_runway][element][1]
-                <[string8][name1][04]>
-                <[tmvector2d][threshold1][138.721645 -31.122834]>
-                <[tmvector2d][endpoint1][138.721645 -31.122834]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][22]>
-                <[tmvector2d][threshold2][138.729644 -31.114972]>
-                <[tmvector2d][endpoint2][138.729644 -31.114972]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][17.98]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][138.727793 -31.116430]>
-                <[float64][heading][21.80]>
-                <[string8][name][New Ramp Start 18]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Blinman]>
+		<[string8][lname][Blinman, Australia]>
+		<[string8][icao][YBLM]>
+		<[string8][country][au]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][138.725831 -31.118301]>
+		<[float64][height][601.1]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][138.726898 -31.116894]>
+		<[float64][tower_height][602.9]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][14]>
+				<[tmvector2d][threshold1][138.723568 -31.115917]>
+				<[tmvector2d][endpoint1][138.723568 -31.115917]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][32]>
+				<[tmvector2d][threshold2][138.728094 -31.120684]>
+				<[tmvector2d][endpoint2][138.728094 -31.120684]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][28.96]>
+			>
+			<[tmsimulator_runway][element][1]
+				<[string8][name1][04]>
+				<[tmvector2d][threshold1][138.721645 -31.122834]>
+				<[tmvector2d][endpoint1][138.721645 -31.122834]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][22]>
+				<[tmvector2d][threshold2][138.729644 -31.114972]>
+				<[tmvector2d][endpoint2][138.729644 -31.114972]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][17.98]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][138.727793 -31.116430]>
+				<[float64][heading][21.80]>
+				<[string8][name][New Ramp Start 18]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][YBLM_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

@@ -1,61 +1,63 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Southern Cross]>
-        <[string8][lname][Southern Cross, Australia]>
-        <[string8][icao][YSCR]>
-        <[string8][country][au]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][119.353924 -31.238355]>
-        <[float64][height][354.2]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][119.354482 -31.236740]>
-        <[float64][tower_height][356.0]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][14]>
-                <[tmvector2d][threshold1][119.348985 -31.233657]>
-                <[tmvector2d][endpoint1][119.348985 -31.233657]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][32]>
-                <[tmvector2d][threshold2][119.358863 -31.243053]>
-                <[tmvector2d][endpoint2][119.358863 -31.243053]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][17.98]>
-            >
-            <[tmsimulator_runway][element][1]
-                <[string8][name1][09]>
-                <[tmvector2d][threshold1][119.349898 -31.241667]>
-                <[tmvector2d][endpoint1][119.349898 -31.241667]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][27]>
-                <[tmvector2d][threshold2][119.364991 -31.241667]>
-                <[tmvector2d][endpoint2][119.364991 -31.241667]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][29.87]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][119.354583 -31.236904]>
-                <[float64][heading][192.61]>
-                <[string8][name][New Ramp Start 34]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Southern Cross]>
+		<[string8][lname][Southern Cross, Australia]>
+		<[string8][icao][YSCR]>
+		<[string8][country][au]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][119.353924 -31.238355]>
+		<[float64][height][354.2]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][119.354482 -31.236740]>
+		<[float64][tower_height][356.0]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][14]>
+				<[tmvector2d][threshold1][119.348985 -31.233657]>
+				<[tmvector2d][endpoint1][119.348985 -31.233657]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][32]>
+				<[tmvector2d][threshold2][119.358863 -31.243053]>
+				<[tmvector2d][endpoint2][119.358863 -31.243053]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][17.98]>
+			>
+			<[tmsimulator_runway][element][1]
+				<[string8][name1][09]>
+				<[tmvector2d][threshold1][119.349898 -31.241667]>
+				<[tmvector2d][endpoint1][119.349898 -31.241667]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][27]>
+				<[tmvector2d][threshold2][119.364991 -31.241667]>
+				<[tmvector2d][endpoint2][119.364991 -31.241667]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][29.87]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][119.354583 -31.236904]>
+				<[float64][heading][192.61]>
+				<[string8][name][New Ramp Start 34]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][YSCR_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

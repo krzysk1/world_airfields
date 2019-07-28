@@ -1,46 +1,48 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Aurina]>
-        <[string8][lname][Aurina, Indonesia]>
-        <[string8][icao][WA0A]>
-        <[string8][country][id]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][140.301342 -3.465374]>
-        <[float64][height][308.5]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][140.300867 -3.463624]>
-        <[float64][tower_height][310.3]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][17]>
-                <[tmvector2d][threshold1][140.301675 -3.467257]>
-                <[tmvector2d][endpoint1][140.301675 -3.467257]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][35]>
-                <[tmvector2d][threshold2][140.301009 -3.463491]>
-                <[tmvector2d][endpoint2][140.301009 -3.463491]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][21.95]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][140.301020 -3.463561]>
-                <[float64][heading][109.04]>
-                <[string8][name][Aurina start]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Aurina]>
+		<[string8][lname][Aurina, Indonesia]>
+		<[string8][icao][WA0A]>
+		<[string8][country][id]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][140.301342 -3.465374]>
+		<[float64][height][308.5]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][140.300867 -3.463624]>
+		<[float64][tower_height][310.3]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][17]>
+				<[tmvector2d][threshold1][140.301675 -3.467257]>
+				<[tmvector2d][endpoint1][140.301675 -3.467257]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][35]>
+				<[tmvector2d][threshold2][140.301009 -3.463491]>
+				<[tmvector2d][endpoint2][140.301009 -3.463491]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][21.95]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][140.301020 -3.463561]>
+				<[float64][heading][109.04]>
+				<[string8][name][Aurina start]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][WA0A_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

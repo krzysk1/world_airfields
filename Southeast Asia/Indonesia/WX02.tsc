@@ -1,46 +1,48 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Aboyi (UFM)]>
-        <[string8][lname][Aboyi (UFM), Indonesia]>
-        <[string8][icao][WX02]>
-        <[string8][country][id]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][140.640020 -4.292543]>
-        <[float64][height][249.9]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][140.639214 -4.294621]>
-        <[float64][tower_height][251.5]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][02]>
-                <[tmvector2d][threshold1][140.639315 -4.294730]>
-                <[tmvector2d][endpoint1][140.639315 -4.294730]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][20]>
-                <[tmvector2d][threshold2][140.640724 -4.290355]>
-                <[tmvector2d][endpoint2][140.640724 -4.290355]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][21.03]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][140.639353 -4.294614]>
-                <[float64][heading][17.80]>
-                <[string8][name][Aboyi Start]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Aboyi (UFM)]>
+		<[string8][lname][Aboyi (UFM), Indonesia]>
+		<[string8][icao][WX02]>
+		<[string8][country][id]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][140.640020 -4.292543]>
+		<[float64][height][249.9]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][140.639214 -4.294621]>
+		<[float64][tower_height][251.5]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][02]>
+				<[tmvector2d][threshold1][140.639315 -4.294730]>
+				<[tmvector2d][endpoint1][140.639315 -4.294730]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][20]>
+				<[tmvector2d][threshold2][140.640724 -4.290355]>
+				<[tmvector2d][endpoint2][140.640724 -4.290355]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][21.03]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][140.639353 -4.294614]>
+				<[float64][heading][17.80]>
+				<[string8][name][Aboyi Start]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][WX02_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

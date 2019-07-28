@@ -1,46 +1,48 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][BIRRINDUDU]>
-        <[string8][lname][BIRRINDUDU, Australia]>
-        <[string8][icao][YBDU]>
-        <[string8][country][au]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][129.438910 -18.383882]>
-        <[float64][height][370.9]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][129.431546 -18.388185]>
-        <[float64][tower_height][372.8]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][6]>
-                <[tmvector2d][threshold1][129.446652 -18.380314]>
-                <[tmvector2d][endpoint1][129.446652 -18.380314]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][24]>
-                <[tmvector2d][threshold2][129.431168 -18.387450]>
-                <[tmvector2d][endpoint2][129.431168 -18.387450]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][86.87]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][129.430949 -18.388085]>
-                <[float64][heading][0.00]>
-                <[string8][name][New Ramp Start 62]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][BIRRINDUDU]>
+		<[string8][lname][BIRRINDUDU, Australia]>
+		<[string8][icao][YBDU]>
+		<[string8][country][au]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][129.438910 -18.383882]>
+		<[float64][height][370.9]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][129.431546 -18.388185]>
+		<[float64][tower_height][372.8]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][6]>
+				<[tmvector2d][threshold1][129.446652 -18.380314]>
+				<[tmvector2d][endpoint1][129.446652 -18.380314]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][24]>
+				<[tmvector2d][threshold2][129.431168 -18.387450]>
+				<[tmvector2d][endpoint2][129.431168 -18.387450]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][86.87]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][129.430949 -18.388085]>
+				<[float64][heading][0.00]>
+				<[string8][name][New Ramp Start 62]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][YBDU_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

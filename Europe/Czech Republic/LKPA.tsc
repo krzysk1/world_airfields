@@ -1,61 +1,63 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Policka]>
-        <[string8][lname][Policka, Czech Republic]>
-        <[string8][icao][LKPA]>
-        <[string8][country][cz]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][16.262785 49.736140]>
-        <[float64][height][602.9]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][16.264008 49.734427]>
-        <[float64][tower_height][627.9]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][18]>
-                <[tmvector2d][threshold1][16.262052 49.733015]>
-                <[tmvector2d][endpoint1][16.262052 49.733015]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][36]>
-                <[tmvector2d][threshold2][16.263518 49.739265]>
-                <[tmvector2d][endpoint2][16.263518 49.739265]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][60.05]>
-            >
-            <[tmsimulator_runway][element][1]
-                <[string8][name1][15]>
-                <[tmvector2d][threshold1][16.252296 49.747025]>
-                <[tmvector2d][endpoint1][16.252296 49.747025]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][33]>
-                <[tmvector2d][threshold2][16.261441 49.734854]>
-                <[tmvector2d][endpoint2][16.261441 49.734854]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][99.97]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][16.263480 49.734476]>
-                <[float64][heading][0.00]>
-                <[string8][name][Stojanka]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Policka]>
+		<[string8][lname][Policka, Czech Republic]>
+		<[string8][icao][LKPA]>
+		<[string8][country][cz]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][16.262785 49.736140]>
+		<[float64][height][602.9]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][16.264008 49.734427]>
+		<[float64][tower_height][627.9]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][18]>
+				<[tmvector2d][threshold1][16.262052 49.733015]>
+				<[tmvector2d][endpoint1][16.262052 49.733015]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][36]>
+				<[tmvector2d][threshold2][16.263518 49.739265]>
+				<[tmvector2d][endpoint2][16.263518 49.739265]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][60.05]>
+			>
+			<[tmsimulator_runway][element][1]
+				<[string8][name1][15]>
+				<[tmvector2d][threshold1][16.252296 49.747025]>
+				<[tmvector2d][endpoint1][16.252296 49.747025]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][33]>
+				<[tmvector2d][threshold2][16.261441 49.734854]>
+				<[tmvector2d][endpoint2][16.261441 49.734854]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][99.97]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][16.263480 49.734476]>
+				<[float64][heading][0.00]>
+				<[string8][name][Stojanka]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][LKPA_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

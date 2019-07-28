@@ -1,41 +1,43 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Onondowa/Rampi (SIL)]>
-        <[string8][lname][Onondowa/Rampi (SIL), Indonesia]>
-        <[string8][icao][WW46]>
-        <[string8][country][id]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][120.295990 -2.128056]>
-        <[float64][height][973.5]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][120.295490 -2.128922]>
-        <[float64][tower_height][975.4]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][12]>
-                <[tmvector2d][threshold1][120.293494 -2.126616]>
-                <[tmvector2d][endpoint1][120.293494 -2.126616]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][30]>
-                <[tmvector2d][threshold2][120.298486 -2.129496]>
-                <[tmvector2d][endpoint2][120.298486 -2.129496]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][38.10]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Onondowa/Rampi (SIL)]>
+		<[string8][lname][Onondowa/Rampi (SIL), Indonesia]>
+		<[string8][icao][WW46]>
+		<[string8][country][id]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][120.295990 -2.128056]>
+		<[float64][height][973.5]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][120.295490 -2.128922]>
+		<[float64][tower_height][975.4]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][12]>
+				<[tmvector2d][threshold1][120.293494 -2.126616]>
+				<[tmvector2d][endpoint1][120.293494 -2.126616]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][30]>
+				<[tmvector2d][threshold2][120.298486 -2.129496]>
+				<[tmvector2d][endpoint2][120.298486 -2.129496]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][38.10]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][WW46_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

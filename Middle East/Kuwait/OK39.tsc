@@ -1,69 +1,65 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Judy Ranch]>
-        <[string8][lname][Judy Ranch, Kuwait]>
-        <[string8][icao][OK39]>
-        <[string8][country][kw]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][-100.317089 36.966694]>
-        <[float64][height][682.8]>
-        <[float64][size][5000]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][06]>
-                <[tmvector2d][threshold1][-100.322023 36.965102]>
-                <[tmvector2d][endpoint1][-100.322023 36.965102]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][24]>
-                <[tmvector2d][threshold2][-100.312156 36.968287]>
-                <[tmvector2d][endpoint2][-100.312156 36.968287]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][18.29]>
-            >
-            <[tmsimulator_runway][element][1]
-                <[string8][name1][10]>
-                <[tmvector2d][threshold1][-100.321334 36.967796]>
-                <[tmvector2d][endpoint1][-100.321334 36.967796]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][28]>
-                <[tmvector2d][threshold2][-100.312845 36.965593]>
-                <[tmvector2d][endpoint2][-100.312845 36.965593]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][12.19]>
-            >
-            <[tmsimulator_runway][element][2]
-                <[string8][name1][16]>
-                <[tmvector2d][threshold1][-100.317768 36.969243]>
-                <[tmvector2d][endpoint1][-100.317768 36.969243]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][34]>
-                <[tmvector2d][threshold2][-100.316411 36.964146]>
-                <[tmvector2d][endpoint2][-100.316411 36.964146]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][9.14]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Judy Ranch]>
+		<[string8][lname][Judy Ranch, Kuwait]>
+		<[string8][icao][OK39]>
+		<[string8][country][kw]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][-100.317089 36.966694]>
+		<[float64][height][682.8]>
+		<[float64][size][5000]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][06]>
+				<[tmvector2d][threshold1][-100.322023 36.965102]>
+				<[tmvector2d][endpoint1][-100.322023 36.965102]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][24]>
+				<[tmvector2d][threshold2][-100.312156 36.968287]>
+				<[tmvector2d][endpoint2][-100.312156 36.968287]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][18.29]>
+			>
+			<[tmsimulator_runway][element][1]
+				<[string8][name1][10]>
+				<[tmvector2d][threshold1][-100.321334 36.967796]>
+				<[tmvector2d][endpoint1][-100.321334 36.967796]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][28]>
+				<[tmvector2d][threshold2][-100.312845 36.965593]>
+				<[tmvector2d][endpoint2][-100.312845 36.965593]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][12.19]>
+			>
+			<[tmsimulator_runway][element][2]
+				<[string8][name1][16]>
+				<[tmvector2d][threshold1][-100.317768 36.969243]>
+				<[tmvector2d][endpoint1][-100.317768 36.969243]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][34]>
+				<[tmvector2d][threshold2][-100.316411 36.964146]>
+				<[tmvector2d][endpoint2][-100.316411 36.964146]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][9.14]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+	>
 >

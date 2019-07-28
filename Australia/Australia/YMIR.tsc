@@ -1,61 +1,63 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][MIRANDA DOWNS]>
-        <[string8][lname][MIRANDA DOWNS, Australia]>
-        <[string8][icao][YMIR]>
-        <[string8][country][au]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][141.886027 -17.328988]>
-        <[float64][height][53.0]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][141.879655 -17.328779]>
-        <[float64][tower_height][54.9]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][11]>
-                <[tmvector2d][threshold1][141.881105 -17.326739]>
-                <[tmvector2d][endpoint1][141.881105 -17.326739]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][29]>
-                <[tmvector2d][threshold2][141.890949 -17.331238]>
-                <[tmvector2d][endpoint2][141.890949 -17.331238]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][71.93]>
-            >
-            <[tmsimulator_runway][element][1]
-                <[string8][name1][6]>
-                <[tmvector2d][threshold1][141.880611 -17.328565]>
-                <[tmvector2d][endpoint1][141.880611 -17.328565]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][24]>
-                <[tmvector2d][threshold2][141.883853 -17.326850]>
-                <[tmvector2d][endpoint2][141.883853 -17.326850]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][24.08]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][141.880701 -17.328567]>
-                <[float64][heading][0.00]>
-                <[string8][name][New Ramp Start 47]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][MIRANDA DOWNS]>
+		<[string8][lname][MIRANDA DOWNS, Australia]>
+		<[string8][icao][YMIR]>
+		<[string8][country][au]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][141.886027 -17.328988]>
+		<[float64][height][53.0]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][141.879655 -17.328779]>
+		<[float64][tower_height][54.9]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][11]>
+				<[tmvector2d][threshold1][141.881105 -17.326739]>
+				<[tmvector2d][endpoint1][141.881105 -17.326739]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][29]>
+				<[tmvector2d][threshold2][141.890949 -17.331238]>
+				<[tmvector2d][endpoint2][141.890949 -17.331238]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][71.93]>
+			>
+			<[tmsimulator_runway][element][1]
+				<[string8][name1][6]>
+				<[tmvector2d][threshold1][141.880611 -17.328565]>
+				<[tmvector2d][endpoint1][141.880611 -17.328565]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][24]>
+				<[tmvector2d][threshold2][141.883853 -17.326850]>
+				<[tmvector2d][endpoint2][141.883853 -17.326850]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][24.08]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][141.880701 -17.328567]>
+				<[float64][heading][0.00]>
+				<[string8][name][New Ramp Start 47]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][YMIR_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

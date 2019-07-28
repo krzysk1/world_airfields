@@ -1,46 +1,48 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Rathcoole]>
-        <[string8][lname][Rathcoole, Ireland]>
-        <[string8][icao][EIRT]>
-        <[string8][country][ie]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][-8.993611 52.108889]>
-        <[float64][height][85.3]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][-8.990132 52.108232]>
-        <[float64][tower_height][88.1]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][09]>
-                <[tmvector2d][threshold1][-8.996865 52.108562]>
-                <[tmvector2d][endpoint1][-8.996865 52.108562]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][27]>
-                <[tmvector2d][threshold2][-8.990357 52.109216]>
-                <[tmvector2d][endpoint2][-8.990357 52.109216]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][17.98]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][-8.990429 52.108163]>
-                <[float64][heading][0.00]>
-                <[string8][name][Ramp Start]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Rathcoole]>
+		<[string8][lname][Rathcoole, Ireland]>
+		<[string8][icao][EIRT]>
+		<[string8][country][ie]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][-8.993611 52.108889]>
+		<[float64][height][85.3]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][-8.990132 52.108232]>
+		<[float64][tower_height][88.1]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][09]>
+				<[tmvector2d][threshold1][-8.996865 52.108562]>
+				<[tmvector2d][endpoint1][-8.996865 52.108562]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][27]>
+				<[tmvector2d][threshold2][-8.990357 52.109216]>
+				<[tmvector2d][endpoint2][-8.990357 52.109216]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][17.98]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][-8.990429 52.108163]>
+				<[float64][heading][0.00]>
+				<[string8][name][Ramp Start]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][EIRT_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

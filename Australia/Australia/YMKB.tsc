@@ -1,61 +1,63 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Mukinbudin]>
-        <[string8][lname][Mukinbudin, Australia]>
-        <[string8][icao][YMKB]>
-        <[string8][country][au]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][118.255836 -30.918892]>
-        <[float64][height][296.9]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][118.251101 -30.918129]>
-        <[float64][tower_height][298.7]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][11]>
-                <[tmvector2d][threshold1][118.248631 -30.916770]>
-                <[tmvector2d][endpoint1][118.248631 -30.916770]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][29]>
-                <[tmvector2d][threshold2][118.263041 -30.921014]>
-                <[tmvector2d][endpoint2][118.263041 -30.921014]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][27.13]>
-            >
-            <[tmsimulator_runway][element][1]
-                <[string8][name1][16]>
-                <[tmvector2d][threshold1][118.253389 -30.918221]>
-                <[tmvector2d][endpoint1][118.253389 -30.918221]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][34]>
-                <[tmvector2d][threshold2][118.256139 -30.925943]>
-                <[tmvector2d][endpoint2][118.256139 -30.925943]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][31.09]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][118.250737 -30.918025]>
-                <[float64][heading][91.30]>
-                <[string8][name][New Ramp Start 4]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Mukinbudin]>
+		<[string8][lname][Mukinbudin, Australia]>
+		<[string8][icao][YMKB]>
+		<[string8][country][au]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][118.255836 -30.918892]>
+		<[float64][height][296.9]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][118.251101 -30.918129]>
+		<[float64][tower_height][298.7]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][11]>
+				<[tmvector2d][threshold1][118.248631 -30.916770]>
+				<[tmvector2d][endpoint1][118.248631 -30.916770]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][29]>
+				<[tmvector2d][threshold2][118.263041 -30.921014]>
+				<[tmvector2d][endpoint2][118.263041 -30.921014]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][27.13]>
+			>
+			<[tmsimulator_runway][element][1]
+				<[string8][name1][16]>
+				<[tmvector2d][threshold1][118.253389 -30.918221]>
+				<[tmvector2d][endpoint1][118.253389 -30.918221]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][34]>
+				<[tmvector2d][threshold2][118.256139 -30.925943]>
+				<[tmvector2d][endpoint2][118.256139 -30.925943]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][31.09]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][118.250737 -30.918025]>
+				<[float64][heading][91.30]>
+				<[string8][name][New Ramp Start 4]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][YMKB_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

@@ -1,76 +1,78 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][TUREE CREEK]>
-        <[string8][lname][TUREE CREEK, Australia]>
-        <[string8][icao][YTRK]>
-        <[string8][country][au]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][118.651000 -23.622518]>
-        <[float64][height][530.4]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][118.656068 -23.623518]>
-        <[float64][tower_height][532.2]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][9]>
-                <[tmvector2d][threshold1][118.644694 -23.621877]>
-                <[tmvector2d][endpoint1][118.644694 -23.621877]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][27]>
-                <[tmvector2d][threshold2][118.657306 -23.623158]>
-                <[tmvector2d][endpoint2][118.657306 -23.623158]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][36.88]>
-            >
-            <[tmsimulator_runway][element][1]
-                <[string8][name1][6]>
-                <[tmvector2d][threshold1][118.650900 -23.623993]>
-                <[tmvector2d][endpoint1][118.650900 -23.623993]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][24]>
-                <[tmvector2d][threshold2][118.657297 -23.621857]>
-                <[tmvector2d][endpoint2][118.657297 -23.621857]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][21.95]>
-            >
-            <[tmsimulator_runway][element][2]
-                <[string8][name1][16]>
-                <[tmvector2d][threshold1][118.653068 -23.619882]>
-                <[tmvector2d][endpoint1][118.653068 -23.619882]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][34]>
-                <[tmvector2d][threshold2][118.654930 -23.625744]>
-                <[tmvector2d][endpoint2][118.654930 -23.625744]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][28.96]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][118.656466 -23.623492]>
-                <[float64][heading][0.00]>
-                <[string8][name][New Ramp Start 18]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][TUREE CREEK]>
+		<[string8][lname][TUREE CREEK, Australia]>
+		<[string8][icao][YTRK]>
+		<[string8][country][au]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][118.651000 -23.622518]>
+		<[float64][height][530.4]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][118.656068 -23.623518]>
+		<[float64][tower_height][532.2]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][9]>
+				<[tmvector2d][threshold1][118.644694 -23.621877]>
+				<[tmvector2d][endpoint1][118.644694 -23.621877]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][27]>
+				<[tmvector2d][threshold2][118.657306 -23.623158]>
+				<[tmvector2d][endpoint2][118.657306 -23.623158]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][36.88]>
+			>
+			<[tmsimulator_runway][element][1]
+				<[string8][name1][6]>
+				<[tmvector2d][threshold1][118.650900 -23.623993]>
+				<[tmvector2d][endpoint1][118.650900 -23.623993]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][24]>
+				<[tmvector2d][threshold2][118.657297 -23.621857]>
+				<[tmvector2d][endpoint2][118.657297 -23.621857]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][21.95]>
+			>
+			<[tmsimulator_runway][element][2]
+				<[string8][name1][16]>
+				<[tmvector2d][threshold1][118.653068 -23.619882]>
+				<[tmvector2d][endpoint1][118.653068 -23.619882]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][34]>
+				<[tmvector2d][threshold2][118.654930 -23.625744]>
+				<[tmvector2d][endpoint2][118.654930 -23.625744]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][28.96]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][118.656466 -23.623492]>
+				<[float64][heading][0.00]>
+				<[string8][name][New Ramp Start 18]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][YTRK_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

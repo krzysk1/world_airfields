@@ -1,46 +1,48 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Yaniruma (ZGK)]>
-        <[string8][lname][Yaniruma (ZGK), Indonesia]>
-        <[string8][icao][WT71]>
-        <[string8][country][id]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][139.819506 -5.420558]>
-        <[float64][height][44.2]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][139.818239 -5.419918]>
-        <[float64][tower_height][45.7]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][11]>
-                <[tmvector2d][threshold1][139.817344 -5.419906]>
-                <[tmvector2d][endpoint1][139.817344 -5.419906]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][29]>
-                <[tmvector2d][threshold2][139.821668 -5.421210]>
-                <[tmvector2d][endpoint2][139.821668 -5.421210]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][20.12]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][139.818560 -5.420065]>
-                <[float64][heading][281.65]>
-                <[string8][name][Field Start]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Yaniruma (ZGK)]>
+		<[string8][lname][Yaniruma (ZGK), Indonesia]>
+		<[string8][icao][WT71]>
+		<[string8][country][id]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][139.819506 -5.420558]>
+		<[float64][height][44.2]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][139.818239 -5.419918]>
+		<[float64][tower_height][45.7]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][11]>
+				<[tmvector2d][threshold1][139.817344 -5.419906]>
+				<[tmvector2d][endpoint1][139.817344 -5.419906]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][29]>
+				<[tmvector2d][threshold2][139.821668 -5.421210]>
+				<[tmvector2d][endpoint2][139.821668 -5.421210]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][20.12]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][139.818560 -5.420065]>
+				<[float64][heading][281.65]>
+				<[string8][name][Field Start]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][WT71_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

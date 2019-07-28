@@ -1,91 +1,93 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Ellis Ranch]>
-        <[string8][lname][Ellis Ranch, WY]>
-        <[string8][icao][WY17]>
-        <[string8][country][us]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][-106.427761 42.020167]>
-        <[float64][height][1990.3]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][-106.425438 42.022137]>
-        <[float64][tower_height][1992.2]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][05]>
-                <[tmvector2d][threshold1][-106.430634 42.018473]>
-                <[tmvector2d][endpoint1][-106.430634 42.018473]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][23]>
-                <[tmvector2d][threshold2][-106.424887 42.021861]>
-                <[tmvector2d][endpoint2][-106.424887 42.021861]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][10.97]>
-            >
-            <[tmsimulator_runway][element][1]
-                <[string8][name1][15]>
-                <[tmvector2d][threshold1][-106.429137 42.024381]>
-                <[tmvector2d][endpoint1][-106.429137 42.024381]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][33]>
-                <[tmvector2d][threshold2][-106.426439 42.020164]>
-                <[tmvector2d][endpoint2][-106.426439 42.020164]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][10.97]>
-            >
-            <[tmsimulator_runway][element][2]
-                <[string8][name1][07]>
-                <[tmvector2d][threshold1][-106.430188 42.022370]>
-                <[tmvector2d][endpoint1][-106.430188 42.022370]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][25]>
-                <[tmvector2d][threshold2][-106.423608 42.022624]>
-                <[tmvector2d][endpoint2][-106.423608 42.022624]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][14.02]>
-            >
-            <[tmsimulator_runway][element][3]
-                <[string8][name1][08]>
-                <[tmvector2d][threshold1][-106.430208 42.022363]>
-                <[tmvector2d][endpoint1][-106.430208 42.022363]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][26]>
-                <[tmvector2d][threshold2][-106.421101 42.021509]>
-                <[tmvector2d][endpoint2][-106.421101 42.021509]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][13.11]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][-106.425728 42.022119]>
-                <[float64][heading][249.44]>
-                <[string8][name][New Ramp Start 19]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Ellis Ranch]>
+		<[string8][lname][Ellis Ranch, WY]>
+		<[string8][icao][WY17]>
+		<[string8][country][us]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][-106.427761 42.020167]>
+		<[float64][height][1990.3]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][-106.425438 42.022137]>
+		<[float64][tower_height][1992.2]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][05]>
+				<[tmvector2d][threshold1][-106.430634 42.018473]>
+				<[tmvector2d][endpoint1][-106.430634 42.018473]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][23]>
+				<[tmvector2d][threshold2][-106.424887 42.021861]>
+				<[tmvector2d][endpoint2][-106.424887 42.021861]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][10.97]>
+			>
+			<[tmsimulator_runway][element][1]
+				<[string8][name1][15]>
+				<[tmvector2d][threshold1][-106.429137 42.024381]>
+				<[tmvector2d][endpoint1][-106.429137 42.024381]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][33]>
+				<[tmvector2d][threshold2][-106.426439 42.020164]>
+				<[tmvector2d][endpoint2][-106.426439 42.020164]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][10.97]>
+			>
+			<[tmsimulator_runway][element][2]
+				<[string8][name1][07]>
+				<[tmvector2d][threshold1][-106.430188 42.022370]>
+				<[tmvector2d][endpoint1][-106.430188 42.022370]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][25]>
+				<[tmvector2d][threshold2][-106.423608 42.022624]>
+				<[tmvector2d][endpoint2][-106.423608 42.022624]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][14.02]>
+			>
+			<[tmsimulator_runway][element][3]
+				<[string8][name1][08]>
+				<[tmvector2d][threshold1][-106.430208 42.022363]>
+				<[tmvector2d][endpoint1][-106.430208 42.022363]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][26]>
+				<[tmvector2d][threshold2][-106.421101 42.021509]>
+				<[tmvector2d][endpoint2][-106.421101 42.021509]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][13.11]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][-106.425728 42.022119]>
+				<[float64][heading][249.44]>
+				<[string8][name][New Ramp Start 19]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][WY17_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

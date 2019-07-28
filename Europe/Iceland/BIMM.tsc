@@ -1,41 +1,43 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Melgerdismelar]>
-        <[string8][lname][Melgerdismelar, Iceland]>
-        <[string8][icao][BIMM]>
-        <[string8][country][is]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][-18.167712 65.484338]>
-        <[float64][height][11.0]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][-18.169467 65.486356]>
-        <[float64][tower_height][36.0]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][04]>
-                <[tmvector2d][threshold1][-18.171230 65.481695]>
-                <[tmvector2d][endpoint1][-18.171230 65.481695]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][22]>
-                <[tmvector2d][threshold2][-18.164195 65.486982]>
-                <[tmvector2d][endpoint2][-18.164195 65.486982]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][22.86]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Melgerdismelar]>
+		<[string8][lname][Melgerdismelar, Iceland]>
+		<[string8][icao][BIMM]>
+		<[string8][country][is]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][-18.167712 65.484338]>
+		<[float64][height][11.0]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][-18.169467 65.486356]>
+		<[float64][tower_height][36.0]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][04]>
+				<[tmvector2d][threshold1][-18.171230 65.481695]>
+				<[tmvector2d][endpoint1][-18.171230 65.481695]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][22]>
+				<[tmvector2d][threshold2][-18.164195 65.486982]>
+				<[tmvector2d][endpoint2][-18.164195 65.486982]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][22.86]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][BIMM_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

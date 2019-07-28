@@ -1,46 +1,48 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Windarra]>
-        <[string8][lname][Windarra, Australia]>
-        <[string8][icao][YWDA]>
-        <[string8][country][au]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][122.244228 -28.480390]>
-        <[float64][height][437.4]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][122.240862 -28.486107]>
-        <[float64][tower_height][439.2]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][14]>
-                <[tmvector2d][threshold1][122.238605 -28.474058]>
-                <[tmvector2d][endpoint1][122.238605 -28.474058]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][32]>
-                <[tmvector2d][threshold2][122.249850 -28.486723]>
-                <[tmvector2d][endpoint2][122.249850 -28.486723]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][57.00]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][122.249831 -28.486798]>
-                <[float64][heading][298.07]>
-                <[string8][name][New Ramp Start 10]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Windarra]>
+		<[string8][lname][Windarra, Australia]>
+		<[string8][icao][YWDA]>
+		<[string8][country][au]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][122.244228 -28.480390]>
+		<[float64][height][437.4]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][122.240862 -28.486107]>
+		<[float64][tower_height][439.2]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][14]>
+				<[tmvector2d][threshold1][122.238605 -28.474058]>
+				<[tmvector2d][endpoint1][122.238605 -28.474058]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][32]>
+				<[tmvector2d][threshold2][122.249850 -28.486723]>
+				<[tmvector2d][endpoint2][122.249850 -28.486723]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][57.00]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][122.249831 -28.486798]>
+				<[float64][heading][298.07]>
+				<[string8][name][New Ramp Start 10]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][YWDA_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

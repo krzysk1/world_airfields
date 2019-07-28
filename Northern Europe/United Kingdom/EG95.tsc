@@ -1,61 +1,63 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Sutton Meadows]>
-        <[string8][lname][Sutton Meadows, United Kingdom]>
-        <[string8][icao][EG95]>
-        <[string8][country][gb]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][0.062554 52.386516]>
-        <[float64][height][2.4]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][0.063444 52.384555]>
-        <[float64][tower_height][11.6]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][01]>
-                <[tmvector2d][threshold1][0.061997 52.384204]>
-                <[tmvector2d][endpoint1][0.061997 52.384204]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][19]>
-                <[tmvector2d][threshold2][0.063112 52.388827]>
-                <[tmvector2d][endpoint2][0.063112 52.388827]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][17.98]>
-            >
-            <[tmsimulator_runway][element][1]
-                <[string8][name1][10]>
-                <[tmvector2d][threshold1][0.057438 52.386255]>
-                <[tmvector2d][endpoint1][0.057438 52.386255]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][28]>
-                <[tmvector2d][threshold2][0.063832 52.385581]>
-                <[tmvector2d][endpoint2][0.063832 52.385581]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][17.98]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][0.063192 52.384408]>
-                <[float64][heading][268.67]>
-                <[string8][name][Grass Parking]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Sutton Meadows]>
+		<[string8][lname][Sutton Meadows, United Kingdom]>
+		<[string8][icao][EG95]>
+		<[string8][country][gb]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][0.062554 52.386516]>
+		<[float64][height][2.4]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][0.063444 52.384555]>
+		<[float64][tower_height][11.6]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][01]>
+				<[tmvector2d][threshold1][0.061997 52.384204]>
+				<[tmvector2d][endpoint1][0.061997 52.384204]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][19]>
+				<[tmvector2d][threshold2][0.063112 52.388827]>
+				<[tmvector2d][endpoint2][0.063112 52.388827]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][17.98]>
+			>
+			<[tmsimulator_runway][element][1]
+				<[string8][name1][10]>
+				<[tmvector2d][threshold1][0.057438 52.386255]>
+				<[tmvector2d][endpoint1][0.057438 52.386255]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][28]>
+				<[tmvector2d][threshold2][0.063832 52.385581]>
+				<[tmvector2d][endpoint2][0.063832 52.385581]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][17.98]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][0.063192 52.384408]>
+				<[float64][heading][268.67]>
+				<[string8][name][Grass Parking]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][EG95_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

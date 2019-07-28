@@ -1,56 +1,58 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Frazier Lake Airpark]>
-        <[string8][lname][Frazier Lake Airpark]>
-        <[string8][icao][1C9]>
-        <[string8][country][]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][-121.465485 36.953285]>
-        <[float64][height][46.0]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][-121.465485 36.954285]>
-        <[float64][tower_height][46.0]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][05]>
-                <[tmvector2d][threshold1][-121.469374 36.951836]>
-                <[tmvector2d][endpoint1][-121.469374 36.951836]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][23]>
-                <[tmvector2d][threshold2][-121.461596 36.954734]>
-                <[tmvector2d][endpoint2][-121.461596 36.954734]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][omni]>
-                <[float64][width][30.48]>
-            >
-            <[tmsimulator_runway][element][1]
-                <[string8][name1][06]>
-                <[tmvector2d][threshold1][-121.470458 36.953212]>
-                <[tmvector2d][endpoint1][-121.470458 36.953212]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][24]>
-                <[tmvector2d][threshold2][-121.460512 36.955342]>
-                <[tmvector2d][endpoint2][-121.460512 36.955342]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][18.29]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Frazier Lake Airpark]>
+		<[string8][lname][Frazier Lake Airpark]>
+		<[string8][icao][1C9]>
+		<[string8][country][]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][-121.465485 36.953285]>
+		<[float64][height][46.0]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][-121.465485 36.954285]>
+		<[float64][tower_height][46.0]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][05]>
+				<[tmvector2d][threshold1][-121.469374 36.951836]>
+				<[tmvector2d][endpoint1][-121.469374 36.951836]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][23]>
+				<[tmvector2d][threshold2][-121.461596 36.954734]>
+				<[tmvector2d][endpoint2][-121.461596 36.954734]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][omni]>
+				<[float64][width][30.48]>
+			>
+			<[tmsimulator_runway][element][1]
+				<[string8][name1][06]>
+				<[tmvector2d][threshold1][-121.470458 36.953212]>
+				<[tmvector2d][endpoint1][-121.470458 36.953212]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][24]>
+				<[tmvector2d][threshold2][-121.460512 36.955342]>
+				<[tmvector2d][endpoint2][-121.460512 36.955342]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][18.29]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][1C9_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

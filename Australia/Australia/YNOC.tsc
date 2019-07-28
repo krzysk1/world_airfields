@@ -1,76 +1,78 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Nockatunga]>
-        <[string8][lname][Nockatunga, Australia]>
-        <[string8][icao][YNOC]>
-        <[string8][country][au]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][142.708011 -27.719736]>
-        <[float64][height][112.8]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][142.711840 -27.720412]>
-        <[float64][tower_height][114.6]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][9]>
-                <[tmvector2d][threshold1][142.703260 -27.719591]>
-                <[tmvector2d][endpoint1][142.703260 -27.719591]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][27]>
-                <[tmvector2d][threshold2][142.712761 -27.719882]>
-                <[tmvector2d][endpoint2][142.712761 -27.719882]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][27.13]>
-            >
-            <[tmsimulator_runway][element][1]
-                <[string8][name1][5]>
-                <[tmvector2d][threshold1][142.691175 -27.705615]>
-                <[tmvector2d][endpoint1][142.691175 -27.705615]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][23]>
-                <[tmvector2d][threshold2][142.700003 -27.699728]>
-                <[tmvector2d][endpoint2][142.700003 -27.699728]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][95.10]>
-            >
-            <[tmsimulator_runway][element][2]
-                <[string8][name1][14]>
-                <[tmvector2d][threshold1][142.696193 -27.700408]>
-                <[tmvector2d][endpoint1][142.696193 -27.700408]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][32]>
-                <[tmvector2d][threshold2][142.700877 -27.705816]>
-                <[tmvector2d][endpoint2][142.700877 -27.705816]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][110.03]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][142.710849 -27.720330]>
-                <[float64][heading][90.92]>
-                <[string8][name][New Ramp Start 2]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Nockatunga]>
+		<[string8][lname][Nockatunga, Australia]>
+		<[string8][icao][YNOC]>
+		<[string8][country][au]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][142.708011 -27.719736]>
+		<[float64][height][112.8]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][142.711840 -27.720412]>
+		<[float64][tower_height][114.6]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][9]>
+				<[tmvector2d][threshold1][142.703260 -27.719591]>
+				<[tmvector2d][endpoint1][142.703260 -27.719591]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][27]>
+				<[tmvector2d][threshold2][142.712761 -27.719882]>
+				<[tmvector2d][endpoint2][142.712761 -27.719882]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][27.13]>
+			>
+			<[tmsimulator_runway][element][1]
+				<[string8][name1][5]>
+				<[tmvector2d][threshold1][142.691175 -27.705615]>
+				<[tmvector2d][endpoint1][142.691175 -27.705615]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][23]>
+				<[tmvector2d][threshold2][142.700003 -27.699728]>
+				<[tmvector2d][endpoint2][142.700003 -27.699728]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][95.10]>
+			>
+			<[tmsimulator_runway][element][2]
+				<[string8][name1][14]>
+				<[tmvector2d][threshold1][142.696193 -27.700408]>
+				<[tmvector2d][endpoint1][142.696193 -27.700408]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][32]>
+				<[tmvector2d][threshold2][142.700877 -27.705816]>
+				<[tmvector2d][endpoint2][142.700877 -27.705816]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][110.03]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][142.710849 -27.720330]>
+				<[float64][heading][90.92]>
+				<[string8][name][New Ramp Start 2]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][YNOC_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

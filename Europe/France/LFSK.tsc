@@ -1,54 +1,50 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Vitry le Francois]>
-        <[string8][lname][Vitry le Francois, France]>
-        <[string8][icao][LFSK]>
-        <[string8][country][fr]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][4.687234 48.705174]>
-        <[float64][height][125.0]>
-        <[float64][size][5000]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][05]>
-                <[tmvector2d][threshold1][4.682896 48.702311]>
-                <[tmvector2d][endpoint1][4.682896 48.702311]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][23]>
-                <[tmvector2d][threshold2][4.691572 48.708037]>
-                <[tmvector2d][endpoint2][4.691572 48.708037]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][99.97]>
-            >
-            <[tmsimulator_runway][element][1]
-                <[string8][name1][12]>
-                <[tmvector2d][threshold1][4.679667 48.704635]>
-                <[tmvector2d][endpoint1][4.679667 48.704635]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][30]>
-                <[tmvector2d][threshold2][4.690709 48.701541]>
-                <[tmvector2d][endpoint2][4.690709 48.701541]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][99.97]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Vitry le Francois]>
+		<[string8][lname][Vitry le Francois, France]>
+		<[string8][icao][LFSK]>
+		<[string8][country][fr]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][4.687234 48.705174]>
+		<[float64][height][125.0]>
+		<[float64][size][5000]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][05]>
+				<[tmvector2d][threshold1][4.682896 48.702311]>
+				<[tmvector2d][endpoint1][4.682896 48.702311]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][23]>
+				<[tmvector2d][threshold2][4.691572 48.708037]>
+				<[tmvector2d][endpoint2][4.691572 48.708037]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][99.97]>
+			>
+			<[tmsimulator_runway][element][1]
+				<[string8][name1][12]>
+				<[tmvector2d][threshold1][4.679667 48.704635]>
+				<[tmvector2d][endpoint1][4.679667 48.704635]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][30]>
+				<[tmvector2d][threshold2][4.690709 48.701541]>
+				<[tmvector2d][endpoint2][4.690709 48.701541]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][99.97]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+	>
 >

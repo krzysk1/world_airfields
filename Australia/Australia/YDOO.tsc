@@ -1,61 +1,63 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Donors Hill]>
-        <[string8][lname][Donors Hill, Australia]>
-        <[string8][icao][YDOO]>
-        <[string8][country][au]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][140.554175 -18.712154]>
-        <[float64][height][37.5]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][140.547002 -18.714506]>
-        <[float64][tower_height][39.3]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][07]>
-                <[tmvector2d][threshold1][140.550552 -18.713271]>
-                <[tmvector2d][endpoint1][140.550552 -18.713271]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][25]>
-                <[tmvector2d][threshold2][140.557797 -18.711037]>
-                <[tmvector2d][endpoint2][140.557797 -18.711037]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][42.98]>
-            >
-            <[tmsimulator_runway][element][1]
-                <[string8][name1][03]>
-                <[tmvector2d][threshold1][140.550420 -18.713048]>
-                <[tmvector2d][endpoint1][140.550420 -18.713048]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][21]>
-                <[tmvector2d][threshold2][140.557884 -18.704355]>
-                <[tmvector2d][endpoint2][140.557884 -18.704355]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][49.99]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][140.550497 -18.713633]>
-                <[float64][heading][353.57]>
-                <[string8][name][New Ramp Start 42]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Donors Hill]>
+		<[string8][lname][Donors Hill, Australia]>
+		<[string8][icao][YDOO]>
+		<[string8][country][au]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][140.554175 -18.712154]>
+		<[float64][height][37.5]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][140.547002 -18.714506]>
+		<[float64][tower_height][39.3]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][07]>
+				<[tmvector2d][threshold1][140.550552 -18.713271]>
+				<[tmvector2d][endpoint1][140.550552 -18.713271]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][25]>
+				<[tmvector2d][threshold2][140.557797 -18.711037]>
+				<[tmvector2d][endpoint2][140.557797 -18.711037]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][42.98]>
+			>
+			<[tmsimulator_runway][element][1]
+				<[string8][name1][03]>
+				<[tmvector2d][threshold1][140.550420 -18.713048]>
+				<[tmvector2d][endpoint1][140.550420 -18.713048]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][21]>
+				<[tmvector2d][threshold2][140.557884 -18.704355]>
+				<[tmvector2d][endpoint2][140.557884 -18.704355]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][49.99]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][140.550497 -18.713633]>
+				<[float64][heading][353.57]>
+				<[string8][name][New Ramp Start 42]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][YDOO_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

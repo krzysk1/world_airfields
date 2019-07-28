@@ -1,41 +1,43 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Balai Agas (MAF)]>
-        <[string8][lname][Balai Agas (MAF), Indonesia]>
-        <[string8][icao][WX23]>
-        <[string8][country][id]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][111.316040 -0.561605]>
-        <[float64][height][154.8]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][111.317396 -0.561103]>
-        <[float64][tower_height][156.4]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][26]>
-                <[tmvector2d][threshold1][111.317808 -0.561372]>
-                <[tmvector2d][endpoint1][111.317808 -0.561372]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][08]>
-                <[tmvector2d][threshold2][111.314272 -0.561838]>
-                <[tmvector2d][endpoint2][111.314272 -0.561838]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][25.91]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Balai Agas (MAF)]>
+		<[string8][lname][Balai Agas (MAF), Indonesia]>
+		<[string8][icao][WX23]>
+		<[string8][country][id]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][111.316040 -0.561605]>
+		<[float64][height][154.8]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][111.317396 -0.561103]>
+		<[float64][tower_height][156.4]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][26]>
+				<[tmvector2d][threshold1][111.317808 -0.561372]>
+				<[tmvector2d][endpoint1][111.317808 -0.561372]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][08]>
+				<[tmvector2d][threshold2][111.314272 -0.561838]>
+				<[tmvector2d][endpoint2][111.314272 -0.561838]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][25.91]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][WX23_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

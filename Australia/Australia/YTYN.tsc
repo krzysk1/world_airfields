@@ -1,61 +1,63 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][TIEYON STN]>
-        <[string8][lname][TIEYON STN, Australia]>
-        <[string8][icao][YTYN]>
-        <[string8][country][au]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][133.904512 -26.215006]>
-        <[float64][height][374.0]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][133.907655 -26.214969]>
-        <[float64][tower_height][375.8]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][8]>
-                <[tmvector2d][threshold1][133.898884 -26.214983]>
-                <[tmvector2d][endpoint1][133.898884 -26.214983]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][26]>
-                <[tmvector2d][threshold2][133.910140 -26.215029]>
-                <[tmvector2d][endpoint2][133.910140 -26.215029]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][91.14]>
-            >
-            <[tmsimulator_runway][element][1]
-                <[string8][name1][17]>
-                <[tmvector2d][threshold1][133.902815 -26.206587]>
-                <[tmvector2d][endpoint1][133.902815 -26.206587]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][35]>
-                <[tmvector2d][threshold2][133.903899 -26.215033]>
-                <[tmvector2d][endpoint2][133.903899 -26.215033]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][73.15]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][133.909903 -26.215201]>
-                <[float64][heading][303.18]>
-                <[string8][name][New Ramp Start 83]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][TIEYON STN]>
+		<[string8][lname][TIEYON STN, Australia]>
+		<[string8][icao][YTYN]>
+		<[string8][country][au]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][133.904512 -26.215006]>
+		<[float64][height][374.0]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][133.907655 -26.214969]>
+		<[float64][tower_height][375.8]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][8]>
+				<[tmvector2d][threshold1][133.898884 -26.214983]>
+				<[tmvector2d][endpoint1][133.898884 -26.214983]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][26]>
+				<[tmvector2d][threshold2][133.910140 -26.215029]>
+				<[tmvector2d][endpoint2][133.910140 -26.215029]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][91.14]>
+			>
+			<[tmsimulator_runway][element][1]
+				<[string8][name1][17]>
+				<[tmvector2d][threshold1][133.902815 -26.206587]>
+				<[tmvector2d][endpoint1][133.902815 -26.206587]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][35]>
+				<[tmvector2d][threshold2][133.903899 -26.215033]>
+				<[tmvector2d][endpoint2][133.903899 -26.215033]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][73.15]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][133.909903 -26.215201]>
+				<[float64][heading][303.18]>
+				<[string8][name][New Ramp Start 83]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][YTYN_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

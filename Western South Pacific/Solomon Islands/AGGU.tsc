@@ -1,46 +1,48 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Marau]>
-        <[string8][lname][Marau, Solomon Islands]>
-        <[string8][icao][AGGU]>
-        <[string8][country][sb]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][160.825563 -9.861871]>
-        <[float64][height][3.0]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][160.827442 -9.859907]>
-        <[float64][tower_height][4.9]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][05]>
-                <[tmvector2d][threshold1][160.823403 -9.863588]>
-                <[tmvector2d][endpoint1][160.823403 -9.863588]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][23]>
-                <[tmvector2d][threshold2][160.827722 -9.860155]>
-                <[tmvector2d][endpoint2][160.827722 -9.860155]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][24.08]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][160.827366 -9.860048]>
-                <[float64][heading][211.69]>
-                <[string8][name][New Ramp Start 13]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Marau]>
+		<[string8][lname][Marau, Solomon Islands]>
+		<[string8][icao][AGGU]>
+		<[string8][country][sb]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][160.825563 -9.861871]>
+		<[float64][height][3.0]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][160.827442 -9.859907]>
+		<[float64][tower_height][4.9]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][05]>
+				<[tmvector2d][threshold1][160.823403 -9.863588]>
+				<[tmvector2d][endpoint1][160.823403 -9.863588]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][23]>
+				<[tmvector2d][threshold2][160.827722 -9.860155]>
+				<[tmvector2d][endpoint2][160.827722 -9.860155]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][24.08]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][160.827366 -9.860048]>
+				<[float64][heading][211.69]>
+				<[string8][name][New Ramp Start 13]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][AGGU_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

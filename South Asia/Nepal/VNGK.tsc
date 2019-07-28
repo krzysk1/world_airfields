@@ -1,39 +1,35 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Gorkha]>
-        <[string8][lname][Gorkha, Nepal]>
-        <[string8][icao][VNGK]>
-        <[string8][country][np]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][84.465983 28.038552]>
-        <[float64][height][424.9]>
-        <[float64][size][5000]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][01]>
-                <[tmvector2d][threshold1][84.464663 28.034206]>
-                <[tmvector2d][endpoint1][84.464663 28.034206]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][19]>
-                <[tmvector2d][threshold2][84.467303 28.042898]>
-                <[tmvector2d][endpoint2][84.467303 28.042898]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][39.93]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Gorkha]>
+		<[string8][lname][Gorkha, Nepal]>
+		<[string8][icao][VNGK]>
+		<[string8][country][np]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][84.465983 28.038552]>
+		<[float64][height][424.9]>
+		<[float64][size][5000]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][01]>
+				<[tmvector2d][threshold1][84.464663 28.034206]>
+				<[tmvector2d][endpoint1][84.464663 28.034206]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][19]>
+				<[tmvector2d][threshold2][84.467303 28.042898]>
+				<[tmvector2d][endpoint2][84.467303 28.042898]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][39.93]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+	>
 >

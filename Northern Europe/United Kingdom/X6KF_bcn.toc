@@ -1,0 +1,14 @@
+<[file][][X6KF_bcn]
+	<[cultivation][][]
+		<[string8][coordinate_system][lonlat]>
+		<[list_light][light_list][]
+		>
+		<[list_xref][xref_list][]
+			<[xref][element][0]
+				<[string8][name][tower00_medium_blue_ds_05_08_08]>
+				<[vector3_float64][position][-4.470914 57.589148 0]>
+				<[float32][direction][0]>
+			>
+		>
+	>
+>

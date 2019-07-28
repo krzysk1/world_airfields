@@ -1,46 +1,48 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Taylor Field]>
-        <[string8][lname][Taylor Field, WY]>
-        <[string8][icao][WY55]>
-        <[string8][country][us]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][-104.594642 44.417974]>
-        <[float64][height][1508.8]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][-104.594800 44.418487]>
-        <[float64][tower_height][1510.6]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][14]>
-                <[tmvector2d][threshold1][-104.598266 44.421735]>
-                <[tmvector2d][endpoint1][-104.598266 44.421735]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][32]>
-                <[tmvector2d][threshold2][-104.591017 44.414213]>
-                <[tmvector2d][endpoint2][-104.591017 44.414213]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][10.97]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][-104.594935 44.418587]>
-                <[float64][heading][214.69]>
-                <[string8][name][New Ramp Start 44]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Taylor Field]>
+		<[string8][lname][Taylor Field, WY]>
+		<[string8][icao][WY55]>
+		<[string8][country][us]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][-104.594642 44.417974]>
+		<[float64][height][1508.8]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][-104.594800 44.418487]>
+		<[float64][tower_height][1510.6]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][14]>
+				<[tmvector2d][threshold1][-104.598266 44.421735]>
+				<[tmvector2d][endpoint1][-104.598266 44.421735]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][32]>
+				<[tmvector2d][threshold2][-104.591017 44.414213]>
+				<[tmvector2d][endpoint2][-104.591017 44.414213]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][10.97]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][-104.594935 44.418587]>
+				<[float64][heading][214.69]>
+				<[string8][name][New Ramp Start 44]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][WY55_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

@@ -1,46 +1,48 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Mintabie]>
-        <[string8][lname][Mintabie, Australia]>
-        <[string8][icao][YMIB]>
-        <[string8][country][au]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][133.302651 -27.329701]>
-        <[float64][height][365.8]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][133.307570 -27.326382]>
-        <[float64][tower_height][367.6]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][05]>
-                <[tmvector2d][threshold1][133.296887 -27.333085]>
-                <[tmvector2d][endpoint1][133.296887 -27.333085]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][23]>
-                <[tmvector2d][threshold2][133.308416 -27.326317]>
-                <[tmvector2d][endpoint2][133.308416 -27.326317]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][21.95]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][133.307429 -27.326686]>
-                <[float64][heading][245.22]>
-                <[string8][name][New Ramp Start 4]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Mintabie]>
+		<[string8][lname][Mintabie, Australia]>
+		<[string8][icao][YMIB]>
+		<[string8][country][au]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][133.302651 -27.329701]>
+		<[float64][height][365.8]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][133.307570 -27.326382]>
+		<[float64][tower_height][367.6]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][05]>
+				<[tmvector2d][threshold1][133.296887 -27.333085]>
+				<[tmvector2d][endpoint1][133.296887 -27.333085]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][23]>
+				<[tmvector2d][threshold2][133.308416 -27.326317]>
+				<[tmvector2d][endpoint2][133.308416 -27.326317]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][21.95]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][133.307429 -27.326686]>
+				<[float64][heading][245.22]>
+				<[string8][name][New Ramp Start 4]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][YMIB_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

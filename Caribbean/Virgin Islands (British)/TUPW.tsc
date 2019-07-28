@@ -1,44 +1,46 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Virgin Gorda]>
-        <[string8][lname][Virgin Gorda, Virgin Islands (British)]>
-        <[string8][icao][TUPW]>
-        <[string8][country][vg]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][-64.433294 18.450269]>
-        <[float64][height][2.7]>
-        <[float64][size][5000]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][02]>
-                <[tmvector2d][threshold1][-64.433815 18.446758]>
-                <[tmvector2d][endpoint1][-64.433815 18.446758]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][20]>
-                <[tmvector2d][threshold2][-64.432774 18.453781]>
-                <[tmvector2d][endpoint2][-64.432774 18.453781]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][17.98]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][-64.433328 18.454224]>
-                <[float64][heading][122.96]>
-                <[string8][name][Ramp]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Virgin Gorda]>
+		<[string8][lname][Virgin Gorda, Virgin Islands (British)]>
+		<[string8][icao][TUPW]>
+		<[string8][country][vg]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][-64.433294 18.450269]>
+		<[float64][height][2.7]>
+		<[float64][size][5000]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][02]>
+				<[tmvector2d][threshold1][-64.433815 18.446758]>
+				<[tmvector2d][endpoint1][-64.433815 18.446758]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][20]>
+				<[tmvector2d][threshold2][-64.432774 18.453781]>
+				<[tmvector2d][endpoint2][-64.432774 18.453781]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][17.98]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][-64.433328 18.454224]>
+				<[float64][heading][122.96]>
+				<[string8][name][Ramp]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][TUPW_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

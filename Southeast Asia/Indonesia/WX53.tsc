@@ -1,46 +1,48 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Bugalaga (CAMA)]>
-        <[string8][lname][Bugalaga (CAMA), Indonesia]>
-        <[string8][icao][WX53]>
-        <[string8][country][id]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][136.596268 -3.623481]>
-        <[float64][height][1938.5]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][136.594701 -3.623927]>
-        <[float64][tower_height][1940.1]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][6]>
-                <[tmvector2d][threshold1][136.594294 -3.624369]>
-                <[tmvector2d][endpoint1][136.594294 -3.624369]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][24]>
-                <[tmvector2d][threshold2][136.598243 -3.622592]>
-                <[tmvector2d][endpoint2][136.598243 -3.622592]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][24.08]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][136.594396 -3.624170]>
-                <[float64][heading][121.65]>
-                <[string8][name][Bugalaga Start]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Bugalaga (CAMA)]>
+		<[string8][lname][Bugalaga (CAMA), Indonesia]>
+		<[string8][icao][WX53]>
+		<[string8][country][id]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][136.596268 -3.623481]>
+		<[float64][height][1938.5]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][136.594701 -3.623927]>
+		<[float64][tower_height][1940.1]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][6]>
+				<[tmvector2d][threshold1][136.594294 -3.624369]>
+				<[tmvector2d][endpoint1][136.594294 -3.624369]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][24]>
+				<[tmvector2d][threshold2][136.598243 -3.622592]>
+				<[tmvector2d][endpoint2][136.598243 -3.622592]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][24.08]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][136.594396 -3.624170]>
+				<[float64][heading][121.65]>
+				<[string8][name][Bugalaga Start]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][WX53_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

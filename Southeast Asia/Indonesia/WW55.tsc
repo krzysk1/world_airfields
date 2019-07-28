@@ -1,46 +1,48 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Pasina (CAMA)]>
-        <[string8][lname][Pasina (CAMA), Indonesia]>
-        <[string8][icao][WW55]>
-        <[string8][country][id]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][139.082645 -4.376339]>
-        <[float64][height][1333.8]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][139.081653 -4.377790]>
-        <[float64][tower_height][1335.3]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][3]>
-                <[tmvector2d][threshold1][139.081751 -4.377883]>
-                <[tmvector2d][endpoint1][139.081751 -4.377883]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][21]>
-                <[tmvector2d][threshold2][139.083539 -4.374795]>
-                <[tmvector2d][endpoint2][139.083539 -4.374795]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][21.95]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][139.081757 -4.377791]>
-                <[float64][heading][84.00]>
-                <[string8][name][Pasina start]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Pasina (CAMA)]>
+		<[string8][lname][Pasina (CAMA), Indonesia]>
+		<[string8][icao][WW55]>
+		<[string8][country][id]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][139.082645 -4.376339]>
+		<[float64][height][1333.8]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][139.081653 -4.377790]>
+		<[float64][tower_height][1335.3]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][3]>
+				<[tmvector2d][threshold1][139.081751 -4.377883]>
+				<[tmvector2d][endpoint1][139.081751 -4.377883]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][21]>
+				<[tmvector2d][threshold2][139.083539 -4.374795]>
+				<[tmvector2d][endpoint2][139.083539 -4.374795]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][21.95]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][139.081757 -4.377791]>
+				<[float64][heading][84.00]>
+				<[string8][name][Pasina start]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][WW55_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

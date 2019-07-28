@@ -1,76 +1,78 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Yardea Airport]>
-        <[string8][lname][Yardea Airport, AU]>
-        <[string8][icao][AU87]>
-        <[string8][country][us]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][135.485591 -32.411891]>
-        <[float64][height][209.1]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][135.482981 -32.410102]>
-        <[float64][tower_height][210.9]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][17]>
-                <[tmvector2d][threshold1][135.485122 -32.408277]>
-                <[tmvector2d][endpoint1][135.485122 -32.408277]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][35]>
-                <[tmvector2d][threshold2][135.486061 -32.415505]>
-                <[tmvector2d][endpoint2][135.486061 -32.415505]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][28.04]>
-            >
-            <[tmsimulator_runway][element][1]
-                <[string8][name1][11]>
-                <[tmvector2d][threshold1][135.482847 -32.409800]>
-                <[tmvector2d][endpoint1][135.482847 -32.409800]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][29]>
-                <[tmvector2d][threshold2][135.492844 -32.413825]>
-                <[tmvector2d][endpoint2][135.492844 -32.413825]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][24.38]>
-            >
-            <[tmsimulator_runway][element][2]
-                <[string8][name1][05]>
-                <[tmvector2d][threshold1][135.480308 -32.414011]>
-                <[tmvector2d][endpoint1][135.480308 -32.414011]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][23]>
-                <[tmvector2d][threshold2][135.491541 -32.406331]>
-                <[tmvector2d][endpoint2][135.491541 -32.406331]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][31.09]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][135.483337 -32.410035]>
-                <[float64][heading][93.99]>
-                <[string8][name][New Ramp Start 160]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Yardea Airport]>
+		<[string8][lname][Yardea Airport, AU]>
+		<[string8][icao][AU87]>
+		<[string8][country][us]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][135.485591 -32.411891]>
+		<[float64][height][209.1]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][135.482981 -32.410102]>
+		<[float64][tower_height][210.9]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][17]>
+				<[tmvector2d][threshold1][135.485122 -32.408277]>
+				<[tmvector2d][endpoint1][135.485122 -32.408277]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][35]>
+				<[tmvector2d][threshold2][135.486061 -32.415505]>
+				<[tmvector2d][endpoint2][135.486061 -32.415505]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][28.04]>
+			>
+			<[tmsimulator_runway][element][1]
+				<[string8][name1][11]>
+				<[tmvector2d][threshold1][135.482847 -32.409800]>
+				<[tmvector2d][endpoint1][135.482847 -32.409800]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][29]>
+				<[tmvector2d][threshold2][135.492844 -32.413825]>
+				<[tmvector2d][endpoint2][135.492844 -32.413825]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][24.38]>
+			>
+			<[tmsimulator_runway][element][2]
+				<[string8][name1][05]>
+				<[tmvector2d][threshold1][135.480308 -32.414011]>
+				<[tmvector2d][endpoint1][135.480308 -32.414011]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][23]>
+				<[tmvector2d][threshold2][135.491541 -32.406331]>
+				<[tmvector2d][endpoint2][135.491541 -32.406331]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][31.09]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][135.483337 -32.410035]>
+				<[float64][heading][93.99]>
+				<[string8][name][New Ramp Start 160]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][AU87_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

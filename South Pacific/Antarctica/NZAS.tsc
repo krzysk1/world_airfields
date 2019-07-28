@@ -1,91 +1,93 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Ashburton]>
-        <[string8][lname][Ashburton, Antarctica]>
-        <[string8][icao][NZAS]>
-        <[string8][country][aq]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][171.799332 -43.904076]>
-        <[float64][height][90.8]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][171.803406 -43.905396]>
-        <[float64][tower_height][92.4]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][06]>
-                <[tmvector2d][threshold1][171.790680 -43.904457]>
-                <[tmvector2d][endpoint1][171.790680 -43.904457]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][24]>
-                <[tmvector2d][threshold2][171.807984 -43.903695]>
-                <[tmvector2d][endpoint2][171.807984 -43.903695]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][89.92]>
-            >
-            <[tmsimulator_runway][element][1]
-                <[string8][name1][34]>
-                <[tmvector2d][threshold1][171.798382 -43.898288]>
-                <[tmvector2d][endpoint1][171.798382 -43.898288]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][16]>
-                <[tmvector2d][threshold2][171.798664 -43.908002]>
-                <[tmvector2d][endpoint2][171.798664 -43.908002]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][45.11]>
-            >
-            <[tmsimulator_runway][element][2]
-                <[string8][name1][29]>
-                <[tmvector2d][threshold1][171.807968 -43.903801]>
-                <[tmvector2d][endpoint1][171.807968 -43.903801]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][11]>
-                <[tmvector2d][threshold2][171.797958 -43.898063]>
-                <[tmvector2d][endpoint2][171.797958 -43.898063]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][89.92]>
-            >
-            <[tmsimulator_runway][element][3]
-                <[string8][name1][02]>
-                <[tmvector2d][threshold1][171.798284 -43.908035]>
-                <[tmvector2d][endpoint1][171.798284 -43.908035]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][20]>
-                <[tmvector2d][threshold2][171.805720 -43.902001]>
-                <[tmvector2d][endpoint2][171.805720 -43.902001]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][60.05]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][171.802902 -43.905315]>
-                <[float64][heading][310.00]>
-                <[string8][name][Ramp]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Ashburton]>
+		<[string8][lname][Ashburton, Antarctica]>
+		<[string8][icao][NZAS]>
+		<[string8][country][aq]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][171.799332 -43.904076]>
+		<[float64][height][90.8]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][171.803406 -43.905396]>
+		<[float64][tower_height][92.4]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][06]>
+				<[tmvector2d][threshold1][171.790680 -43.904457]>
+				<[tmvector2d][endpoint1][171.790680 -43.904457]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][24]>
+				<[tmvector2d][threshold2][171.807984 -43.903695]>
+				<[tmvector2d][endpoint2][171.807984 -43.903695]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][89.92]>
+			>
+			<[tmsimulator_runway][element][1]
+				<[string8][name1][34]>
+				<[tmvector2d][threshold1][171.798382 -43.898288]>
+				<[tmvector2d][endpoint1][171.798382 -43.898288]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][16]>
+				<[tmvector2d][threshold2][171.798664 -43.908002]>
+				<[tmvector2d][endpoint2][171.798664 -43.908002]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][45.11]>
+			>
+			<[tmsimulator_runway][element][2]
+				<[string8][name1][29]>
+				<[tmvector2d][threshold1][171.807968 -43.903801]>
+				<[tmvector2d][endpoint1][171.807968 -43.903801]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][11]>
+				<[tmvector2d][threshold2][171.797958 -43.898063]>
+				<[tmvector2d][endpoint2][171.797958 -43.898063]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][89.92]>
+			>
+			<[tmsimulator_runway][element][3]
+				<[string8][name1][02]>
+				<[tmvector2d][threshold1][171.798284 -43.908035]>
+				<[tmvector2d][endpoint1][171.798284 -43.908035]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][20]>
+				<[tmvector2d][threshold2][171.805720 -43.902001]>
+				<[tmvector2d][endpoint2][171.805720 -43.902001]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][60.05]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][171.802902 -43.905315]>
+				<[float64][heading][310.00]>
+				<[string8][name][Ramp]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][NZAS_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

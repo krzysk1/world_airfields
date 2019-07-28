@@ -1,46 +1,48 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][B.C. Air]>
-        <[string8][lname][B.C. Air, NE]>
-        <[string8][icao][NE31]>
-        <[string8][country][us]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][-97.582150 42.014437]>
-        <[float64][height][487.7]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][-97.583422 42.017959]>
-        <[float64][tower_height][489.5]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][17]>
-                <[tmvector2d][threshold1][-97.582191 42.017929]>
-                <[tmvector2d][endpoint1][-97.582191 42.017929]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][35]>
-                <[tmvector2d][threshold2][-97.582109 42.010946]>
-                <[tmvector2d][endpoint2][-97.582109 42.010946]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][29.87]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][-97.583568 42.017813]>
-                <[float64][heading][55.08]>
-                <[string8][name][New Ramp Start 19]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][B.C. Air]>
+		<[string8][lname][B.C. Air, NE]>
+		<[string8][icao][NE31]>
+		<[string8][country][us]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][-97.582150 42.014437]>
+		<[float64][height][487.7]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][-97.583422 42.017959]>
+		<[float64][tower_height][489.5]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][17]>
+				<[tmvector2d][threshold1][-97.582191 42.017929]>
+				<[tmvector2d][endpoint1][-97.582191 42.017929]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][35]>
+				<[tmvector2d][threshold2][-97.582109 42.010946]>
+				<[tmvector2d][endpoint2][-97.582109 42.010946]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][29.87]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][-97.583568 42.017813]>
+				<[float64][heading][55.08]>
+				<[string8][name][New Ramp Start 19]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][NE31_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

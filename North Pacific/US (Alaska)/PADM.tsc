@@ -1,39 +1,41 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][MARSHALL DON HUNTER SR]>
-        <[string8][lname][MARSHALL DON HUNTER SR, US (Alaska)]>
-        <[string8][icao][PADM]>
-        <[string8][country][us]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][-162.026110 61.864178]>
-        <[float64][height][31.4]>
-        <[float64][size][5000]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][07]>
-                <[tmvector2d][threshold1][-162.035342 61.863794]>
-                <[tmvector2d][endpoint1][-162.035342 61.863794]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][left]>
-                <[string8][reil1][omni]>
-                <[string8][name2][25]>
-                <[tmvector2d][threshold2][-162.016878 61.864561]>
-                <[tmvector2d][endpoint2][-162.016878 61.864561]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][left]>
-                <[string8][reil2][none]>
-                <[float64][width][29.87]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][MARSHALL DON HUNTER SR]>
+		<[string8][lname][MARSHALL DON HUNTER SR, US (Alaska)]>
+		<[string8][icao][PADM]>
+		<[string8][country][us]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][-162.026110 61.864178]>
+		<[float64][height][31.4]>
+		<[float64][size][5000]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][07]>
+				<[tmvector2d][threshold1][-162.035342 61.863794]>
+				<[tmvector2d][endpoint1][-162.035342 61.863794]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][left]>
+				<[string8][reil1][omni]>
+				<[string8][name2][25]>
+				<[tmvector2d][threshold2][-162.016878 61.864561]>
+				<[tmvector2d][endpoint2][-162.016878 61.864561]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][left]>
+				<[string8][reil2][none]>
+				<[float64][width][29.87]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][PADM_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

@@ -1,46 +1,48 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Greater Green River Intergalactic Spac]>
-        <[string8][lname][Greater Green River Intergalactic Spac]>
-        <[string8][icao][48U]>
-        <[string8][country][]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][-109.489847 41.458136]>
-        <[float64][height][2189.1]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][-109.488548 41.459205]>
-        <[float64][tower_height][2190.9]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][04]>
-                <[tmvector2d][threshold1][-109.498578 41.453503]>
-                <[tmvector2d][endpoint1][-109.498578 41.453503]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][22]>
-                <[tmvector2d][threshold2][-109.481116 41.462769]>
-                <[tmvector2d][endpoint2][-109.481116 41.462769]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][46.02]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][-109.488725 41.458916]>
-                <[float64][heading][187.70]>
-                <[string8][name][New Ramp Start 58]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Greater Green River Intergalactic Spac]>
+		<[string8][lname][Greater Green River Intergalactic Spac]>
+		<[string8][icao][48U]>
+		<[string8][country][]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][-109.489847 41.458136]>
+		<[float64][height][2189.1]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][-109.488548 41.459205]>
+		<[float64][tower_height][2190.9]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][04]>
+				<[tmvector2d][threshold1][-109.498578 41.453503]>
+				<[tmvector2d][endpoint1][-109.498578 41.453503]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][22]>
+				<[tmvector2d][threshold2][-109.481116 41.462769]>
+				<[tmvector2d][endpoint2][-109.481116 41.462769]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][46.02]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][-109.488725 41.458916]>
+				<[float64][heading][187.70]>
+				<[string8][name][New Ramp Start 58]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][48U_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

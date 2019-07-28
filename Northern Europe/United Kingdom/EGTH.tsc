@@ -1,71 +1,73 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Old Warden]>
-        <[string8][lname][Old Warden, United Kingdom]>
-        <[string8][icao][EGTH]>
-        <[string8][country][gb]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][-0.319467 52.085579]>
-        <[float64][height][33.5]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][-0.323666 52.084919]>
-        <[float64][tower_height][42.7]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][03]>
-                <[tmvector2d][threshold1][-0.320350 52.084408]>
-                <[tmvector2d][endpoint1][-0.321980 52.082246]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][21]>
-                <[tmvector2d][threshold2][-0.316955 52.088912]>
-                <[tmvector2d][endpoint2][-0.316955 52.088912]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][17.98]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][-0.321629 52.088544]>
-                <[float64][heading][70.97]>
-                <[string8][name][Apron 1]>
-            >
-            <[tmsimulator_parking_position][element][1]
-                <[tmvector2d][position][-0.321465 52.088199]>
-                <[float64][heading][70.97]>
-                <[string8][name][Apron 2]>
-            >
-            <[tmsimulator_parking_position][element][2]
-                <[tmvector2d][position][-0.320381 52.089061]>
-                <[float64][heading][75.88]>
-                <[string8][name][Grass Parking 1]>
-            >
-            <[tmsimulator_parking_position][element][3]
-                <[tmvector2d][position][-0.320084 52.088921]>
-                <[float64][heading][78.85]>
-                <[string8][name][Grass Parking 2]>
-            >
-            <[tmsimulator_parking_position][element][4]
-                <[tmvector2d][position][-0.319455 52.088594]>
-                <[float64][heading][136.26]>
-                <[string8][name][Grass Parking 3]>
-            >
-            <[tmsimulator_parking_position][element][5]
-                <[tmvector2d][position][-0.319399 52.088403]>
-                <[float64][heading][130.52]>
-                <[string8][name][Grass Parking 4]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Old Warden]>
+		<[string8][lname][Old Warden, United Kingdom]>
+		<[string8][icao][EGTH]>
+		<[string8][country][gb]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][-0.319467 52.085579]>
+		<[float64][height][33.5]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][-0.323666 52.084919]>
+		<[float64][tower_height][42.7]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][03]>
+				<[tmvector2d][threshold1][-0.320350 52.084408]>
+				<[tmvector2d][endpoint1][-0.321980 52.082246]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][21]>
+				<[tmvector2d][threshold2][-0.316955 52.088912]>
+				<[tmvector2d][endpoint2][-0.316955 52.088912]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][17.98]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][-0.321629 52.088544]>
+				<[float64][heading][70.97]>
+				<[string8][name][Apron 1]>
+			>
+			<[tmsimulator_parking_position][element][1]
+				<[tmvector2d][position][-0.321465 52.088199]>
+				<[float64][heading][70.97]>
+				<[string8][name][Apron 2]>
+			>
+			<[tmsimulator_parking_position][element][2]
+				<[tmvector2d][position][-0.320381 52.089061]>
+				<[float64][heading][75.88]>
+				<[string8][name][Grass Parking 1]>
+			>
+			<[tmsimulator_parking_position][element][3]
+				<[tmvector2d][position][-0.320084 52.088921]>
+				<[float64][heading][78.85]>
+				<[string8][name][Grass Parking 2]>
+			>
+			<[tmsimulator_parking_position][element][4]
+				<[tmvector2d][position][-0.319455 52.088594]>
+				<[float64][heading][136.26]>
+				<[string8][name][Grass Parking 3]>
+			>
+			<[tmsimulator_parking_position][element][5]
+				<[tmvector2d][position][-0.319399 52.088403]>
+				<[float64][heading][130.52]>
+				<[string8][name][Grass Parking 4]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][EGTH_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

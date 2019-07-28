@@ -1,76 +1,78 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Little Buffalo Ranch]>
-        <[string8][lname][Little Buffalo Ranch, WY]>
-        <[string8][icao][WY13]>
-        <[string8][country][us]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][-105.664350 43.788617]>
-        <[float64][height][1499.3]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][-105.666524 43.789638]>
-        <[float64][tower_height][1501.1]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][05]>
-                <[tmvector2d][threshold1][-105.666552 43.786750]>
-                <[tmvector2d][endpoint1][-105.666552 43.786750]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][23]>
-                <[tmvector2d][threshold2][-105.662149 43.790485]>
-                <[tmvector2d][endpoint2][-105.662149 43.790485]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][14.02]>
-            >
-            <[tmsimulator_runway][element][1]
-                <[string8][name1][18]>
-                <[tmvector2d][threshold1][-105.664031 43.790741]>
-                <[tmvector2d][endpoint1][-105.664031 43.790741]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][36]>
-                <[tmvector2d][threshold2][-105.664439 43.783986]>
-                <[tmvector2d][endpoint2][-105.664439 43.783986]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][14.02]>
-            >
-            <[tmsimulator_runway][element][2]
-                <[string8][name1][14]>
-                <[tmvector2d][threshold1][-105.666475 43.788995]>
-                <[tmvector2d][endpoint1][-105.666475 43.788995]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][32]>
-                <[tmvector2d][threshold2][-105.662369 43.784022]>
-                <[tmvector2d][endpoint2][-105.662369 43.784022]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][13.11]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][-105.666614 43.789653]>
-                <[float64][heading][182.39]>
-                <[string8][name][New Ramp Start 5]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Little Buffalo Ranch]>
+		<[string8][lname][Little Buffalo Ranch, WY]>
+		<[string8][icao][WY13]>
+		<[string8][country][us]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][-105.664350 43.788617]>
+		<[float64][height][1499.3]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][-105.666524 43.789638]>
+		<[float64][tower_height][1501.1]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][05]>
+				<[tmvector2d][threshold1][-105.666552 43.786750]>
+				<[tmvector2d][endpoint1][-105.666552 43.786750]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][23]>
+				<[tmvector2d][threshold2][-105.662149 43.790485]>
+				<[tmvector2d][endpoint2][-105.662149 43.790485]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][14.02]>
+			>
+			<[tmsimulator_runway][element][1]
+				<[string8][name1][18]>
+				<[tmvector2d][threshold1][-105.664031 43.790741]>
+				<[tmvector2d][endpoint1][-105.664031 43.790741]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][36]>
+				<[tmvector2d][threshold2][-105.664439 43.783986]>
+				<[tmvector2d][endpoint2][-105.664439 43.783986]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][14.02]>
+			>
+			<[tmsimulator_runway][element][2]
+				<[string8][name1][14]>
+				<[tmvector2d][threshold1][-105.666475 43.788995]>
+				<[tmvector2d][endpoint1][-105.666475 43.788995]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][32]>
+				<[tmvector2d][threshold2][-105.662369 43.784022]>
+				<[tmvector2d][endpoint2][-105.662369 43.784022]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][13.11]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][-105.666614 43.789653]>
+				<[float64][heading][182.39]>
+				<[string8][name][New Ramp Start 5]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][WY13_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

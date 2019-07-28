@@ -1,39 +1,35 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Bransom Farm]>
-        <[string8][lname][Bransom Farm, Bermuda]>
-        <[string8][icao][TX42]>
-        <[string8][country][bm]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][-97.366962 32.516805]>
-        <[float64][height][243.8]>
-        <[float64][size][5000]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][05]>
-                <[tmvector2d][threshold1][-97.369461 32.515158]>
-                <[tmvector2d][endpoint1][-97.369461 32.515158]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][23]>
-                <[tmvector2d][threshold2][-97.364462 32.518452]>
-                <[tmvector2d][endpoint2][-97.364462 32.518452]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][36.58]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Bransom Farm]>
+		<[string8][lname][Bransom Farm, Bermuda]>
+		<[string8][icao][TX42]>
+		<[string8][country][bm]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][-97.366962 32.516805]>
+		<[float64][height][243.8]>
+		<[float64][size][5000]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][05]>
+				<[tmvector2d][threshold1][-97.369461 32.515158]>
+				<[tmvector2d][endpoint1][-97.369461 32.515158]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][23]>
+				<[tmvector2d][threshold2][-97.364462 32.518452]>
+				<[tmvector2d][endpoint2][-97.364462 32.518452]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][36.58]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+	>
 >

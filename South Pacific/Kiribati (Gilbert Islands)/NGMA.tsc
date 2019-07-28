@@ -1,46 +1,48 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Maiana]>
-        <[string8][lname][Maiana, Kiribati (Gilbert Islands)]>
-        <[string8][icao][NGMA]>
-        <[string8][country][ki]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][173.030873 1.004054]>
-        <[float64][height][6.1]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][173.031061 1.003292]>
-        <[float64][tower_height][7.9]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][12]>
-                <[tmvector2d][threshold1][173.027130 1.006303]>
-                <[tmvector2d][endpoint1][173.027130 1.006303]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][30]>
-                <[tmvector2d][threshold2][173.034615 1.001805]>
-                <[tmvector2d][endpoint2][173.034615 1.001805]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][24.08]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][173.030951 1.003516]>
-                <[float64][heading][79.38]>
-                <[string8][name][New Ramp Start 5]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Maiana]>
+		<[string8][lname][Maiana, Kiribati (Gilbert Islands)]>
+		<[string8][icao][NGMA]>
+		<[string8][country][ki]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][173.030873 1.004054]>
+		<[float64][height][6.1]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][173.031061 1.003292]>
+		<[float64][tower_height][7.9]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][12]>
+				<[tmvector2d][threshold1][173.027130 1.006303]>
+				<[tmvector2d][endpoint1][173.027130 1.006303]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][30]>
+				<[tmvector2d][threshold2][173.034615 1.001805]>
+				<[tmvector2d][endpoint2][173.034615 1.001805]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][24.08]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][173.030951 1.003516]>
+				<[float64][heading][79.38]>
+				<[string8][name][New Ramp Start 5]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][NGMA_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

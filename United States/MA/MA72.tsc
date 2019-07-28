@@ -1,54 +1,50 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Tuckernuck]>
-        <[string8][lname][Tuckernuck, MA]>
-        <[string8][icao][MA72]>
-        <[string8][country][us]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][-70.264463 41.288457]>
-        <[float64][height][9.1]>
-        <[float64][size][5000]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][05]>
-                <[tmvector2d][threshold1][-70.266233 41.286058]>
-                <[tmvector2d][endpoint1][-70.266233 41.286058]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][23]>
-                <[tmvector2d][threshold2][-70.262694 41.290856]>
-                <[tmvector2d][endpoint2][-70.262694 41.290856]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][6.10]>
-            >
-            <[tmsimulator_runway][element][1]
-                <[string8][name1][32]>
-                <[tmvector2d][threshold1][-70.261271 41.287127]>
-                <[tmvector2d][endpoint1][-70.261271 41.287127]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][14]>
-                <[tmvector2d][threshold2][-70.267656 41.289787]>
-                <[tmvector2d][endpoint2][-70.267656 41.289787]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][6.10]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Tuckernuck]>
+		<[string8][lname][Tuckernuck, MA]>
+		<[string8][icao][MA72]>
+		<[string8][country][us]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][-70.264463 41.288457]>
+		<[float64][height][9.1]>
+		<[float64][size][5000]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][05]>
+				<[tmvector2d][threshold1][-70.266233 41.286058]>
+				<[tmvector2d][endpoint1][-70.266233 41.286058]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][23]>
+				<[tmvector2d][threshold2][-70.262694 41.290856]>
+				<[tmvector2d][endpoint2][-70.262694 41.290856]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][6.10]>
+			>
+			<[tmsimulator_runway][element][1]
+				<[string8][name1][32]>
+				<[tmvector2d][threshold1][-70.261271 41.287127]>
+				<[tmvector2d][endpoint1][-70.261271 41.287127]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][14]>
+				<[tmvector2d][threshold2][-70.267656 41.289787]>
+				<[tmvector2d][endpoint2][-70.267656 41.289787]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][6.10]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+	>
 >

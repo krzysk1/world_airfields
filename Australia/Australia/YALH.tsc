@@ -1,61 +1,63 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][ALBILBAH]>
-        <[string8][lname][ALBILBAH, Australia]>
-        <[string8][icao][YALH]>
-        <[string8][country][au]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][144.291083 -24.708200]>
-        <[float64][height][231.3]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][144.288608 -24.706633]>
-        <[float64][tower_height][233.2]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][12]>
-                <[tmvector2d][threshold1][144.289066 -24.706720]>
-                <[tmvector2d][endpoint1][144.289066 -24.706720]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][30]>
-                <[tmvector2d][threshold2][144.293099 -24.709679]>
-                <[tmvector2d][endpoint2][144.293099 -24.709679]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][20.12]>
-            >
-            <[tmsimulator_runway][element][1]
-                <[string8][name1][3]>
-                <[tmvector2d][threshold1][144.288296 -24.715479]>
-                <[tmvector2d][endpoint1][144.288296 -24.715479]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][21]>
-                <[tmvector2d][threshold2][144.293029 -24.709529]>
-                <[tmvector2d][endpoint2][144.293029 -24.709529]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][39.01]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][144.288573 -24.706537]>
-                <[float64][heading][90.43]>
-                <[string8][name][New Ramp Start 34]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][ALBILBAH]>
+		<[string8][lname][ALBILBAH, Australia]>
+		<[string8][icao][YALH]>
+		<[string8][country][au]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][144.291083 -24.708200]>
+		<[float64][height][231.3]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][144.288608 -24.706633]>
+		<[float64][tower_height][233.2]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][12]>
+				<[tmvector2d][threshold1][144.289066 -24.706720]>
+				<[tmvector2d][endpoint1][144.289066 -24.706720]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][30]>
+				<[tmvector2d][threshold2][144.293099 -24.709679]>
+				<[tmvector2d][endpoint2][144.293099 -24.709679]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][20.12]>
+			>
+			<[tmsimulator_runway][element][1]
+				<[string8][name1][3]>
+				<[tmvector2d][threshold1][144.288296 -24.715479]>
+				<[tmvector2d][endpoint1][144.288296 -24.715479]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][21]>
+				<[tmvector2d][threshold2][144.293029 -24.709529]>
+				<[tmvector2d][endpoint2][144.293029 -24.709529]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][39.01]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][144.288573 -24.706537]>
+				<[float64][heading][90.43]>
+				<[string8][name][New Ramp Start 34]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][YALH_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

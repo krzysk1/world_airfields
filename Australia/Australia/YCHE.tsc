@@ -1,46 +1,48 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][CASHMERE DOWNS STN]>
-        <[string8][lname][CASHMERE DOWNS STN, Australia]>
-        <[string8][icao][YCHE]>
-        <[string8][country][au]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][119.570986 -28.951398]>
-        <[float64][height][457.8]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][119.575005 -28.952033]>
-        <[float64][tower_height][459.6]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][8]>
-                <[tmvector2d][threshold1][119.565418 -28.951579]>
-                <[tmvector2d][endpoint1][119.565418 -28.951579]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][26]>
-                <[tmvector2d][threshold2][119.576554 -28.951218]>
-                <[tmvector2d][endpoint2][119.576554 -28.951218]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][38.10]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][119.574803 -28.951655]>
-                <[float64][heading][0.00]>
-                <[string8][name][New Ramp Start 70]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][CASHMERE DOWNS STN]>
+		<[string8][lname][CASHMERE DOWNS STN, Australia]>
+		<[string8][icao][YCHE]>
+		<[string8][country][au]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][119.570986 -28.951398]>
+		<[float64][height][457.8]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][119.575005 -28.952033]>
+		<[float64][tower_height][459.6]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][8]>
+				<[tmvector2d][threshold1][119.565418 -28.951579]>
+				<[tmvector2d][endpoint1][119.565418 -28.951579]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][26]>
+				<[tmvector2d][threshold2][119.576554 -28.951218]>
+				<[tmvector2d][endpoint2][119.576554 -28.951218]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][38.10]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][119.574803 -28.951655]>
+				<[float64][heading][0.00]>
+				<[string8][name][New Ramp Start 70]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][YCHE_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

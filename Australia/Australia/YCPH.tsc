@@ -1,61 +1,63 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][COPPER HILLS]>
-        <[string8][lname][COPPER HILLS, Australia]>
-        <[string8][icao][YCPH]>
-        <[string8][country][au]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][134.335607 -27.949506]>
-        <[float64][height][228.0]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][134.337475 -27.950815]>
-        <[float64][tower_height][229.8]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][8]>
-                <[tmvector2d][threshold1][134.329481 -27.949616]>
-                <[tmvector2d][endpoint1][134.329481 -27.949616]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][26]>
-                <[tmvector2d][threshold2][134.341733 -27.949396]>
-                <[tmvector2d][endpoint2][134.341733 -27.949396]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][27.13]>
-            >
-            <[tmsimulator_runway][element][1]
-                <[string8][name1][16]>
-                <[tmvector2d][threshold1][134.336144 -27.948446]>
-                <[tmvector2d][endpoint1][134.336144 -27.948446]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][34]>
-                <[tmvector2d][threshold2][134.337253 -27.951272]>
-                <[tmvector2d][endpoint2][134.337253 -27.951272]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][21.03]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][134.337533 -27.949818]>
-                <[float64][heading][0.00]>
-                <[string8][name][New Ramp Start 57]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][COPPER HILLS]>
+		<[string8][lname][COPPER HILLS, Australia]>
+		<[string8][icao][YCPH]>
+		<[string8][country][au]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][134.335607 -27.949506]>
+		<[float64][height][228.0]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][134.337475 -27.950815]>
+		<[float64][tower_height][229.8]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][8]>
+				<[tmvector2d][threshold1][134.329481 -27.949616]>
+				<[tmvector2d][endpoint1][134.329481 -27.949616]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][26]>
+				<[tmvector2d][threshold2][134.341733 -27.949396]>
+				<[tmvector2d][endpoint2][134.341733 -27.949396]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][27.13]>
+			>
+			<[tmsimulator_runway][element][1]
+				<[string8][name1][16]>
+				<[tmvector2d][threshold1][134.336144 -27.948446]>
+				<[tmvector2d][endpoint1][134.336144 -27.948446]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][34]>
+				<[tmvector2d][threshold2][134.337253 -27.951272]>
+				<[tmvector2d][endpoint2][134.337253 -27.951272]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][21.03]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][134.337533 -27.949818]>
+				<[float64][heading][0.00]>
+				<[string8][name][New Ramp Start 57]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][YCPH_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

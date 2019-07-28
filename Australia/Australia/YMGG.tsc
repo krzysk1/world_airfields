@@ -1,76 +1,78 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][MULGATHING]>
-        <[string8][lname][MULGATHING, Australia]>
-        <[string8][icao][YMGG]>
-        <[string8][country][au]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][133.987868 -30.228170]>
-        <[float64][height][210.3]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][133.987610 -30.228096]>
-        <[float64][tower_height][212.1]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][2]>
-                <[tmvector2d][threshold1][133.985713 -30.231707]>
-                <[tmvector2d][endpoint1][133.985713 -30.231707]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][20]>
-                <[tmvector2d][threshold2][133.990022 -30.224634]>
-                <[tmvector2d][endpoint2][133.990022 -30.224634]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][28.96]>
-            >
-            <[tmsimulator_runway][element][1]
-                <[string8][name1][8]>
-                <[tmvector2d][threshold1][133.986622 -30.227354]>
-                <[tmvector2d][endpoint1][133.986622 -30.227354]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][26]>
-                <[tmvector2d][threshold2][133.992800 -30.227303]>
-                <[tmvector2d][endpoint2][133.992800 -30.227303]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][32.00]>
-            >
-            <[tmsimulator_runway][element][2]
-                <[string8][name1][18]>
-                <[tmvector2d][threshold1][133.988284 -30.218447]>
-                <[tmvector2d][endpoint1][133.988284 -30.218447]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][36]>
-                <[tmvector2d][threshold2][133.988267 -30.232533]>
-                <[tmvector2d][endpoint2][133.988267 -30.232533]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][35.05]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][133.987441 -30.228316]>
-                <[float64][heading][107.47]>
-                <[string8][name][New Ramp Start 4]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][MULGATHING]>
+		<[string8][lname][MULGATHING, Australia]>
+		<[string8][icao][YMGG]>
+		<[string8][country][au]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][133.987868 -30.228170]>
+		<[float64][height][210.3]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][133.987610 -30.228096]>
+		<[float64][tower_height][212.1]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][2]>
+				<[tmvector2d][threshold1][133.985713 -30.231707]>
+				<[tmvector2d][endpoint1][133.985713 -30.231707]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][20]>
+				<[tmvector2d][threshold2][133.990022 -30.224634]>
+				<[tmvector2d][endpoint2][133.990022 -30.224634]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][28.96]>
+			>
+			<[tmsimulator_runway][element][1]
+				<[string8][name1][8]>
+				<[tmvector2d][threshold1][133.986622 -30.227354]>
+				<[tmvector2d][endpoint1][133.986622 -30.227354]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][26]>
+				<[tmvector2d][threshold2][133.992800 -30.227303]>
+				<[tmvector2d][endpoint2][133.992800 -30.227303]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][32.00]>
+			>
+			<[tmsimulator_runway][element][2]
+				<[string8][name1][18]>
+				<[tmvector2d][threshold1][133.988284 -30.218447]>
+				<[tmvector2d][endpoint1][133.988284 -30.218447]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][36]>
+				<[tmvector2d][threshold2][133.988267 -30.232533]>
+				<[tmvector2d][endpoint2][133.988267 -30.232533]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][35.05]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][133.987441 -30.228316]>
+				<[float64][heading][107.47]>
+				<[string8][name][New Ramp Start 4]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][YMGG_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

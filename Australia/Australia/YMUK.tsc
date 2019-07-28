@@ -1,46 +1,48 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][MULKA]>
-        <[string8][lname][MULKA, Australia]>
-        <[string8][icao][YMUK]>
-        <[string8][country][au]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][138.649371 -28.347716]>
-        <[float64][height][53.9]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][138.652877 -28.350856]>
-        <[float64][tower_height][55.8]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][12]>
-                <[tmvector2d][threshold1][138.644749 -28.344469]>
-                <[tmvector2d][endpoint1][138.644749 -28.344469]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][30]>
-                <[tmvector2d][threshold2][138.653993 -28.350963]>
-                <[tmvector2d][endpoint2][138.653993 -28.350963]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][49.99]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][138.653186 -28.350886]>
-                <[float64][heading][0.00]>
-                <[string8][name][New Ramp Start 19]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][MULKA]>
+		<[string8][lname][MULKA, Australia]>
+		<[string8][icao][YMUK]>
+		<[string8][country][au]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][138.649371 -28.347716]>
+		<[float64][height][53.9]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][138.652877 -28.350856]>
+		<[float64][tower_height][55.8]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][12]>
+				<[tmvector2d][threshold1][138.644749 -28.344469]>
+				<[tmvector2d][endpoint1][138.644749 -28.344469]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][30]>
+				<[tmvector2d][threshold2][138.653993 -28.350963]>
+				<[tmvector2d][endpoint2][138.653993 -28.350963]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][49.99]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][138.653186 -28.350886]>
+				<[float64][heading][0.00]>
+				<[string8][name][New Ramp Start 19]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][YMUK_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

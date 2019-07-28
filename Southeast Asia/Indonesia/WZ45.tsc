@@ -1,46 +1,48 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Komopa (AMA)]>
-        <[string8][lname][Komopa (AMA), Indonesia]>
-        <[string8][icao][WZ45]>
-        <[string8][country][id]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][136.477417 -3.799882]>
-        <[float64][height][1770.9]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][136.478179 -3.799615]>
-        <[float64][tower_height][1772.4]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][6]>
-                <[tmvector2d][threshold1][136.475343 -3.801247]>
-                <[tmvector2d][endpoint1][136.475343 -3.801247]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][24]>
-                <[tmvector2d][threshold2][136.479491 -3.798517]>
-                <[tmvector2d][endpoint2][136.479491 -3.798517]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][32.00]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][136.478037 -3.799473]>
-                <[float64][heading][56.60]>
-                <[string8][name][Komopa Start]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Komopa (AMA)]>
+		<[string8][lname][Komopa (AMA), Indonesia]>
+		<[string8][icao][WZ45]>
+		<[string8][country][id]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][136.477417 -3.799882]>
+		<[float64][height][1770.9]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][136.478179 -3.799615]>
+		<[float64][tower_height][1772.4]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][6]>
+				<[tmvector2d][threshold1][136.475343 -3.801247]>
+				<[tmvector2d][endpoint1][136.475343 -3.801247]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][24]>
+				<[tmvector2d][threshold2][136.479491 -3.798517]>
+				<[tmvector2d][endpoint2][136.479491 -3.798517]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][32.00]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][136.478037 -3.799473]>
+				<[float64][heading][56.60]>
+				<[string8][name][Komopa Start]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][WZ45_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

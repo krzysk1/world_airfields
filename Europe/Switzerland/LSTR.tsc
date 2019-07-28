@@ -1,46 +1,48 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Montricher]>
-        <[string8][lname][Montricher, Switzerland]>
-        <[string8][icao][LSTR]>
-        <[string8][country][ch]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][6.400608 46.590231]>
-        <[float64][height][663.9]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][6.402542 46.589980]>
-        <[float64][tower_height][688.8]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][03]>
-                <[tmvector2d][threshold1][6.402717 46.592968]>
-                <[tmvector2d][endpoint1][6.402717 46.592968]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][21]>
-                <[tmvector2d][threshold2][6.398741 46.587808]>
-                <[tmvector2d][endpoint2][6.398499 46.587494]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][49.99]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][6.401702 46.589824]>
-                <[float64][heading][292.56]>
-                <[string8][name][Montricher Ramp]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Montricher]>
+		<[string8][lname][Montricher, Switzerland]>
+		<[string8][icao][LSTR]>
+		<[string8][country][ch]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][6.400608 46.590231]>
+		<[float64][height][663.9]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][6.402542 46.589980]>
+		<[float64][tower_height][688.8]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][03]>
+				<[tmvector2d][threshold1][6.402717 46.592968]>
+				<[tmvector2d][endpoint1][6.402717 46.592968]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][21]>
+				<[tmvector2d][threshold2][6.398741 46.587808]>
+				<[tmvector2d][endpoint2][6.398499 46.587494]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][49.99]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][6.401702 46.589824]>
+				<[float64][heading][292.56]>
+				<[string8][name][Montricher Ramp]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][LSTR_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

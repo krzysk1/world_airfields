@@ -1,39 +1,35 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Apple River]>
-        <[string8][lname][Apple River, Canada]>
-        <[string8][icao][CCA7]>
-        <[string8][country][ca]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][-64.821389 45.461944]>
-        <[float64][height][41.1]>
-        <[float64][size][5000]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][09]>
-                <[tmvector2d][threshold1][-64.826036 45.460879]>
-                <[tmvector2d][endpoint1][-64.826036 45.460879]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][27]>
-                <[tmvector2d][threshold2][-64.816743 45.463009]>
-                <[tmvector2d][endpoint2][-64.816743 45.463009]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][14.94]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Apple River]>
+		<[string8][lname][Apple River, Canada]>
+		<[string8][icao][CCA7]>
+		<[string8][country][ca]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][-64.821389 45.461944]>
+		<[float64][height][41.1]>
+		<[float64][size][5000]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][09]>
+				<[tmvector2d][threshold1][-64.826036 45.460879]>
+				<[tmvector2d][endpoint1][-64.826036 45.460879]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][27]>
+				<[tmvector2d][threshold2][-64.816743 45.463009]>
+				<[tmvector2d][endpoint2][-64.816743 45.463009]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][14.94]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+	>
 >

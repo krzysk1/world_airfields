@@ -1,44 +1,46 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Feurs Chambeon]>
-        <[string8][lname][Feurs Chambeon, France]>
-        <[string8][icao][LFLZ]>
-        <[string8][country][fr]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][4.201870 45.707277]>
-        <[float64][height][334.1]>
-        <[float64][size][5000]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][16]>
-                <[tmvector2d][threshold1][4.199120 45.711046]>
-                <[tmvector2d][endpoint1][4.199120 45.711046]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][34]>
-                <[tmvector2d][threshold2][4.204620 45.703508]>
-                <[tmvector2d][endpoint2][4.204620 45.703508]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][60.05]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][4.197829 45.707157]>
-                <[float64][heading][0.00]>
-                <[string8][name][Custom Startup Location]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Feurs Chambeon]>
+		<[string8][lname][Feurs Chambeon, France]>
+		<[string8][icao][LFLZ]>
+		<[string8][country][fr]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][4.201870 45.707277]>
+		<[float64][height][334.1]>
+		<[float64][size][5000]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][16]>
+				<[tmvector2d][threshold1][4.199120 45.711046]>
+				<[tmvector2d][endpoint1][4.199120 45.711046]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][34]>
+				<[tmvector2d][threshold2][4.204620 45.703508]>
+				<[tmvector2d][endpoint2][4.204620 45.703508]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][60.05]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][4.197829 45.707157]>
+				<[float64][heading][0.00]>
+				<[string8][name][Custom Startup Location]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][LFLZ_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

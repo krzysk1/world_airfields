@@ -1,61 +1,63 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Murnpeowie]>
-        <[string8][lname][Murnpeowie, Australia]>
-        <[string8][icao][YMNP]>
-        <[string8][country][au]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][139.051008 -29.594572]>
-        <[float64][height][95.1]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][139.051229 -29.589676]>
-        <[float64][tower_height][96.9]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][01]>
-                <[tmvector2d][threshold1][139.052412 -29.590580]>
-                <[tmvector2d][endpoint1][139.052412 -29.590580]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][19]>
-                <[tmvector2d][threshold2][139.049605 -29.598564]>
-                <[tmvector2d][endpoint2][139.049605 -29.598564]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][35.05]>
-            >
-            <[tmsimulator_runway][element][1]
-                <[string8][name1][10]>
-                <[tmvector2d][threshold1][139.049727 -29.591262]>
-                <[tmvector2d][endpoint1][139.049727 -29.591262]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][28]>
-                <[tmvector2d][threshold2][139.057396 -29.592859]>
-                <[tmvector2d][endpoint2][139.057396 -29.592859]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][42.06]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][139.052029 -29.590839]>
-                <[float64][heading][182.49]>
-                <[string8][name][New Ramp Start 6]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Murnpeowie]>
+		<[string8][lname][Murnpeowie, Australia]>
+		<[string8][icao][YMNP]>
+		<[string8][country][au]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][139.051008 -29.594572]>
+		<[float64][height][95.1]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][139.051229 -29.589676]>
+		<[float64][tower_height][96.9]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][01]>
+				<[tmvector2d][threshold1][139.052412 -29.590580]>
+				<[tmvector2d][endpoint1][139.052412 -29.590580]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][19]>
+				<[tmvector2d][threshold2][139.049605 -29.598564]>
+				<[tmvector2d][endpoint2][139.049605 -29.598564]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][35.05]>
+			>
+			<[tmsimulator_runway][element][1]
+				<[string8][name1][10]>
+				<[tmvector2d][threshold1][139.049727 -29.591262]>
+				<[tmvector2d][endpoint1][139.049727 -29.591262]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][28]>
+				<[tmvector2d][threshold2][139.057396 -29.592859]>
+				<[tmvector2d][endpoint2][139.057396 -29.592859]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][42.06]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][139.052029 -29.590839]>
+				<[float64][heading][182.49]>
+				<[string8][name][New Ramp Start 6]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][YMNP_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

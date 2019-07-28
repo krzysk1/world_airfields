@@ -1,46 +1,48 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Lueneburg]>
-        <[string8][lname][Lueneburg, Germany (civil)]>
-        <[string8][icao][EDHG]>
-        <[string8][country][de]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][10.458667 53.248333]>
-        <[float64][height][49.1]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][10.455741 53.246957]>
-        <[float64][tower_height][57.9]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][09]>
-                <[tmvector2d][threshold1][10.451618 53.247044]>
-                <[tmvector2d][endpoint1][10.451618 53.247044]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][27]>
-                <[tmvector2d][threshold2][10.465715 53.249623]>
-                <[tmvector2d][endpoint2][10.465715 53.249623]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][29.87]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][10.455428 53.247013]>
-                <[float64][heading][6.95]>
-                <[string8][name][Ramp Start]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Lueneburg]>
+		<[string8][lname][Lueneburg, Germany (civil)]>
+		<[string8][icao][EDHG]>
+		<[string8][country][de]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][10.458667 53.248333]>
+		<[float64][height][49.1]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][10.455741 53.246957]>
+		<[float64][tower_height][57.9]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][09]>
+				<[tmvector2d][threshold1][10.451618 53.247044]>
+				<[tmvector2d][endpoint1][10.451618 53.247044]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][27]>
+				<[tmvector2d][threshold2][10.465715 53.249623]>
+				<[tmvector2d][endpoint2][10.465715 53.249623]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][29.87]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][10.455428 53.247013]>
+				<[float64][heading][6.95]>
+				<[string8][name][Ramp Start]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][EDHG_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

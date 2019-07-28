@@ -1,41 +1,43 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Borgarfjordur Eystri]>
-        <[string8][lname][Borgarfjordur Eystri, Iceland]>
-        <[string8][icao][BIBF]>
-        <[string8][country][is]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][-13.815585 65.516929]>
-        <[float64][height][24.4]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][-13.816197 65.513608]>
-        <[float64][tower_height][49.4]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][01]>
-                <[tmvector2d][threshold1][-13.817179 65.521074]>
-                <[tmvector2d][endpoint1][-13.817179 65.521074]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][19]>
-                <[tmvector2d][threshold2][-13.813991 65.512784]>
-                <[tmvector2d][endpoint2][-13.813991 65.512784]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][24.99]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Borgarfjordur Eystri]>
+		<[string8][lname][Borgarfjordur Eystri, Iceland]>
+		<[string8][icao][BIBF]>
+		<[string8][country][is]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][-13.815585 65.516929]>
+		<[float64][height][24.4]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][-13.816197 65.513608]>
+		<[float64][tower_height][49.4]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][01]>
+				<[tmvector2d][threshold1][-13.817179 65.521074]>
+				<[tmvector2d][endpoint1][-13.817179 65.521074]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][19]>
+				<[tmvector2d][threshold2][-13.813991 65.512784]>
+				<[tmvector2d][endpoint2][-13.813991 65.512784]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][24.99]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][BIBF_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

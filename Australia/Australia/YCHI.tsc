@@ -1,46 +1,48 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][CAPE SHIELD (DJARRAKPI)]>
-        <[string8][lname][CAPE SHIELD (DJARRAKPI), Australia]>
-        <[string8][icao][YCHI]>
-        <[string8][country][au]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][136.354833 -13.287830]>
-        <[float64][height][30.8]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][136.356795 -13.289856]>
-        <[float64][tower_height][32.6]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][14]>
-                <[tmvector2d][threshold1][136.352722 -13.284997]>
-                <[tmvector2d][endpoint1][136.352722 -13.284997]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][32]>
-                <[tmvector2d][threshold2][136.356943 -13.290664]>
-                <[tmvector2d][endpoint2][136.356943 -13.290664]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][49.99]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][136.356750 -13.290604]>
-                <[float64][heading][0.00]>
-                <[string8][name][New Ramp Start 73]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][CAPE SHIELD (DJARRAKPI)]>
+		<[string8][lname][CAPE SHIELD (DJARRAKPI), Australia]>
+		<[string8][icao][YCHI]>
+		<[string8][country][au]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][136.354833 -13.287830]>
+		<[float64][height][30.8]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][136.356795 -13.289856]>
+		<[float64][tower_height][32.6]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][14]>
+				<[tmvector2d][threshold1][136.352722 -13.284997]>
+				<[tmvector2d][endpoint1][136.352722 -13.284997]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][32]>
+				<[tmvector2d][threshold2][136.356943 -13.290664]>
+				<[tmvector2d][endpoint2][136.356943 -13.290664]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][49.99]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][136.356750 -13.290604]>
+				<[float64][heading][0.00]>
+				<[string8][name][New Ramp Start 73]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][YCHI_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

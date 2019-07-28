@@ -1,46 +1,48 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Gas Hills Airstrip]>
-        <[string8][lname][Gas Hills Airstrip, WY]>
-        <[string8][icao][WY61]>
-        <[string8][country][us]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][-107.489165 42.868622]>
-        <[float64][height][2121.4]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][-107.492491 42.862845]>
-        <[float64][tower_height][2123.2]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][05]>
-                <[tmvector2d][threshold1][-107.492790 42.861945]>
-                <[tmvector2d][endpoint1][-107.492790 42.861945]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][23]>
-                <[tmvector2d][threshold2][-107.485539 42.875298]>
-                <[tmvector2d][endpoint2][-107.485539 42.875298]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][22.86]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][-107.492717 42.861951]>
-                <[float64][heading][347.85]>
-                <[string8][name][New Ramp Start 1]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Gas Hills Airstrip]>
+		<[string8][lname][Gas Hills Airstrip, WY]>
+		<[string8][icao][WY61]>
+		<[string8][country][us]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][-107.489165 42.868622]>
+		<[float64][height][2121.4]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][-107.492491 42.862845]>
+		<[float64][tower_height][2123.2]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][05]>
+				<[tmvector2d][threshold1][-107.492790 42.861945]>
+				<[tmvector2d][endpoint1][-107.492790 42.861945]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][23]>
+				<[tmvector2d][threshold2][-107.485539 42.875298]>
+				<[tmvector2d][endpoint2][-107.485539 42.875298]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][22.86]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][-107.492717 42.861951]>
+				<[float64][heading][347.85]>
+				<[string8][name][New Ramp Start 1]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][WY61_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

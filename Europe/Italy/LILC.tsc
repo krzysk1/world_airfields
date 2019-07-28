@@ -1,46 +1,48 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Calcinate del Pesce]>
-        <[string8][lname][Calcinate del Pesce, Italy]>
-        <[string8][icao][LILC]>
-        <[string8][country][it]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][8.768333 45.809167]>
-        <[float64][height][242.9]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][8.764207 45.811317]>
-        <[float64][tower_height][242.9]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][28]>
-                <[tmvector2d][threshold1][8.772134 45.808652]>
-                <[tmvector2d][endpoint1][8.772134 45.808652]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][10]>
-                <[tmvector2d][threshold2][8.764532 45.809682]>
-                <[tmvector2d][endpoint2][8.764532 45.809682]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][49.99]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][8.769032 45.809948]>
-                <[float64][heading][191.00]>
-                <[string8][name][Ramp]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Calcinate del Pesce]>
+		<[string8][lname][Calcinate del Pesce, Italy]>
+		<[string8][icao][LILC]>
+		<[string8][country][it]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][8.768333 45.809167]>
+		<[float64][height][242.9]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][8.764207 45.811317]>
+		<[float64][tower_height][242.9]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][28]>
+				<[tmvector2d][threshold1][8.772134 45.808652]>
+				<[tmvector2d][endpoint1][8.772134 45.808652]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][10]>
+				<[tmvector2d][threshold2][8.764532 45.809682]>
+				<[tmvector2d][endpoint2][8.764532 45.809682]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][49.99]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][8.769032 45.809948]>
+				<[float64][heading][191.00]>
+				<[string8][name][Ramp]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][LILC_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

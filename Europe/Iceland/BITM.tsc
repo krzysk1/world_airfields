@@ -1,54 +1,50 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Thorsmork]>
-        <[string8][lname][Thorsmork, Iceland]>
-        <[string8][icao][BITM]>
-        <[string8][country][is]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][-19.583334 63.683331]>
-        <[float64][height][182.0]>
-        <[float64][size][5000]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][07]>
-                <[tmvector2d][threshold1][-19.590006 63.682195]>
-                <[tmvector2d][endpoint1][-19.590006 63.682195]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][25]>
-                <[tmvector2d][threshold2][-19.576662 63.684466]>
-                <[tmvector2d][endpoint2][-19.576662 63.684466]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][24.69]>
-            >
-            <[tmsimulator_runway][element][1]
-                <[string8][name1][09]>
-                <[tmvector2d][threshold1][-19.570788 63.688966]>
-                <[tmvector2d][endpoint1][-19.570788 63.688966]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][27]>
-                <[tmvector2d][threshold2][-19.555754 63.690866]>
-                <[tmvector2d][endpoint2][-19.555754 63.690866]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][28.04]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Thorsmork]>
+		<[string8][lname][Thorsmork, Iceland]>
+		<[string8][icao][BITM]>
+		<[string8][country][is]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][-19.583334 63.683331]>
+		<[float64][height][182.0]>
+		<[float64][size][5000]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][07]>
+				<[tmvector2d][threshold1][-19.590006 63.682195]>
+				<[tmvector2d][endpoint1][-19.590006 63.682195]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][25]>
+				<[tmvector2d][threshold2][-19.576662 63.684466]>
+				<[tmvector2d][endpoint2][-19.576662 63.684466]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][24.69]>
+			>
+			<[tmsimulator_runway][element][1]
+				<[string8][name1][09]>
+				<[tmvector2d][threshold1][-19.570788 63.688966]>
+				<[tmvector2d][endpoint1][-19.570788 63.688966]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][27]>
+				<[tmvector2d][threshold2][-19.555754 63.690866]>
+				<[tmvector2d][endpoint2][-19.555754 63.690866]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][28.04]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+	>
 >

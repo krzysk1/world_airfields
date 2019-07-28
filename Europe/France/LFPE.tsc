@@ -1,84 +1,86 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Meaux Esbly]>
-        <[string8][lname][Meaux Esbly, France]>
-        <[string8][icao][LFPE]>
-        <[string8][country][fr]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][2.836525 48.929066]>
-        <[float64][height][66.1]>
-        <[float64][size][5000]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][07L]>
-                <[tmvector2d][threshold1][2.829306 48.927053]>
-                <[tmvector2d][endpoint1][2.829306 48.927053]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][25R]>
-                <[tmvector2d][threshold2][2.843744 48.931079]>
-                <[tmvector2d][endpoint2][2.843744 48.931079]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][99.97]>
-            >
-            <[tmsimulator_runway][element][1]
-                <[string8][name1][16L]>
-                <[tmvector2d][threshold1][2.835070 48.930941]>
-                <[tmvector2d][endpoint1][2.835070 48.930941]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][34R]>
-                <[tmvector2d][threshold2][2.840528 48.922493]>
-                <[tmvector2d][endpoint2][2.840528 48.922493]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][99.97]>
-            >
-            <[tmsimulator_runway][element][2]
-                <[string8][name1][16R]>
-                <[tmvector2d][threshold1][2.833731 48.929664]>
-                <[tmvector2d][endpoint1][2.833731 48.929664]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][34L]>
-                <[tmvector2d][threshold2][2.839195 48.921206]>
-                <[tmvector2d][endpoint2][2.839195 48.921206]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][99.97]>
-            >
-            <[tmsimulator_runway][element][3]
-                <[string8][name1][07R]>
-                <[tmvector2d][threshold1][2.831042 48.926110]>
-                <[tmvector2d][endpoint1][2.831042 48.926110]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][25L]>
-                <[tmvector2d][threshold2][2.844596 48.929890]>
-                <[tmvector2d][endpoint2][2.844596 48.929890]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][99.97]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Meaux Esbly]>
+		<[string8][lname][Meaux Esbly, France]>
+		<[string8][icao][LFPE]>
+		<[string8][country][fr]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][2.836525 48.929066]>
+		<[float64][height][66.1]>
+		<[float64][size][5000]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][07L]>
+				<[tmvector2d][threshold1][2.829306 48.927053]>
+				<[tmvector2d][endpoint1][2.829306 48.927053]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][25R]>
+				<[tmvector2d][threshold2][2.843744 48.931079]>
+				<[tmvector2d][endpoint2][2.843744 48.931079]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][99.97]>
+			>
+			<[tmsimulator_runway][element][1]
+				<[string8][name1][16L]>
+				<[tmvector2d][threshold1][2.835070 48.930941]>
+				<[tmvector2d][endpoint1][2.835070 48.930941]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][34R]>
+				<[tmvector2d][threshold2][2.840528 48.922493]>
+				<[tmvector2d][endpoint2][2.840528 48.922493]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][99.97]>
+			>
+			<[tmsimulator_runway][element][2]
+				<[string8][name1][16R]>
+				<[tmvector2d][threshold1][2.833731 48.929664]>
+				<[tmvector2d][endpoint1][2.833731 48.929664]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][34L]>
+				<[tmvector2d][threshold2][2.839195 48.921206]>
+				<[tmvector2d][endpoint2][2.839195 48.921206]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][99.97]>
+			>
+			<[tmsimulator_runway][element][3]
+				<[string8][name1][07R]>
+				<[tmvector2d][threshold1][2.831042 48.926110]>
+				<[tmvector2d][endpoint1][2.831042 48.926110]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][25L]>
+				<[tmvector2d][threshold2][2.844596 48.929890]>
+				<[tmvector2d][endpoint2][2.844596 48.929890]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][99.97]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][LFPE_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

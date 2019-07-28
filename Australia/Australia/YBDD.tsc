@@ -1,61 +1,63 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][BRAIDWOOD (QLD)]>
-        <[string8][lname][BRAIDWOOD (QLD), Australia]>
-        <[string8][icao][YBDD]>
-        <[string8][country][au]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][143.006958 -24.809656]>
-        <[float64][height][147.5]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][143.010990 -24.811020]>
-        <[float64][tower_height][149.4]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][2]>
-                <[tmvector2d][threshold1][143.006021 -24.811977]>
-                <[tmvector2d][endpoint1][143.006021 -24.811977]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][20]>
-                <[tmvector2d][threshold2][143.007896 -24.807335]>
-                <[tmvector2d][endpoint2][143.007896 -24.807335]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][17.98]>
-            >
-            <[tmsimulator_runway][element][1]
-                <[string8][name1][8]>
-                <[tmvector2d][threshold1][143.002493 -24.810256]>
-                <[tmvector2d][endpoint1][143.002493 -24.810256]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][26]>
-                <[tmvector2d][threshold2][143.008252 -24.810195]>
-                <[tmvector2d][endpoint2][143.008252 -24.810195]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][28.04]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][143.010640 -24.810934]>
-                <[float64][heading][0.00]>
-                <[string8][name][New Ramp Start 44]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][BRAIDWOOD (QLD)]>
+		<[string8][lname][BRAIDWOOD (QLD), Australia]>
+		<[string8][icao][YBDD]>
+		<[string8][country][au]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][143.006958 -24.809656]>
+		<[float64][height][147.5]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][143.010990 -24.811020]>
+		<[float64][tower_height][149.4]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][2]>
+				<[tmvector2d][threshold1][143.006021 -24.811977]>
+				<[tmvector2d][endpoint1][143.006021 -24.811977]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][20]>
+				<[tmvector2d][threshold2][143.007896 -24.807335]>
+				<[tmvector2d][endpoint2][143.007896 -24.807335]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][17.98]>
+			>
+			<[tmsimulator_runway][element][1]
+				<[string8][name1][8]>
+				<[tmvector2d][threshold1][143.002493 -24.810256]>
+				<[tmvector2d][endpoint1][143.002493 -24.810256]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][26]>
+				<[tmvector2d][threshold2][143.008252 -24.810195]>
+				<[tmvector2d][endpoint2][143.008252 -24.810195]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][28.04]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][143.010640 -24.810934]>
+				<[float64][heading][0.00]>
+				<[string8][name][New Ramp Start 44]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][YBDD_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

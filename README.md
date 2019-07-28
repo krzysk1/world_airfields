@@ -2,6 +2,8 @@
  World generic turf/grass airfields for Aerofly FS2 (scenery)
  
 	15333 airfields created
+	1307 beacon lights created
+	3301 control towers created		
  
  To instal just unzip all or selected airport files/countries into '\Documents\Aerofly FS 2\scenery\places\' folder.
  

@@ -1,51 +1,53 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Chauvigny]>
-        <[string8][lname][Chauvigny, France]>
-        <[string8][icao][LFDW]>
-        <[string8][country][fr]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][0.642335 46.583368]>
-        <[float64][height][134.1]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][0.642302 46.581509]>
-        <[float64][tower_height][142.0]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][5]>
-                <[tmvector2d][threshold1][0.638722 46.581161]>
-                <[tmvector2d][endpoint1][0.638722 46.581161]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][23]>
-                <[tmvector2d][threshold2][0.645948 46.585574]>
-                <[tmvector2d][endpoint2][0.645948 46.585574]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][81.99]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][0.641885 46.581379]>
-                <[float64][heading][225.12]>
-                <[string8][name][Hangar W]>
-            >
-            <[tmsimulator_parking_position][element][1]
-                <[tmvector2d][position][0.643037 46.581808]>
-                <[float64][heading][200.18]>
-                <[string8][name][Hangars E]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Chauvigny]>
+		<[string8][lname][Chauvigny, France]>
+		<[string8][icao][LFDW]>
+		<[string8][country][fr]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][0.642335 46.583368]>
+		<[float64][height][134.1]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][0.642302 46.581509]>
+		<[float64][tower_height][142.0]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][5]>
+				<[tmvector2d][threshold1][0.638722 46.581161]>
+				<[tmvector2d][endpoint1][0.638722 46.581161]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][23]>
+				<[tmvector2d][threshold2][0.645948 46.585574]>
+				<[tmvector2d][endpoint2][0.645948 46.585574]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][81.99]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][0.641885 46.581379]>
+				<[float64][heading][225.12]>
+				<[string8][name][Hangar W]>
+			>
+			<[tmsimulator_parking_position][element][1]
+				<[tmvector2d][position][0.643037 46.581808]>
+				<[float64][heading][200.18]>
+				<[string8][name][Hangars E]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][LFDW_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

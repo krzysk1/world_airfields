@@ -1,76 +1,78 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][NUNTHERUNGIE]>
-        <[string8][lname][NUNTHERUNGIE, Australia]>
-        <[string8][icao][YNUN]>
-        <[string8][country][au]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][142.487524 -30.808485]>
-        <[float64][height][209.4]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][142.480173 -30.803410]>
-        <[float64][tower_height][211.2]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][13]>
-                <[tmvector2d][threshold1][142.482576 -30.804574]>
-                <[tmvector2d][endpoint1][142.482576 -30.804574]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][31]>
-                <[tmvector2d][threshold2][142.492471 -30.812395]>
-                <[tmvector2d][endpoint2][142.492471 -30.812395]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][21.95]>
-            >
-            <[tmsimulator_runway][element][1]
-                <[string8][name1][17]>
-                <[tmvector2d][threshold1][142.489622 -30.805742]>
-                <[tmvector2d][endpoint1][142.489622 -30.805742]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][35]>
-                <[tmvector2d][threshold2][142.490147 -30.810632]>
-                <[tmvector2d][endpoint2][142.490147 -30.810632]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][21.03]>
-            >
-            <[tmsimulator_runway][element][2]
-                <[string8][name1][9]>
-                <[tmvector2d][threshold1][142.484543 -30.809356]>
-                <[tmvector2d][endpoint1][142.484543 -30.809356]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][27]>
-                <[tmvector2d][threshold2][142.495163 -30.809857]>
-                <[tmvector2d][endpoint2][142.495163 -30.809857]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][28.04]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][142.482283 -30.804409]>
-                <[float64][heading][0.00]>
-                <[string8][name][New Ramp Start 21]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][NUNTHERUNGIE]>
+		<[string8][lname][NUNTHERUNGIE, Australia]>
+		<[string8][icao][YNUN]>
+		<[string8][country][au]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][142.487524 -30.808485]>
+		<[float64][height][209.4]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][142.480173 -30.803410]>
+		<[float64][tower_height][211.2]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][13]>
+				<[tmvector2d][threshold1][142.482576 -30.804574]>
+				<[tmvector2d][endpoint1][142.482576 -30.804574]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][31]>
+				<[tmvector2d][threshold2][142.492471 -30.812395]>
+				<[tmvector2d][endpoint2][142.492471 -30.812395]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][21.95]>
+			>
+			<[tmsimulator_runway][element][1]
+				<[string8][name1][17]>
+				<[tmvector2d][threshold1][142.489622 -30.805742]>
+				<[tmvector2d][endpoint1][142.489622 -30.805742]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][35]>
+				<[tmvector2d][threshold2][142.490147 -30.810632]>
+				<[tmvector2d][endpoint2][142.490147 -30.810632]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][21.03]>
+			>
+			<[tmsimulator_runway][element][2]
+				<[string8][name1][9]>
+				<[tmvector2d][threshold1][142.484543 -30.809356]>
+				<[tmvector2d][endpoint1][142.484543 -30.809356]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][27]>
+				<[tmvector2d][threshold2][142.495163 -30.809857]>
+				<[tmvector2d][endpoint2][142.495163 -30.809857]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][28.04]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][142.482283 -30.804409]>
+				<[float64][heading][0.00]>
+				<[string8][name][New Ramp Start 21]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][YNUN_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

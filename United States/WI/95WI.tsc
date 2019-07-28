@@ -1,54 +1,56 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Mueller Farm-Vintage Aero]>
-        <[string8][lname][Mueller Farm-Vintage Aero, WI]>
-        <[string8][icao][95WI]>
-        <[string8][country][us]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][-87.618694 44.238329]>
-        <[float64][height][207.3]>
-        <[float64][size][5000]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][09]>
-                <[tmvector2d][threshold1][-87.621564 44.238257]>
-                <[tmvector2d][endpoint1][-87.621564 44.238257]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][27]>
-                <[tmvector2d][threshold2][-87.615824 44.238400]>
-                <[tmvector2d][endpoint2][-87.615824 44.238400]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][15.24]>
-            >
-            <[tmsimulator_runway][element][1]
-                <[string8][name1][18]>
-                <[tmvector2d][threshold1][-87.618757 44.239631]>
-                <[tmvector2d][endpoint1][-87.618757 44.239631]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][36]>
-                <[tmvector2d][threshold2][-87.618630 44.237026]>
-                <[tmvector2d][endpoint2][-87.618630 44.237026]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][12.19]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Mueller Farm-Vintage Aero]>
+		<[string8][lname][Mueller Farm-Vintage Aero, WI]>
+		<[string8][icao][95WI]>
+		<[string8][country][us]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][-87.618694 44.238329]>
+		<[float64][height][207.3]>
+		<[float64][size][5000]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][09]>
+				<[tmvector2d][threshold1][-87.621564 44.238257]>
+				<[tmvector2d][endpoint1][-87.621564 44.238257]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][27]>
+				<[tmvector2d][threshold2][-87.615824 44.238400]>
+				<[tmvector2d][endpoint2][-87.615824 44.238400]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][15.24]>
+			>
+			<[tmsimulator_runway][element][1]
+				<[string8][name1][18]>
+				<[tmvector2d][threshold1][-87.618757 44.239631]>
+				<[tmvector2d][endpoint1][-87.618757 44.239631]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][36]>
+				<[tmvector2d][threshold2][-87.618630 44.237026]>
+				<[tmvector2d][endpoint2][-87.618630 44.237026]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][12.19]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][95WI_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

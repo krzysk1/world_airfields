@@ -1,54 +1,50 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Fisher]>
-        <[string8][lname][Fisher]>
-        <[string8][icao][28D]>
-        <[string8][country][]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][-79.830889 41.494501]>
-        <[float64][height][457.2]>
-        <[float64][size][5000]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][03]>
-                <[tmvector2d][threshold1][-79.832659 41.491220]>
-                <[tmvector2d][endpoint1][-79.832659 41.491220]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][21]>
-                <[tmvector2d][threshold2][-79.829119 41.497782]>
-                <[tmvector2d][endpoint2][-79.829119 41.497782]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][27.43]>
-            >
-            <[tmsimulator_runway][element][1]
-                <[string8][name1][10]>
-                <[tmvector2d][threshold1][-79.835556 41.494623]>
-                <[tmvector2d][endpoint1][-79.835556 41.494623]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][28]>
-                <[tmvector2d][threshold2][-79.826223 41.494379]>
-                <[tmvector2d][endpoint2][-79.826223 41.494379]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][38.10]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Fisher]>
+		<[string8][lname][Fisher]>
+		<[string8][icao][28D]>
+		<[string8][country][]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][-79.830889 41.494501]>
+		<[float64][height][457.2]>
+		<[float64][size][5000]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][03]>
+				<[tmvector2d][threshold1][-79.832659 41.491220]>
+				<[tmvector2d][endpoint1][-79.832659 41.491220]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][21]>
+				<[tmvector2d][threshold2][-79.829119 41.497782]>
+				<[tmvector2d][endpoint2][-79.829119 41.497782]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][27.43]>
+			>
+			<[tmsimulator_runway][element][1]
+				<[string8][name1][10]>
+				<[tmvector2d][threshold1][-79.835556 41.494623]>
+				<[tmvector2d][endpoint1][-79.835556 41.494623]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][28]>
+				<[tmvector2d][threshold2][-79.826223 41.494379]>
+				<[tmvector2d][endpoint2][-79.826223 41.494379]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][38.10]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+	>
 >

@@ -1,61 +1,63 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][GEEBUNG]>
-        <[string8][lname][GEEBUNG, Australia]>
-        <[string8][icao][YGEE]>
-        <[string8][country][au]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][127.350006 -14.206689]>
-        <[float64][height][116.7]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][127.353665 -14.206867]>
-        <[float64][tower_height][118.6]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][17]>
-                <[tmvector2d][threshold1][127.350000 -14.206667]>
-                <[tmvector2d][endpoint1][127.350000 -14.206667]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][35]>
-                <[tmvector2d][threshold2][127.350011 -14.206711]>
-                <[tmvector2d][endpoint2][127.350011 -14.206711]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][39.93]>
-            >
-            <[tmsimulator_runway][element][1]
-                <[string8][name1][12]>
-                <[tmvector2d][threshold1][127.344378 -14.199908]>
-                <[tmvector2d][endpoint1][127.344378 -14.199908]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][30]>
-                <[tmvector2d][threshold2][127.353724 -14.206336]>
-                <[tmvector2d][endpoint2][127.353724 -14.206336]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][49.99]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][127.353409 -14.206186]>
-                <[float64][heading][0.00]>
-                <[string8][name][New Ramp Start 41]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][GEEBUNG]>
+		<[string8][lname][GEEBUNG, Australia]>
+		<[string8][icao][YGEE]>
+		<[string8][country][au]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][127.350006 -14.206689]>
+		<[float64][height][116.7]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][127.353665 -14.206867]>
+		<[float64][tower_height][118.6]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][17]>
+				<[tmvector2d][threshold1][127.350000 -14.206667]>
+				<[tmvector2d][endpoint1][127.350000 -14.206667]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][35]>
+				<[tmvector2d][threshold2][127.350011 -14.206711]>
+				<[tmvector2d][endpoint2][127.350011 -14.206711]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][39.93]>
+			>
+			<[tmsimulator_runway][element][1]
+				<[string8][name1][12]>
+				<[tmvector2d][threshold1][127.344378 -14.199908]>
+				<[tmvector2d][endpoint1][127.344378 -14.199908]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][30]>
+				<[tmvector2d][threshold2][127.353724 -14.206336]>
+				<[tmvector2d][endpoint2][127.353724 -14.206336]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][49.99]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][127.353409 -14.206186]>
+				<[float64][heading][0.00]>
+				<[string8][name][New Ramp Start 41]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][YGEE_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

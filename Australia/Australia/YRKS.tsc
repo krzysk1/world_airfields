@@ -1,46 +1,48 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][ROCKLANDS]>
-        <[string8][lname][ROCKLANDS, Australia]>
-        <[string8][icao][YRKS]>
-        <[string8][country][au]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][138.104687 -19.870236]>
-        <[float64][height][239.3]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][138.103065 -19.864848]>
-        <[float64][tower_height][241.1]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][16]>
-                <[tmvector2d][threshold1][138.103640 -19.865095]>
-                <[tmvector2d][endpoint1][138.103640 -19.865095]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][34]>
-                <[tmvector2d][threshold2][138.105733 -19.875378]>
-                <[tmvector2d][endpoint2][138.105733 -19.875378]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][31.09]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][138.103834 -19.864915]>
-                <[float64][heading][206.14]>
-                <[string8][name][New Ramp Start 44]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][ROCKLANDS]>
+		<[string8][lname][ROCKLANDS, Australia]>
+		<[string8][icao][YRKS]>
+		<[string8][country][au]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][138.104687 -19.870236]>
+		<[float64][height][239.3]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][138.103065 -19.864848]>
+		<[float64][tower_height][241.1]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][16]>
+				<[tmvector2d][threshold1][138.103640 -19.865095]>
+				<[tmvector2d][endpoint1][138.103640 -19.865095]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][34]>
+				<[tmvector2d][threshold2][138.105733 -19.875378]>
+				<[tmvector2d][endpoint2][138.105733 -19.875378]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][31.09]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][138.103834 -19.864915]>
+				<[float64][heading][206.14]>
+				<[string8][name][New Ramp Start 44]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][YRKS_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

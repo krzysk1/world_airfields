@@ -1,39 +1,35 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Sandvik Mellanlanda]>
-        <[string8][lname][Sandvik Mellanlanda, Sweden]>
-        <[string8][icao][ESFS]>
-        <[string8][country][se]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][16.864162 57.068333]>
-        <[float64][height][4.9]>
-        <[float64][size][5000]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][35]>
-                <[tmvector2d][threshold1][16.864939 57.065667]>
-                <[tmvector2d][endpoint1][16.864939 57.065667]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][17]>
-                <[tmvector2d][threshold2][16.863386 57.070999]>
-                <[tmvector2d][endpoint2][16.863386 57.070999]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][24.99]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Sandvik Mellanlanda]>
+		<[string8][lname][Sandvik Mellanlanda, Sweden]>
+		<[string8][icao][ESFS]>
+		<[string8][country][se]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][16.864162 57.068333]>
+		<[float64][height][4.9]>
+		<[float64][size][5000]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][35]>
+				<[tmvector2d][threshold1][16.864939 57.065667]>
+				<[tmvector2d][endpoint1][16.864939 57.065667]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][17]>
+				<[tmvector2d][threshold2][16.863386 57.070999]>
+				<[tmvector2d][endpoint2][16.863386 57.070999]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][24.99]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+	>
 >

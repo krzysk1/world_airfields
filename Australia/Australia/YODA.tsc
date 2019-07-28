@@ -1,46 +1,48 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Ooldea]>
-        <[string8][lname][Ooldea, Australia]>
-        <[string8][icao][YODA]>
-        <[string8][country][au]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][131.823128 -30.456906]>
-        <[float64][height][111.9]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][131.827553 -30.458256]>
-        <[float64][tower_height][113.7]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][09]>
-                <[tmvector2d][threshold1][131.816516 -30.456292]>
-                <[tmvector2d][endpoint1][131.816516 -30.456292]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][27]>
-                <[tmvector2d][threshold2][131.829740 -30.457521]>
-                <[tmvector2d][endpoint2][131.829740 -30.457521]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][91.14]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][131.827845 -30.458128]>
-                <[float64][heading][349.82]>
-                <[string8][name][New Ramp Start 5]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Ooldea]>
+		<[string8][lname][Ooldea, Australia]>
+		<[string8][icao][YODA]>
+		<[string8][country][au]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][131.823128 -30.456906]>
+		<[float64][height][111.9]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][131.827553 -30.458256]>
+		<[float64][tower_height][113.7]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][09]>
+				<[tmvector2d][threshold1][131.816516 -30.456292]>
+				<[tmvector2d][endpoint1][131.816516 -30.456292]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][27]>
+				<[tmvector2d][threshold2][131.829740 -30.457521]>
+				<[tmvector2d][endpoint2][131.829740 -30.457521]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][91.14]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][131.827845 -30.458128]>
+				<[float64][heading][349.82]>
+				<[string8][name][New Ramp Start 5]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][YODA_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

@@ -1,46 +1,48 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][LAKE JINDABYNE WATER]>
-        <[string8][lname][LAKE JINDABYNE WATER, Australia]>
-        <[string8][icao][YLJY]>
-        <[string8][country][au]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][148.602930 -36.372400]>
-        <[float64][height][961.3]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][148.599867 -36.373984]>
-        <[float64][tower_height][963.2]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][4]>
-                <[tmvector2d][threshold1][148.600154 -36.374253]>
-                <[tmvector2d][endpoint1][148.600154 -36.374253]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][22]>
-                <[tmvector2d][threshold2][148.605706 -36.370547]>
-                <[tmvector2d][endpoint2][148.605706 -36.370547]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][29.87]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][148.600339 -36.374263]>
-                <[float64][heading][0.00]>
-                <[string8][name][New Ramp Start 33]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][LAKE JINDABYNE WATER]>
+		<[string8][lname][LAKE JINDABYNE WATER, Australia]>
+		<[string8][icao][YLJY]>
+		<[string8][country][au]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][148.602930 -36.372400]>
+		<[float64][height][961.3]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][148.599867 -36.373984]>
+		<[float64][tower_height][963.2]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][4]>
+				<[tmvector2d][threshold1][148.600154 -36.374253]>
+				<[tmvector2d][endpoint1][148.600154 -36.374253]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][22]>
+				<[tmvector2d][threshold2][148.605706 -36.370547]>
+				<[tmvector2d][endpoint2][148.605706 -36.370547]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][29.87]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][148.600339 -36.374263]>
+				<[float64][heading][0.00]>
+				<[string8][name][New Ramp Start 33]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][YLJY_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

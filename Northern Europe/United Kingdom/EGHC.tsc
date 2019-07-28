@@ -1,101 +1,103 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Lands End St Just]>
-        <[string8][lname][Lands End St Just, United Kingdom]>
-        <[string8][icao][EGHC]>
-        <[string8][country][gb]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][-5.670508 50.102803]>
-        <[float64][height][122.2]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][-5.668115 50.102333]>
-        <[float64][tower_height][125.0]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][17]>
-                <[tmvector2d][threshold1][-5.672582 50.106147]>
-                <[tmvector2d][endpoint1][-5.672582 50.106147]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][left]>
-                <[string8][reil1][none]>
-                <[string8][name2][35]>
-                <[tmvector2d][threshold2][-5.668433 50.099458]>
-                <[tmvector2d][endpoint2][-5.668433 50.099458]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][left]>
-                <[string8][reil2][none]>
-                <[float64][width][35.97]>
-            >
-            <[tmsimulator_runway][element][1]
-                <[string8][name1][07]>
-                <[tmvector2d][threshold1][-5.678625 50.101464]>
-                <[tmvector2d][endpoint1][-5.678625 50.101464]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][left]>
-                <[string8][reil1][none]>
-                <[string8][name2][25]>
-                <[tmvector2d][threshold2][-5.669755 50.104156]>
-                <[tmvector2d][endpoint2][-5.669755 50.104156]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][left]>
-                <[string8][reil2][none]>
-                <[float64][width][35.97]>
-            >
-            <[tmsimulator_runway][element][2]
-                <[string8][name1][03]>
-                <[tmvector2d][threshold1][-5.674267 50.101122]>
-                <[tmvector2d][endpoint1][-5.674267 50.101122]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][left]>
-                <[string8][reil1][none]>
-                <[string8][name2][21]>
-                <[tmvector2d][threshold2][-5.671494 50.106120]>
-                <[tmvector2d][endpoint2][-5.671494 50.106120]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][left]>
-                <[string8][reil2][none]>
-                <[float64][width][17.98]>
-            >
-            <[tmsimulator_runway][element][3]
-                <[string8][name1][12]>
-                <[tmvector2d][threshold1][-5.675356 50.102724]>
-                <[tmvector2d][endpoint1][-5.675356 50.102724]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][left]>
-                <[string8][reil1][none]>
-                <[string8][name2][30]>
-                <[tmvector2d][threshold2][-5.669125 50.101044]>
-                <[tmvector2d][endpoint2][-5.669125 50.101044]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][left]>
-                <[string8][reil2][none]>
-                <[float64][width][17.98]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][-5.668670 50.101451]>
-                <[float64][heading][60.04]>
-                <[string8][name][Apron 1]>
-            >
-            <[tmsimulator_parking_position][element][1]
-                <[tmvector2d][position][-5.667950 50.102026]>
-                <[float64][heading][235.97]>
-                <[string8][name][Apron 2]>
-            >
-            <[tmsimulator_parking_position][element][2]
-                <[tmvector2d][position][-5.669048 50.102026]>
-                <[float64][heading][64.13]>
-                <[string8][name][Grass Parking]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Lands End St Just]>
+		<[string8][lname][Lands End St Just, United Kingdom]>
+		<[string8][icao][EGHC]>
+		<[string8][country][gb]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][-5.670508 50.102803]>
+		<[float64][height][122.2]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][-5.668115 50.102333]>
+		<[float64][tower_height][125.0]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][17]>
+				<[tmvector2d][threshold1][-5.672582 50.106147]>
+				<[tmvector2d][endpoint1][-5.672582 50.106147]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][left]>
+				<[string8][reil1][none]>
+				<[string8][name2][35]>
+				<[tmvector2d][threshold2][-5.668433 50.099458]>
+				<[tmvector2d][endpoint2][-5.668433 50.099458]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][left]>
+				<[string8][reil2][none]>
+				<[float64][width][35.97]>
+			>
+			<[tmsimulator_runway][element][1]
+				<[string8][name1][07]>
+				<[tmvector2d][threshold1][-5.678625 50.101464]>
+				<[tmvector2d][endpoint1][-5.678625 50.101464]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][left]>
+				<[string8][reil1][none]>
+				<[string8][name2][25]>
+				<[tmvector2d][threshold2][-5.669755 50.104156]>
+				<[tmvector2d][endpoint2][-5.669755 50.104156]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][left]>
+				<[string8][reil2][none]>
+				<[float64][width][35.97]>
+			>
+			<[tmsimulator_runway][element][2]
+				<[string8][name1][03]>
+				<[tmvector2d][threshold1][-5.674267 50.101122]>
+				<[tmvector2d][endpoint1][-5.674267 50.101122]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][left]>
+				<[string8][reil1][none]>
+				<[string8][name2][21]>
+				<[tmvector2d][threshold2][-5.671494 50.106120]>
+				<[tmvector2d][endpoint2][-5.671494 50.106120]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][left]>
+				<[string8][reil2][none]>
+				<[float64][width][17.98]>
+			>
+			<[tmsimulator_runway][element][3]
+				<[string8][name1][12]>
+				<[tmvector2d][threshold1][-5.675356 50.102724]>
+				<[tmvector2d][endpoint1][-5.675356 50.102724]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][left]>
+				<[string8][reil1][none]>
+				<[string8][name2][30]>
+				<[tmvector2d][threshold2][-5.669125 50.101044]>
+				<[tmvector2d][endpoint2][-5.669125 50.101044]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][left]>
+				<[string8][reil2][none]>
+				<[float64][width][17.98]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][-5.668670 50.101451]>
+				<[float64][heading][60.04]>
+				<[string8][name][Apron 1]>
+			>
+			<[tmsimulator_parking_position][element][1]
+				<[tmvector2d][position][-5.667950 50.102026]>
+				<[float64][heading][235.97]>
+				<[string8][name][Apron 2]>
+			>
+			<[tmsimulator_parking_position][element][2]
+				<[tmvector2d][position][-5.669048 50.102026]>
+				<[float64][heading][64.13]>
+				<[string8][name][Grass Parking]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][EGHC_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

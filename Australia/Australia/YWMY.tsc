@@ -1,61 +1,63 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][WILLIAMBURY]>
-        <[string8][lname][WILLIAMBURY, Australia]>
-        <[string8][icao][YWMY]>
-        <[string8][country][au]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][115.141902 -23.857386]>
-        <[float64][height][199.0]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][115.145134 -23.857017]>
-        <[float64][tower_height][200.9]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][5]>
-                <[tmvector2d][threshold1][115.138355 -23.859956]>
-                <[tmvector2d][endpoint1][115.138355 -23.859956]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][23]>
-                <[tmvector2d][threshold2][115.145448 -23.854816]>
-                <[tmvector2d][endpoint2][115.145448 -23.854816]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][29.87]>
-            >
-            <[tmsimulator_runway][element][1]
-                <[string8][name1][11]>
-                <[tmvector2d][threshold1][115.140680 -23.856052]>
-                <[tmvector2d][endpoint1][115.140680 -23.856052]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][29]>
-                <[tmvector2d][threshold2][115.145820 -23.857821]>
-                <[tmvector2d][endpoint2][115.145820 -23.857821]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][36.88]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][115.146559 -23.857886]>
-                <[float64][heading][277.13]>
-                <[string8][name][New Ramp Start 1]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][WILLIAMBURY]>
+		<[string8][lname][WILLIAMBURY, Australia]>
+		<[string8][icao][YWMY]>
+		<[string8][country][au]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][115.141902 -23.857386]>
+		<[float64][height][199.0]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][115.145134 -23.857017]>
+		<[float64][tower_height][200.9]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][5]>
+				<[tmvector2d][threshold1][115.138355 -23.859956]>
+				<[tmvector2d][endpoint1][115.138355 -23.859956]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][23]>
+				<[tmvector2d][threshold2][115.145448 -23.854816]>
+				<[tmvector2d][endpoint2][115.145448 -23.854816]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][29.87]>
+			>
+			<[tmsimulator_runway][element][1]
+				<[string8][name1][11]>
+				<[tmvector2d][threshold1][115.140680 -23.856052]>
+				<[tmvector2d][endpoint1][115.140680 -23.856052]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][29]>
+				<[tmvector2d][threshold2][115.145820 -23.857821]>
+				<[tmvector2d][endpoint2][115.145820 -23.857821]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][36.88]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][115.146559 -23.857886]>
+				<[float64][heading][277.13]>
+				<[string8][name][New Ramp Start 1]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][YWMY_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

@@ -1,39 +1,35 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Fazenda Sao Bento]>
-        <[string8][lname][Fazenda Sao Bento, Brazil]>
-        <[string8][icao][SJSD]>
-        <[string8][country][br]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][-55.128333 -21.072778]>
-        <[float64][height][540.1]>
-        <[float64][size][5000]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][09]>
-                <[tmvector2d][threshold1][-55.133884 -21.074361]>
-                <[tmvector2d][endpoint1][-55.133884 -21.074361]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][27]>
-                <[tmvector2d][threshold2][-55.122783 -21.071195]>
-                <[tmvector2d][endpoint2][-55.122783 -21.071195]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][24.08]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Fazenda Sao Bento]>
+		<[string8][lname][Fazenda Sao Bento, Brazil]>
+		<[string8][icao][SJSD]>
+		<[string8][country][br]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][-55.128333 -21.072778]>
+		<[float64][height][540.1]>
+		<[float64][size][5000]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][09]>
+				<[tmvector2d][threshold1][-55.133884 -21.074361]>
+				<[tmvector2d][endpoint1][-55.133884 -21.074361]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][27]>
+				<[tmvector2d][threshold2][-55.122783 -21.071195]>
+				<[tmvector2d][endpoint2][-55.122783 -21.071195]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][24.08]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+	>
 >

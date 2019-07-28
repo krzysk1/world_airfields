@@ -1,51 +1,53 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][Agua Buena]>
-        <[string8][lname][Agua Buena, Chile]>
-        <[string8][icao][SCKO]>
-        <[string8][country][cl]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][-72.250053 -37.993970]>
-        <[float64][height][373.7]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][-72.249534 -37.992959]>
-        <[float64][tower_height][398.7]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][18]>
-                <[tmvector2d][threshold1][-72.250997 -37.996566]>
-                <[tmvector2d][endpoint1][-72.250997 -37.996566]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][36]>
-                <[tmvector2d][threshold2][-72.249108 -37.991374]>
-                <[tmvector2d][endpoint2][-72.249108 -37.991374]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][15.85]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][-72.248819 -37.990958]>
-                <[float64][heading][215.54]>
-                <[string8][name][Start North]>
-            >
-            <[tmsimulator_parking_position][element][1]
-                <[tmvector2d][position][-72.251215 -37.996664]>
-                <[float64][heading][56.31]>
-                <[string8][name][Start Ramp South]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][Agua Buena]>
+		<[string8][lname][Agua Buena, Chile]>
+		<[string8][icao][SCKO]>
+		<[string8][country][cl]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][-72.250053 -37.993970]>
+		<[float64][height][373.7]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][-72.249534 -37.992959]>
+		<[float64][tower_height][398.7]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][18]>
+				<[tmvector2d][threshold1][-72.250997 -37.996566]>
+				<[tmvector2d][endpoint1][-72.250997 -37.996566]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][36]>
+				<[tmvector2d][threshold2][-72.249108 -37.991374]>
+				<[tmvector2d][endpoint2][-72.249108 -37.991374]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][15.85]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][-72.248819 -37.990958]>
+				<[float64][heading][215.54]>
+				<[string8][name][Start North]>
+			>
+			<[tmsimulator_parking_position][element][1]
+				<[tmvector2d][position][-72.251215 -37.996664]>
+				<[float64][heading][56.31]>
+				<[string8][name][Start Ramp South]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][SCKO_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >
